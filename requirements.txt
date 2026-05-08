@@ -1,0 +1,8 @@
+requests
+beautifulsoup4
+pdf2image
+pillow
+opencv-python
+easyocr
+torch --index-url https://download.pytorch.org/whl/cpu
+torchvision --index-url https://download.pytorch.org/whl/cpu
