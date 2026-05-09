@@ -4,5 +4,6 @@ pdf2image
 pillow
 opencv-python
 easyocr
+numpy
 torch --index-url https://download.pytorch.org/whl/cpu
 torchvision --index-url https://download.pytorch.org/whl/cpu
