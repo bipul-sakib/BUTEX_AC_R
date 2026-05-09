@@ -3,154 +3,320 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>BUTEX Affiliated Result Portal</title>
-    <script src="https://cdn.tailwindcss.com"></script>
-    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600;800&display=swap" rel="stylesheet">
+    <title>TTEC & NTEC Result System</title>
     <style>
-        body { font-family: 'Inter', sans-serif; background-color: #f1f5f9; }
-        .glass { background: rgba(255, 255, 255, 0.95); backdrop-filter: blur(8px); }
-        .animate-up { animation: slideUp 0.4s ease-out; }
-        @keyframes slideUp {
-            from { opacity: 0; transform: translateY(20px); }
+        :root {
+            --primary-color: #0056b3;
+            --bg-color: #f4f7f6;
+            --card-bg: #ffffff;
+            --text-color: #333333;
+        }
+
+        body {
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            background-color: var(--bg-color);
+            color: var(--text-color);
+            margin: 0;
+            padding: 0;
+        }
+
+        .container {
+            max-width: 800px;
+            margin: 40px auto;
+            padding: 30px;
+            background: var(--card-bg);
+            border-radius: 10px;
+            box-shadow: 0 8px 16px rgba(0,0,0,0.1);
+        }
+
+        h1 {
+            text-align: center;
+            color: var(--primary-color);
+            margin-bottom: 30px;
+        }
+
+        .search-container {
+            display: flex;
+            gap: 15px;
+            margin-bottom: 30px;
+        }
+
+        input[type="text"] {
+            flex: 1;
+            padding: 12px 20px;
+            font-size: 16px;
+            border: 2px solid #ddd;
+            border-radius: 6px;
+            outline: none;
+            transition: border-color 0.3s;
+        }
+
+        input[type="text"]:focus {
+            border-color: var(--primary-color);
+        }
+
+        button {
+            padding: 12px 30px;
+            font-size: 16px;
+            background-color: var(--primary-color);
+            color: white;
+            border: none;
+            border-radius: 6px;
+            cursor: pointer;
+            transition: background-color 0.3s;
+            font-weight: bold;
+        }
+
+        button:hover {
+            background-color: #004494;
+        }
+
+        .error-msg {
+            color: #d9534f;
+            text-align: center;
+            font-weight: bold;
+            display: none;
+            margin-bottom: 20px;
+            padding: 10px;
+            background: #fdf2f2;
+            border-radius: 5px;
+        }
+
+        #resultArea {
+            display: none;
+            animation: fadeIn 0.5s;
+        }
+
+        @keyframes fadeIn {
+            from { opacity: 0; transform: translateY(10px); }
             to { opacity: 1; transform: translateY(0); }
+        }
+
+        .profile-card {
+            background: #e9f2fb;
+            padding: 20px;
+            border-radius: 8px;
+            margin-bottom: 30px;
+            display: grid;
+            grid-template-columns: 1fr 1fr;
+            gap: 15px;
+            border-left: 5px solid var(--primary-color);
+        }
+
+        .profile-card p {
+            margin: 5px 0;
+            font-size: 15px;
+        }
+
+        .profile-card strong {
+            color: var(--primary-color);
+        }
+
+        .cgpa-highlight {
+            grid-column: span 2;
+            font-size: 18px;
+            font-weight: bold;
+            color: #28a745;
+            text-align: center;
+            margin-top: 10px;
+            padding-top: 10px;
+            border-top: 1px solid #ccddef;
+        }
+
+        h3 {
+            color: var(--primary-color);
+            border-bottom: 2px solid var(--primary-color);
+            padding-bottom: 5px;
+            display: inline-block;
+        }
+
+        table {
+            width: 100%;
+            border-collapse: collapse;
+            margin-bottom: 30px;
+            background: white;
+        }
+
+        th, td {
+            border: 1px solid #ddd;
+            padding: 12px 15px;
+            text-align: left;
+        }
+
+        th {
+            background-color: var(--primary-color);
+            color: white;
+            font-weight: bold;
+        }
+
+        tr:nth-child(even) {
+            background-color: #f8f9fa;
+        }
+
+        tr:hover {
+            background-color: #f1f1f1;
+        }
+
+        .retake-section {
+            display: none; /* Hidden by default, shown via JS if retakes exist */
+        }
+
+        .retake-section th {
+            background-color: #dc3545; /* Reddish header for retakes */
+        }
+
+        .footer {
+            text-align: center;
+            margin-top: 40px;
+            padding-top: 20px;
+            border-top: 1px solid #ddd;
+            color: #666;
+            font-size: 14px;
+        }
+
+        .footer span {
+            font-weight: bold;
+            color: var(--primary-color);
         }
     </style>
 </head>
-<body class="p-4 md:p-10">
+<body>
 
-    <div class="max-w-3xl mx-auto">
-        <div class="text-center mb-10">
-            <h1 class="text-3xl font-extrabold text-slate-800 mb-1">Result Portal</h1>
-            <p class="text-slate-500 font-medium text-sm">Affiliated Colleges of Bangladesh University of Textiles</p>
+<div class="container">
+    <h1>Welcome to TTEC, NTEC Result System</h1>
+
+    <div class="search-container">
+        <input type="text" id="rollInput" placeholder="Enter your Roll Number (e.g. 22070401019)" onkeypress="handleKeyPress(event)">
+        <button onclick="searchResult()">Search</button>
+    </div>
+
+    <div id="errorMsg" class="error-msg">Result not found! Please check your Roll Number.</div>
+
+    <div id="resultArea">
+        <div class="profile-card">
+            <p><strong>Name:</strong> <span id="sName"></span></p>
+            <p><strong>Roll:</strong> <span id="sRoll"></span></p>
+            <p><strong>College:</strong> <span id="sCollege"></span></p>
+            <p><strong>Department:</strong> <span id="sDept"></span></p>
+            <p><strong>Batch:</strong> <span id="sBatch"></span></p>
+            <p class="cgpa-highlight">Total CGPA: <span id="sCgpa"></span></p>
         </div>
 
-        <div class="glass p-4 rounded-2xl shadow-lg flex flex-col md:flex-row gap-3 mb-8">
-            <input type="text" id="rollInput" placeholder="Enter 10 or 11 Digit Roll Number..." 
-                class="flex-1 px-5 py-3 rounded-xl border border-slate-200 outline-none focus:ring-2 focus:ring-blue-500 font-semibold text-lg">
-            <button onclick="searchResult()" class="bg-blue-600 hover:bg-blue-700 text-white px-8 py-3 rounded-xl font-bold transition-all active:scale-95">
-                Search Result
-            </button>
-        </div>
+        <h3>Term Results</h3>
+        <table id="regularTable">
+            <thead>
+                <tr>
+                    <th>Semester</th>
+                    <th>GPA</th>
+                </tr>
+            </thead>
+            <tbody id="regularTbody">
+                </tbody>
+        </table>
 
-        <div id="resultBox" class="hidden animate-up">
-            <div class="glass rounded-2xl shadow-xl overflow-hidden mb-6">
-                <div class="bg-slate-800 p-6 text-white flex justify-between items-center">
-                    <div>
-                        <h2 id="dispName" class="text-xl font-bold uppercase tracking-tight">---</h2>
-                        <p id="dispRoll" class="text-slate-400 text-sm font-mono"></p>
-                    </div>
-                    <div id="dispBatch" class="text-xs bg-slate-700 px-3 py-1 rounded-full font-bold uppercase tracking-wider">Batch --</div>
-                </div>
-
-                <div class="p-6 grid grid-cols-1 md:grid-cols-2 gap-6 border-b border-slate-100">
-                    <div class="space-y-4">
-                        <div>
-                            <p class="text-[10px] text-slate-400 uppercase font-bold tracking-widest mb-1">College Name</p>
-                            <p id="dispCollege" class="font-bold text-slate-700 leading-tight">---</p>
-                        </div>
-                        <div>
-                            <p class="text-[10px] text-slate-400 uppercase font-bold tracking-widest mb-1">Academic Department</p>
-                            <p id="dispDept" class="font-bold text-slate-700 leading-tight">---</p>
-                        </div>
-                    </div>
-                    <div class="bg-blue-50 rounded-xl p-5 flex flex-col items-center justify-center border border-blue-100 shadow-inner">
-                        <p class="text-[10px] text-blue-600 uppercase font-bold mb-1 tracking-wider">Accumulated CGPA</p>
-                        <p id="dispCGPA" class="text-4xl font-black text-blue-900 tracking-tighter italic">0.00</p>
-                    </div>
-                </div>
-            </div>
-
-            <div class="glass rounded-2xl shadow-lg overflow-hidden border border-slate-100">
-                <div class="px-6 py-4 bg-slate-50 border-b border-slate-100 font-bold text-slate-700 text-sm flex items-center gap-2">
-                    <span>📊</span> Academic Performance History
-                </div>
-                <table class="w-full text-sm">
-                    <thead>
-                        <tr class="text-slate-400 font-bold uppercase text-[10px] tracking-widest border-b border-slate-50">
-                            <th class="px-6 py-4 text-left">Level & Term</th>
-                            <th class="px-6 py-4 text-center">Term GPA</th>
-                            <th class="px-6 py-4 text-right">Academic Status</th>
-                        </tr>
-                    </thead>
-                    <tbody id="resTableBody" class="divide-y divide-slate-50">
-                        </tbody>
-                </table>
-            </div>
-        </div>
-
-        <div id="errorMsg" class="hidden text-center mt-10">
-            <div class="inline-block bg-red-50 text-red-600 px-8 py-4 rounded-xl font-bold border border-red-100 shadow-sm">
-                ⚠️ Record not found in our result database!
-            </div>
+        <div id="retakeArea" class="retake-section">
+            <h3>Retake/Clearance Results</h3>
+            <table id="retakeTable">
+                <thead>
+                    <tr>
+                        <th>Term</th>
+                        <th>Subject</th>
+                        <th>GPA</th>
+                    </tr>
+                </thead>
+                <tbody id="retakeTbody">
+                    </tbody>
+            </table>
         </div>
     </div>
 
-    <script>
-        let db = {};
+    <div class="footer">
+        Developed & Maintained by <span>Sakib Hasan Bipul</span>
+    </div>
+</div>
 
-        // Load the JSON database from GitHub
-        fetch('data.json')
-            .then(response => response.json())
-            .then(data => { 
-                db = data; 
-                console.log("Success: Database synced with " + Object.keys(db).length + " student records.");
-            })
-            .catch(error => {
-                console.error("Critical Error: Database file (data.json) could not be reached.");
-            });
+<script>
+    let studentData = {};
 
-        function searchResult() {
-            const input = document.getElementById('rollInput').value.trim().toUpperCase();
-            const box = document.getElementById('resultBox');
-            const err = document.getElementById('errorMsg');
-            const tbody = document.getElementById('resTableBody');
+    // Fetch the JSON data when the page loads
+    fetch('data.json')
+        .then(response => response.json())
+        .then(data => {
+            studentData = data;
+        })
+        .catch(error => {
+            console.error('Error loading data.json:', error);
+            alert("Database loading failed. Please ensure 'data.json' is uploaded correctly.");
+        });
 
-            // Check if Roll exists in the database
-            if (db[input]) {
-                const student = db[input];
-                
-                // Populate Profile Data [cite: 7, 22, 54]
-                document.getElementById('dispName').innerText = student.name || "Student Profile Not Linked";
-                document.getElementById('dispRoll').innerText = input;
-                document.getElementById('dispBatch').innerText = "Batch " + (student.batch || "--");
-                document.getElementById('dispCollege').innerText = student.college || "Information Not Available";
-                document.getElementById('dispDept').innerText = (student.dept || "Engineering") + " Engineering";
-                
-                // Display CGPA from precise PDF scraping [cite: 8, 11, 21, 55]
-                document.getElementById('dispCGPA').innerText = student.cgpa ? student.cgpa.toFixed(2) : "0.00";
+    function handleKeyPress(event) {
+        if (event.key === 'Enter') {
+            searchResult();
+        }
+    }
 
-                // Populate Result History Table [cite: 8, 18, 59, 63]
-                tbody.innerHTML = "";
-                if(student.results) {
-                    // Sorting terms chronologically (L1T1, L1T2, etc.)
-                    const terms = Object.keys(student.results).sort();
-                    terms.forEach(term => {
-                        const termGPA = parseFloat(student.results[term]);
-                        tbody.innerHTML += `
-                            <tr class="hover:bg-blue-50/50 transition-all duration-200">
-                                <td class="px-6 py-5 font-bold text-slate-700">${term}</td>
-                                <td class="px-6 py-5 text-center font-black text-blue-600 text-lg">${termGPA.toFixed(2)}</td>
-                                <td class="px-6 py-5 text-right">
-                                    <span class="bg-green-100 text-green-700 text-[10px] px-3 py-1 rounded-full font-black uppercase tracking-tighter">Published</span>
-                                </td>
-                            </tr>`;
-                    });
-                }
+    function searchResult() {
+        const rollInput = document.getElementById('rollInput').value.trim().toUpperCase();
+        const resultArea = document.getElementById('resultArea');
+        const errorMsg = document.getElementById('errorMsg');
 
-                // Show the result box and hide errors
-                box.classList.remove('hidden');
-                err.classList.add('hidden');
-            } else {
-                // If Roll not found, hide result box and show error
-                box.classList.add('hidden');
-                err.classList.remove('hidden');
-            }
+        if (!rollInput) {
+            alert("Please enter a Roll Number");
+            return;
         }
 
-        // Support for searching on Enter key press
-        document.getElementById("rollInput").addEventListener("keydown", (event) => {
-            if(event.key === "Enter") searchResult();
-        });
-    </script>
+        const student = studentData[rollInput];
+
+        if (student) {
+            // Hide error, show results
+            errorMsg.style.display = 'none';
+            resultArea.style.display = 'block';
+
+            // 1. Populate Profile Info
+            document.getElementById('sName').innerText = student.name || "Unknown";
+            document.getElementById('sRoll').innerText = rollInput;
+            document.getElementById('sCollege').innerText = student.college || "Unknown";
+            document.getElementById('sDept').innerText = student.dept || "Unknown";
+            document.getElementById('sBatch').innerText = student.batch || "Unknown";
+            document.getElementById('sCgpa').innerText = student.cgpa ? student.cgpa.toFixed(2) : "N/A";
+
+            // 2. Populate Regular Results
+            const regularTbody = document.getElementById('regularTbody');
+            regularTbody.innerHTML = ''; // Clear previous data
+            
+            if (student.results) {
+                // Sort terms (L1T1, L1T2, etc.)
+                const sortedTerms = Object.keys(student.results).sort();
+                sortedTerms.forEach(term => {
+                    const tr = document.createElement('tr');
+                    tr.innerHTML = `<td>${term}</td><td>${student.results[term].toFixed(2)}</td>`;
+                    regularTbody.appendChild(tr);
+                });
+            }
+
+            // 3. Populate Retake Results
+            const retakeArea = document.getElementById('retakeArea');
+            const retakeTbody = document.getElementById('retakeTbody');
+            retakeTbody.innerHTML = ''; // Clear previous data
+
+            if (student.retakes && student.retakes.length > 0) {
+                retakeArea.style.display = 'block';
+                student.retakes.forEach(retake => {
+                    const tr = document.createElement('tr');
+                    tr.innerHTML = `<td>${retake.term}</td><td>${retake.subject}</td><td>${retake.gpa.toFixed(2)}</td>`;
+                    retakeTbody.appendChild(tr);
+                });
+            } else {
+                retakeArea.style.display = 'none'; // Hide if no retakes
+            }
+
+        } else {
+            // Show error, hide results
+            errorMsg.style.display = 'block';
+            resultArea.style.display = 'none';
+        }
+    }
+</script>
+
 </body>
 </html>
