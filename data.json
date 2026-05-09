@@ -40546,5 +40546,25 @@
             "LXTX": 3.89
         },
         "cgpa": 3.66
+    },
+    "N202414041": {
+        "name": "ISTEYAK AHMED",
+        "batch": "24",
+        "college": "Noakhali",
+        "dept": "Apparel",
+        "results": {
+            "LXTX": 3.49
+        },
+        "cgpa": 3.2
+    },
+    "P202141023": {
+        "name": "MDSOHEL RANA",
+        "batch": "21",
+        "college": "Pabna",
+        "dept": "Yarn",
+        "results": {
+            "LXTX": 3.24
+        },
+        "cgpa": 3.08
     }
 }
