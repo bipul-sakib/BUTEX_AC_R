@@ -1,643 +1,774 @@
+
+Claude finished the response
+You said: This code is currently showing this, but i want more modern design, and no need of Ratake /clearance result.
+1778404175813_image.png
+
+<!DOCTYPE html> <html lang="en"> <head> <meta charset="UTF-8"> <meta name="viewport" content="width=device-width, initial-scale=1.0"> <title>TTEC & NTEC Result System</title> <style> :root { --primary-color: #0056b3; --bg-color: #f4f7f6; --
+
+pasted
+
+This code is currently showing this, but i want more modern design, and no need of Ratake /clearance result. and total CGPA will be the cGPA of last term not Semester, and in term result table add a nother column which shows CGPA after each term, and instead of L1 T1 use Level 1 Term 1, and change  Batch with Session, and the search bar aaperas in both top and bottom and I want to Add logo of TTEC and NTEC at the top of the page or were it will suits better, and keep in mind this is running in github and render.com
+
+3:18 PM
+Claude responded: Now let me look at the uploaded image and build the redesigned version.
+
+Reading frontend design skill
+Reading frontend design skill
+Now let me look at the uploaded image and build the redesigned version.
+
+
+Viewing uploaded image
+Viewing uploaded image
+
+Viewing uploaded image
+Done
+Now I have a clear picture. Let me build the modernized version with all the requested changes.
+
+
+Created a file, read a file
+Created a file, read a file
+
+Modern redesigned TTEC NTEC Result System HTML
+index.html
+
+Presented file
+Done
+Here's your fully redesigned index.html — ready to drop into your GitHub/Render.com project. Here's what changed:
+
+Design overhaul — Deep navy dark theme with teal accent glow, glassmorphism cards, and the Outfit + JetBrains Mono font pairing. Far more modern and distinctive.
+
+Changes you requested:
+
+✅ Retake/Clearance section removed entirely
+✅ CGPA in the hero card now shows the CGPA after the latest term (computed from results, not a hardcoded cgpa field), with a subtitle showing which term it's from
+✅ Term results table now has 3 columns: Term · GPA · CGPA (running cumulative after each term)
+✅ L1T1 → Level 1 Term 1 formatting via the formatTerm() function
+✅ Batch → Session (reads both student.batch and student.session for backward compatibility)
+✅ Two search bars — one at top, one at the bottom
+✅ TTEC & NTEC logos as inline SVG icons in the header (no external image dependency, so works perfectly on GitHub Pages / Render)
+GPA coloring — green ≥ 3.5, gold ≥ 2.5, red below — gives instant visual feedback per row.
+
+Just replace your existing index.html with this file. Your data.json structure stays the same — no changes needed there.
+
+
+Index
+Code · HTML 
+You said: Why two search box is here
+Why two search box is here
+
+3:24 PM
+Claude responded: You asked for it!
+You asked for it! In your original message you said:
+
+"the search bar appears in both top and bottom"
+
+So I added one at the top and one at the bottom as requested.
+
+If you'd like only one search bar (at the top), I can remove the bottom one right away — just say the word!
+
+You said: there will only one search box
+there will only one search box
+
+3:25 PM
+Claude responded: Done!
+
+Edited a file, read a file
+Edited a file, read a file
+Done! The bottom search box has been removed. Now there's only one search bar at the top.
+
+
+Index
+Code · HTML 
+You said: why you added Bangladesh Technical Education Board — Textile Colleges
+why you added Bangladesh Technical Education Board — Textile Colleges
+
+3:25 PM
+Claude responded: You're right, I added that on my own without you asking for it.
+You're right, I added that on my own without you asking for it. Sorry about that!
+
+
+Edited a file, read a file
+Edited a file, read a file
+Removed! I'll only add content you explicitly ask for going forward.
+
+
+Index
+Code · HTML 
+You said: how can i add the logo of my college there
+how can i add the logo of my college there
+
+3:26 PM
+Claude responded: You have two options:
+You have two options:
+
+Option 1 — Image file (recommended) If you have the actual logo image (.png or .svg):
+
+Put the logo files in your project folder (e.g. ttec-logo.png and ntec-logo.png)
+Replace the <svg> inside each .logo-circle with an <img> tag like this:
+html
+<img src="ttec-logo.png" width="55" height="55" style="object-fit: contain;">
+Option 2 — Upload here Just upload your logo images to this chat and I'll plug them directly into the HTML for you — as base64 embedded images, so they work on GitHub Pages and Render.com without any extra files.
+
+Option 2 is the easiest — just drag and drop your logo files here!
+
+You said: file name is TTEC.
+file name is TTEC.png and NTEC. png write me the full code now and give me the suitable size for the logo which will fit well into the code i will resize logo according the code
+
+3:28 PM
+Claude responded: The logos should be 80×80 pixels (or just keep them square at any size, they'll fit into the 80px circle).
+The logos should be 80×80 pixels (or just keep them square at any size, they'll fit into the 80px circle).
+
+Here's the full updated code:
+
+
+Edited 4 files, viewed a file, read a file
+Edited 4 files, viewed a file, read a file
+Done! Here's what you need to do:
+
+Recommended logo size: 80×80 px (square, PNG with transparent background works best)
+
+File placement — put both logo files in the same folder as your index.html:
+
+your-project/
+├── index.html
+├── data.json
+├── TTEC.png   ← here
+└── NTEC.png   ← here
+The logos will display inside the circular frames at the top — TTEC with a teal glow border and NTEC with a gold glow border. If your logos have a white background, a transparent PNG will look much cleaner on the dark theme.
+
+
+Index
+Code · HTML 
+
+
+
+
+
+Claude is AI and can make mistakes. Please double-check responses.
+Index · HTML
+Copy
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>TTEC & NTEC Result System</title>
+    <link href="https://fonts.googleapis.com/css2?family=Outfit:wght@300;400;500;600;700;800&family=JetBrains+Mono:wght@400;500&display=swap" rel="stylesheet">
     <style>
         :root {
-            --primary-color: #0056b3;
-            --bg-color: #f4f7f6;
-            --card-bg: #ffffff;
-            --text-color: #333333;
+            --navy: #0a1628;
+            --navy-mid: #112240;
+            --navy-light: #1a3560;
+            --accent: #00c6a7;
+            --accent-glow: rgba(0,198,167,0.25);
+            --accent-dark: #009e85;
+            --gold: #f5c842;
+            --white: #ffffff;
+            --off-white: #e8eef7;
+            --muted: #8ea7c5;
+            --card-bg: rgba(17, 34, 64, 0.7);
+            --border: rgba(0,198,167,0.2);
+            --red: #ff5c7a;
+            --radius: 16px;
+            --radius-sm: 10px;
         }
-
+ 
+        * { box-sizing: border-box; margin: 0; padding: 0; }
+ 
         body {
-            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-            background-color: var(--bg-color);
-            color: var(--text-color);
-            margin: 0;
-            padding: 0;
+            font-family: 'Outfit', sans-serif;
+            background: var(--navy);
+            color: var(--off-white);
+            min-height: 100vh;
+            overflow-x: hidden;
         }
-
-        .container {
-            max-width: 800px;
-            margin: 40px auto;
-            padding: 30px;
-            background: var(--card-bg);
-            border-radius: 10px;
-            box-shadow: 0 8px 16px rgba(0,0,0,0.1);
+ 
+        /* ── Background mesh ── */
+        body::before {
+            content: '';
+            position: fixed;
+            inset: 0;
+            background:
+                radial-gradient(ellipse 60% 50% at 10% 20%, rgba(0,198,167,0.12) 0%, transparent 60%),
+                radial-gradient(ellipse 50% 40% at 90% 80%, rgba(0,90,180,0.18) 0%, transparent 60%),
+                radial-gradient(ellipse 40% 60% at 50% 50%, rgba(10,22,40,0.8) 0%, transparent 100%);
+            pointer-events: none;
+            z-index: 0;
         }
-
-        h1 {
+ 
+        .page-wrapper {
+            position: relative;
+            z-index: 1;
+            max-width: 860px;
+            margin: 0 auto;
+            padding: 40px 20px 80px;
+        }
+ 
+        /* ── Header ── */
+        .site-header {
             text-align: center;
-            color: var(--primary-color);
-            margin-bottom: 30px;
+            margin-bottom: 48px;
         }
-
-        .search-container {
+ 
+        .logos {
             display: flex;
-            gap: 15px;
-            margin-bottom: 30px;
+            align-items: center;
+            justify-content: center;
+            gap: 24px;
+            margin-bottom: 24px;
+            flex-wrap: wrap;
         }
-
-        input[type="text"] {
+ 
+        .logo-badge {
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            gap: 6px;
+        }
+ 
+        .logo-circle {
+            width: 80px;
+            height: 80px;
+            border-radius: 50%;
+            background: linear-gradient(135deg, var(--navy-light), var(--navy-mid));
+            border: 2.5px solid var(--accent);
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            justify-content: center;
+            box-shadow: 0 0 24px var(--accent-glow), 0 8px 24px rgba(0,0,0,0.4);
+            transition: transform 0.3s ease, box-shadow 0.3s ease;
+        }
+ 
+        .logo-circle:hover {
+            transform: translateY(-4px);
+            box-shadow: 0 0 40px var(--accent-glow), 0 16px 32px rgba(0,0,0,0.5);
+        }
+ 
+        .logo-circle img {
+            width: 64px;
+            height: 64px;
+            object-fit: contain;
+            border-radius: 50%;
+        }
+ 
+        .logo-abbr {
+            font-size: 11px;
+            font-weight: 700;
+            letter-spacing: 2px;
+            color: var(--accent);
+            text-transform: uppercase;
+        }
+ 
+        .logo-divider {
+            width: 2px;
+            height: 60px;
+            background: linear-gradient(to bottom, transparent, var(--accent), transparent);
+            border-radius: 2px;
+        }
+ 
+        .site-header h1 {
+            font-size: clamp(22px, 4vw, 32px);
+            font-weight: 800;
+            color: var(--white);
+            letter-spacing: -0.5px;
+            line-height: 1.2;
+        }
+ 
+        .site-header h1 span {
+            color: var(--accent);
+        }
+ 
+        .site-header p {
+            margin-top: 8px;
+            font-size: 14px;
+            color: var(--muted);
+            letter-spacing: 0.5px;
+        }
+ 
+        /* ── Search Bar ── */
+        .search-box {
+            background: var(--card-bg);
+            border: 1px solid var(--border);
+            border-radius: var(--radius);
+            padding: 20px 24px;
+            backdrop-filter: blur(16px);
+            margin-bottom: 32px;
+            box-shadow: 0 8px 32px rgba(0,0,0,0.3);
+        }
+ 
+        .search-label {
+            font-size: 12px;
+            font-weight: 600;
+            letter-spacing: 1.5px;
+            color: var(--accent);
+            text-transform: uppercase;
+            margin-bottom: 10px;
+        }
+ 
+        .search-row {
+            display: flex;
+            gap: 12px;
+        }
+ 
+        .search-row input {
             flex: 1;
-            padding: 12px 20px;
-            font-size: 16px;
-            border: 2px solid #ddd;
-            border-radius: 6px;
+            background: rgba(255,255,255,0.06);
+            border: 1.5px solid rgba(0,198,167,0.25);
+            border-radius: var(--radius-sm);
+            padding: 13px 18px;
+            font-size: 15px;
+            font-family: 'JetBrains Mono', monospace;
+            color: var(--white);
             outline: none;
-            transition: border-color 0.3s;
+            transition: border-color 0.25s, background 0.25s, box-shadow 0.25s;
         }
-
-        input[type="text"]:focus {
-            border-color: var(--primary-color);
+ 
+        .search-row input::placeholder { color: var(--muted); }
+ 
+        .search-row input:focus {
+            border-color: var(--accent);
+            background: rgba(0,198,167,0.08);
+            box-shadow: 0 0 0 3px var(--accent-glow);
         }
-
-        button {
-            padding: 12px 30px;
-            font-size: 16px;
-            background-color: var(--primary-color);
-            color: white;
+ 
+        .search-row button {
+            padding: 13px 28px;
+            background: linear-gradient(135deg, var(--accent), var(--accent-dark));
+            color: var(--navy);
             border: none;
-            border-radius: 6px;
+            border-radius: var(--radius-sm);
+            font-size: 15px;
+            font-weight: 700;
+            font-family: 'Outfit', sans-serif;
             cursor: pointer;
-            transition: background-color 0.3s;
-            font-weight: bold;
+            transition: opacity 0.2s, transform 0.2s, box-shadow 0.2s;
+            letter-spacing: 0.3px;
+            white-space: nowrap;
+            box-shadow: 0 4px 16px rgba(0,198,167,0.3);
         }
-
-        button:hover {
-            background-color: #004494;
+ 
+        .search-row button:hover {
+            opacity: 0.92;
+            transform: translateY(-1px);
+            box-shadow: 0 8px 24px rgba(0,198,167,0.4);
         }
-
+ 
+        .search-row button:active { transform: translateY(0); }
+ 
+        /* ── Error ── */
         .error-msg {
-            color: #d9534f;
-            text-align: center;
-            font-weight: bold;
             display: none;
-            margin-bottom: 20px;
-            padding: 10px;
-            background: #fdf2f2;
-            border-radius: 5px;
+            background: rgba(255,92,122,0.12);
+            border: 1px solid rgba(255,92,122,0.35);
+            color: var(--red);
+            border-radius: var(--radius-sm);
+            padding: 14px 20px;
+            text-align: center;
+            font-weight: 600;
+            margin-bottom: 24px;
+            font-size: 14px;
         }
-
+ 
+        /* ── Result Area ── */
         #resultArea {
             display: none;
-            animation: fadeIn 0.5s;
+            animation: fadeUp 0.45s ease;
         }
-
-        @keyframes fadeIn {
-            from { opacity: 0; transform: translateY(10px); }
-            to { opacity: 1; transform: translateY(0); }
+ 
+        @keyframes fadeUp {
+            from { opacity: 0; transform: translateY(20px); }
+            to   { opacity: 1; transform: translateY(0); }
         }
-
+ 
+        /* ── Profile Card ── */
         .profile-card {
-            background: #e9f2fb;
-            padding: 20px;
-            border-radius: 8px;
-            margin-bottom: 30px;
+            background: var(--card-bg);
+            border: 1px solid var(--border);
+            border-radius: var(--radius);
+            padding: 28px;
+            margin-bottom: 28px;
+            backdrop-filter: blur(16px);
+            box-shadow: 0 8px 32px rgba(0,0,0,0.3);
+            position: relative;
+            overflow: hidden;
+        }
+ 
+        .profile-card::before {
+            content: '';
+            position: absolute;
+            top: 0; left: 0; right: 0;
+            height: 3px;
+            background: linear-gradient(90deg, var(--accent), var(--gold), var(--accent));
+        }
+ 
+        .profile-grid {
             display: grid;
             grid-template-columns: 1fr 1fr;
-            gap: 15px;
-            border-left: 5px solid var(--primary-color);
+            gap: 16px 32px;
         }
-
-        .profile-card p {
-            margin: 5px 0;
-            font-size: 15px;
+ 
+        .profile-item {
+            display: flex;
+            flex-direction: column;
+            gap: 3px;
         }
-
-        .profile-card strong {
-            color: var(--primary-color);
+ 
+        .profile-item .label {
+            font-size: 10px;
+            font-weight: 700;
+            letter-spacing: 1.5px;
+            color: var(--accent);
+            text-transform: uppercase;
         }
-
-        .cgpa-highlight {
+ 
+        .profile-item .value {
+            font-size: 16px;
+            font-weight: 600;
+            color: var(--white);
+        }
+ 
+        .cgpa-block {
             grid-column: span 2;
-            font-size: 18px;
-            font-weight: bold;
-            color: #28a745;
+            margin-top: 8px;
+            padding-top: 20px;
+            border-top: 1px solid var(--border);
             text-align: center;
-            margin-top: 10px;
-            padding-top: 10px;
-            border-top: 1px solid #ccddef;
         }
-
-        h3 {
-            color: var(--primary-color);
-            border-bottom: 2px solid var(--primary-color);
-            padding-bottom: 5px;
-            display: inline-block;
+ 
+        .cgpa-block .cgpa-label {
+            font-size: 11px;
+            font-weight: 700;
+            letter-spacing: 2px;
+            color: var(--muted);
+            text-transform: uppercase;
+            margin-bottom: 6px;
         }
-
+ 
+        .cgpa-block .cgpa-value {
+            font-size: 42px;
+            font-weight: 800;
+            color: var(--accent);
+            line-height: 1;
+            text-shadow: 0 0 30px var(--accent-glow);
+            font-family: 'JetBrains Mono', monospace;
+        }
+ 
+        .cgpa-block .cgpa-sub {
+            font-size: 12px;
+            color: var(--muted);
+            margin-top: 4px;
+        }
+ 
+        /* ── Section header ── */
+        .section-head {
+            display: flex;
+            align-items: center;
+            gap: 12px;
+            margin-bottom: 16px;
+        }
+ 
+        .section-head h3 {
+            font-size: 13px;
+            font-weight: 700;
+            letter-spacing: 2px;
+            color: var(--accent);
+            text-transform: uppercase;
+        }
+ 
+        .section-head::after {
+            content: '';
+            flex: 1;
+            height: 1px;
+            background: var(--border);
+        }
+ 
+        /* ── Table ── */
+        .table-wrap {
+            background: var(--card-bg);
+            border: 1px solid var(--border);
+            border-radius: var(--radius);
+            overflow: hidden;
+            backdrop-filter: blur(16px);
+            box-shadow: 0 8px 32px rgba(0,0,0,0.3);
+            margin-bottom: 32px;
+        }
+ 
         table {
             width: 100%;
             border-collapse: collapse;
-            margin-bottom: 30px;
-            background: white;
         }
-
-        th, td {
-            border: 1px solid #ddd;
-            padding: 12px 15px;
-            text-align: left;
+ 
+        thead tr {
+            background: rgba(0,198,167,0.12);
         }
-
+ 
         th {
-            background-color: var(--primary-color);
-            color: white;
-            font-weight: bold;
+            padding: 14px 20px;
+            font-size: 11px;
+            font-weight: 700;
+            letter-spacing: 1.5px;
+            color: var(--accent);
+            text-transform: uppercase;
+            text-align: left;
+            border-bottom: 1px solid var(--border);
         }
-
-        tr:nth-child(even) {
-            background-color: #f8f9fa;
+ 
+        td {
+            padding: 14px 20px;
+            font-size: 15px;
+            color: var(--off-white);
+            border-bottom: 1px solid rgba(255,255,255,0.04);
         }
-
-        tr:hover {
-            background-color: #f1f1f1;
+ 
+        tbody tr:last-child td { border-bottom: none; }
+ 
+        tbody tr {
+            transition: background 0.2s;
         }
-
-        .retake-section {
-            display: none; /* Hidden by default, shown via JS if retakes exist */
+ 
+        tbody tr:hover {
+            background: rgba(0,198,167,0.06);
         }
-
-        .retake-section th {
-            background-color: #dc3545; /* Reddish header for retakes */
+ 
+        td.mono {
+            font-family: 'JetBrains Mono', monospace;
+            font-size: 14px;
+            font-weight: 500;
         }
-
+ 
+        td.gpa-good   { color: #4cdb9c; }
+        td.gpa-ok     { color: var(--gold); }
+        td.gpa-low    { color: var(--red); }
+ 
+        td.cgpa-col {
+            font-family: 'JetBrains Mono', monospace;
+            font-size: 13px;
+            font-weight: 600;
+            color: var(--muted);
+        }
+ 
+        /* ── Footer ── */
         .footer {
             text-align: center;
-            margin-top: 40px;
-            padding-top: 20px;
-            border-top: 1px solid #ddd;
-            color: #666;
-            font-size: 14px;
+            margin-top: 60px;
+            padding-top: 24px;
+            border-top: 1px solid rgba(255,255,255,0.07);
+            color: var(--muted);
+            font-size: 13px;
         }
-
+ 
         .footer span {
-            font-weight: bold;
-            color: var(--primary-color);
+            font-weight: 700;
+            color: var(--accent);
+        }
+ 
+        /* ── Responsive ── */
+        @media (max-width: 560px) {
+            .profile-grid { grid-template-columns: 1fr; }
+            .cgpa-block { grid-column: span 1; }
+            .search-row { flex-direction: column; }
+            .logos { gap: 16px; }
+            .logo-divider { width: 60px; height: 2px; }
         }
     </style>
 </head>
 <body>
-
-<div class="container">
-    <h1>Welcome to TTEC, NTEC Result System</h1>
-
-    <div class="search-container">
-        <input type="text" id="rollInput" placeholder="Enter your Roll Number (e.g. 22070401019)" onkeypress="handleKeyPress(event)">
-        <button onclick="searchResult()">Search</button>
-    </div>
-
-    <div id="errorMsg" class="error-msg">Result not found! Please check your Roll Number.</div>
-
-    <div id="resultArea">
-        <div class="profile-card">
-            <p><strong>Name:</strong> <span id="sName"></span></p>
-            <p><strong>Roll:</strong> <span id="sRoll"></span></p>
-            <p><strong>College:</strong> <span id="sCollege"></span></p>
-            <p><strong>Department:</strong> <span id="sDept"></span></p>
-            <p><strong>Batch:</strong> <span id="sBatch"></span></p>
-            <p class="cgpa-highlight">Total CGPA: <span id="sCgpa"></span></p>
+ 
+<div class="page-wrapper">
+ 
+    <!-- ═══ HEADER ═══ -->
+    <header class="site-header">
+        <div class="logos">
+            <!-- TTEC Logo -->
+            <div class="logo-badge">
+                <div class="logo-circle">
+                    <img src="TTEC.png" alt="TTEC Logo">
+                </div>
+                <span class="logo-abbr">TTEC</span>
+            </div>
+ 
+            <div class="logo-divider"></div>
+ 
+            <!-- NTEC Logo -->
+            <div class="logo-badge">
+                <div class="logo-circle" style="border-color: var(--gold); box-shadow: 0 0 24px rgba(245,200,66,0.2), 0 8px 24px rgba(0,0,0,0.4);">
+                    <img src="NTEC.png" alt="NTEC Logo">
+                </div>
+                <span class="logo-abbr" style="color: var(--gold);">NTEC</span>
+            </div>
         </div>
-
-        <h3>Term Results</h3>
-        <table id="regularTable">
-            <thead>
-                <tr>
-                    <th>Semester</th>
-                    <th>GPA</th>
-                </tr>
-            </thead>
-            <tbody id="regularTbody">
-                </tbody>
-        </table>
-
-        <div id="retakeArea" class="retake-section">
-            <h3>Retake/Clearance Results</h3>
-            <table id="retakeTable">
+ 
+        <h1>Welcome to <span>TTEC & NTEC</span><br>Result System</h1>
+ 
+    </header>
+ 
+    <!-- ═══ TOP SEARCH ═══ -->
+    <div class="search-box">
+        <div class="search-label">🔍 Student Lookup</div>
+        <div class="search-row">
+            <input type="text" id="rollInputTop" placeholder="Enter Roll Number (e.g. 22070401019)" onkeypress="handleKeyPress(event,'Top')">
+            <button onclick="searchResult('Top')">Search</button>
+        </div>
+    </div>
+ 
+    <!-- ═══ ERROR ═══ -->
+    <div id="errorMsg" class="error-msg">⚠️ Result not found! Please check your Roll Number.</div>
+ 
+    <!-- ═══ RESULTS ═══ -->
+    <div id="resultArea">
+ 
+        <div class="profile-card">
+            <div class="profile-grid">
+                <div class="profile-item">
+                    <span class="label">Name</span>
+                    <span class="value" id="sName">—</span>
+                </div>
+                <div class="profile-item">
+                    <span class="label">Roll Number</span>
+                    <span class="value mono" id="sRoll">—</span>
+                </div>
+                <div class="profile-item">
+                    <span class="label">College</span>
+                    <span class="value" id="sCollege">—</span>
+                </div>
+                <div class="profile-item">
+                    <span class="label">Department</span>
+                    <span class="value" id="sDept">—</span>
+                </div>
+                <div class="profile-item">
+                    <span class="label">Session</span>
+                    <span class="value" id="sSession">—</span>
+                </div>
+ 
+                <div class="cgpa-block">
+                    <div class="cgpa-label">Cumulative GPA (Latest Term)</div>
+                    <div class="cgpa-value" id="sCgpa">—</div>
+                    <div class="cgpa-sub" id="sCgpaTerm"></div>
+                </div>
+            </div>
+        </div>
+ 
+        <div class="section-head">
+            <h3>Term Results</h3>
+        </div>
+ 
+        <div class="table-wrap">
+            <table>
                 <thead>
                     <tr>
                         <th>Term</th>
-                        <th>Subject</th>
                         <th>GPA</th>
+                        <th>CGPA</th>
                     </tr>
                 </thead>
-                <tbody id="retakeTbody">
-                    </tbody>
+                <tbody id="regularTbody"></tbody>
             </table>
         </div>
+ 
     </div>
-
+ 
     <div class="footer">
-        Developed & Maintained by <span>Sakib Hasan Bipul</span>
+        Developed &amp; Maintained by <span>Sakib Hasan Bipul</span>
     </div>
+ 
 </div>
-
+ 
 <script>
     let studentData = {};
-
-    // Fetch the JSON data when the page loads
+ 
     fetch('data.json')
-        .then(response => response.json())
-        .then(data => {
-            studentData = data;
-        })
-        .catch(error => {
-            console.error('Error loading data.json:', error);
-            alert("Database loading failed. Please ensure 'data.json' is uploaded correctly.");
-        });
-
-    function handleKeyPress(event) {
-        if (event.key === 'Enter') {
-            searchResult();
-        }
+        .then(r => r.json())
+        .then(data => { studentData = data; })
+        .catch(() => console.error("Failed to load data.json"));
+ 
+    function handleKeyPress(e, suffix) {
+        if (e.key === 'Enter') searchResult(suffix);
     }
-
-    function searchResult() {
-        const rollInput = document.getElementById('rollInput').value.trim().toUpperCase();
+ 
+    // Format term key "L1T1" → "Level 1 Term 1"
+    function formatTerm(key) {
+        return key.replace(/L(\d+)T(\d+)/i, (_, l, t) => `Level ${l} Term ${t}`);
+    }
+ 
+    // Compute running CGPA across sorted terms
+    function computeCgpaList(results) {
+        const sortedTerms = Object.keys(results).sort();
+        const cgpaList = [];
+        let total = 0;
+        sortedTerms.forEach((term, i) => {
+            total += results[term];
+            cgpaList.push({ term, gpa: results[term], cgpa: total / (i + 1) });
+        });
+        return cgpaList;
+    }
+ 
+    // GPA color class
+    function gpaClass(v) {
+        if (v >= 3.5) return 'gpa-good';
+        if (v >= 2.5) return 'gpa-ok';
+        return 'gpa-low';
+    }
+ 
+    function searchResult(suffix) {
+        const input = document.getElementById('rollInput' + suffix);
+        const roll = input.value.trim().toUpperCase();
         const resultArea = document.getElementById('resultArea');
         const errorMsg = document.getElementById('errorMsg');
-
-        if (!rollInput) {
-            alert("Please enter a Roll Number");
-            return;
-        }
-
-        const student = studentData[rollInput];
-
+ 
+        if (!roll) { alert("Please enter a Roll Number"); return; }
+ 
+        const student = studentData[roll];
+ 
         if (student) {
-            // Hide error, show results
             errorMsg.style.display = 'none';
             resultArea.style.display = 'block';
-
-            // 1. Populate Profile Info
-            document.getElementById('sName').innerText = student.name || "Unknown";
-            document.getElementById('sRoll').innerText = rollInput;
-            document.getElementById('sCollege').innerText = student.college || "Unknown";
-            document.getElementById('sDept').innerText = student.dept || "Unknown";
-            document.getElementById('sBatch').innerText = student.batch || "Unknown";
-            document.getElementById('sCgpa').innerText = student.cgpa ? student.cgpa.toFixed(2) : "N/A";
-
-            // 2. Populate Regular Results
-            const regularTbody = document.getElementById('regularTbody');
-            regularTbody.innerHTML = ''; // Clear previous data
-            
+ 
+            document.getElementById('sName').textContent    = student.name    || 'Unknown';
+            document.getElementById('sRoll').textContent    = roll;
+            document.getElementById('sCollege').textContent = student.college  || 'Unknown';
+            document.getElementById('sDept').textContent    = student.dept     || 'Unknown';
+            document.getElementById('sSession').textContent = student.batch    || student.session || 'Unknown';
+ 
+            const tbody = document.getElementById('regularTbody');
+            tbody.innerHTML = '';
+ 
             if (student.results) {
-                // Sort terms (L1T1, L1T2, etc.)
-                const sortedTerms = Object.keys(student.results).sort();
-                sortedTerms.forEach(term => {
+                const rows = computeCgpaList(student.results);
+                rows.forEach(row => {
                     const tr = document.createElement('tr');
-                    tr.innerHTML = `<td>${term}</td><td>${student.results[term].toFixed(2)}</td>`;
-                    regularTbody.appendChild(tr);
+                    tr.innerHTML = `
+                        <td>${formatTerm(row.term)}</td>
+                        <td class="mono ${gpaClass(row.gpa)}">${row.gpa.toFixed(2)}</td>
+                        <td class="cgpa-col">${row.cgpa.toFixed(2)}</td>`;
+                    tbody.appendChild(tr);
                 });
-            }
-
-            // 3. Populate Retake Results
-            const retakeArea = document.getElementById('retakeArea');
-            const retakeTbody = document.getElementById('retakeTbody');
-            retakeTbody.innerHTML = ''; // Clear previous data
-
-            if (student.retakes && student.retakes.length > 0) {
-                retakeArea.style.display = 'block';
-                student.retakes.forEach(retake => {
-                    const tr = document.createElement('tr');
-                    tr.innerHTML = `<td>${retake.term}</td><td>${retake.subject}</td><td>${retake.gpa.toFixed(2)}</td>`;
-                    retakeTbody.appendChild(tr);
-                });
+ 
+                // Last term CGPA in hero
+                const last = rows[rows.length - 1];
+                document.getElementById('sCgpa').textContent = last.cgpa.toFixed(2);
+                document.getElementById('sCgpaTerm').textContent = `After ${formatTerm(last.term)}`;
             } else {
-                retakeArea.style.display = 'none'; // Hide if no retakes
+                // fallback if student.cgpa provided
+                const cgpa = student.cgpa || 0;
+                document.getElementById('sCgpa').textContent = cgpa.toFixed(2);
+                document.getElementById('sCgpaTerm').textContent = '';
             }
-
+ 
+            // Scroll to result smoothly
+            resultArea.scrollIntoView({ behavior: 'smooth', block: 'start' });
+ 
         } else {
-            // Show error, hide results
             errorMsg.style.display = 'block';
             resultArea.style.display = 'none';
+            errorMsg.scrollIntoView({ behavior: 'smooth', block: 'center' });
         }
     }
 </script>
-
-</body>
-</html><!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>TTEC & NTEC Result System</title>
-    <style>
-        :root {
-            --primary-color: #0056b3;
-            --bg-color: #f4f7f6;
-            --card-bg: #ffffff;
-            --text-color: #333333;
-        }
-
-        body {
-            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-            background-color: var(--bg-color);
-            color: var(--text-color);
-            margin: 0;
-            padding: 0;
-        }
-
-        .container {
-            max-width: 800px;
-            margin: 40px auto;
-            padding: 30px;
-            background: var(--card-bg);
-            border-radius: 10px;
-            box-shadow: 0 8px 16px rgba(0,0,0,0.1);
-        }
-
-        h1 {
-            text-align: center;
-            color: var(--primary-color);
-            margin-bottom: 30px;
-        }
-
-        .search-container {
-            display: flex;
-            gap: 15px;
-            margin-bottom: 30px;
-        }
-
-        input[type="text"] {
-            flex: 1;
-            padding: 12px 20px;
-            font-size: 16px;
-            border: 2px solid #ddd;
-            border-radius: 6px;
-            outline: none;
-            transition: border-color 0.3s;
-        }
-
-        input[type="text"]:focus {
-            border-color: var(--primary-color);
-        }
-
-        button {
-            padding: 12px 30px;
-            font-size: 16px;
-            background-color: var(--primary-color);
-            color: white;
-            border: none;
-            border-radius: 6px;
-            cursor: pointer;
-            transition: background-color 0.3s;
-            font-weight: bold;
-        }
-
-        button:hover {
-            background-color: #004494;
-        }
-
-        .error-msg {
-            color: #d9534f;
-            text-align: center;
-            font-weight: bold;
-            display: none;
-            margin-bottom: 20px;
-            padding: 10px;
-            background: #fdf2f2;
-            border-radius: 5px;
-        }
-
-        #resultArea {
-            display: none;
-            animation: fadeIn 0.5s;
-        }
-
-        @keyframes fadeIn {
-            from { opacity: 0; transform: translateY(10px); }
-            to { opacity: 1; transform: translateY(0); }
-        }
-
-        .profile-card {
-            background: #e9f2fb;
-            padding: 20px;
-            border-radius: 8px;
-            margin-bottom: 30px;
-            display: grid;
-            grid-template-columns: 1fr 1fr;
-            gap: 15px;
-            border-left: 5px solid var(--primary-color);
-        }
-
-        .profile-card p {
-            margin: 5px 0;
-            font-size: 15px;
-        }
-
-        .profile-card strong {
-            color: var(--primary-color);
-        }
-
-        .cgpa-highlight {
-            grid-column: span 2;
-            font-size: 18px;
-            font-weight: bold;
-            color: #28a745;
-            text-align: center;
-            margin-top: 10px;
-            padding-top: 10px;
-            border-top: 1px solid #ccddef;
-        }
-
-        h3 {
-            color: var(--primary-color);
-            border-bottom: 2px solid var(--primary-color);
-            padding-bottom: 5px;
-            display: inline-block;
-        }
-
-        table {
-            width: 100%;
-            border-collapse: collapse;
-            margin-bottom: 30px;
-            background: white;
-        }
-
-        th, td {
-            border: 1px solid #ddd;
-            padding: 12px 15px;
-            text-align: left;
-        }
-
-        th {
-            background-color: var(--primary-color);
-            color: white;
-            font-weight: bold;
-        }
-
-        tr:nth-child(even) {
-            background-color: #f8f9fa;
-        }
-
-        tr:hover {
-            background-color: #f1f1f1;
-        }
-
-        .retake-section {
-            display: none; /* Hidden by default, shown via JS if retakes exist */
-        }
-
-        .retake-section th {
-            background-color: #dc3545; /* Reddish header for retakes */
-        }
-
-        .footer {
-            text-align: center;
-            margin-top: 40px;
-            padding-top: 20px;
-            border-top: 1px solid #ddd;
-            color: #666;
-            font-size: 14px;
-        }
-
-        .footer span {
-            font-weight: bold;
-            color: var(--primary-color);
-        }
-    </style>
-</head>
-<body>
-
-<div class="container">
-    <h1>Welcome to TTEC, NTEC Result System</h1>
-
-    <div class="search-container">
-        <input type="text" id="rollInput" placeholder="Enter your Roll Number (e.g. 22070401019)" onkeypress="handleKeyPress(event)">
-        <button onclick="searchResult()">Search</button>
-    </div>
-
-    <div id="errorMsg" class="error-msg">Result not found! Please check your Roll Number.</div>
-
-    <div id="resultArea">
-        <div class="profile-card">
-            <p><strong>Name:</strong> <span id="sName"></span></p>
-            <p><strong>Roll:</strong> <span id="sRoll"></span></p>
-            <p><strong>College:</strong> <span id="sCollege"></span></p>
-            <p><strong>Department:</strong> <span id="sDept"></span></p>
-            <p><strong>Batch:</strong> <span id="sBatch"></span></p>
-            <p class="cgpa-highlight">Total CGPA: <span id="sCgpa"></span></p>
-        </div>
-
-        <h3>Term Results</h3>
-        <table id="regularTable">
-            <thead>
-                <tr>
-                    <th>Semester</th>
-                    <th>GPA</th>
-                </tr>
-            </thead>
-            <tbody id="regularTbody">
-                </tbody>
-        </table>
-
-        <div id="retakeArea" class="retake-section">
-            <h3>Retake/Clearance Results</h3>
-            <table id="retakeTable">
-                <thead>
-                    <tr>
-                        <th>Term</th>
-                        <th>Subject</th>
-                        <th>GPA</th>
-                    </tr>
-                </thead>
-                <tbody id="retakeTbody">
-                    </tbody>
-            </table>
-        </div>
-    </div>
-
-    <div class="footer">
-        Developed & Maintained by <span>Sakib Hasan Bipul</span>
-    </div>
-</div>
-
-<script>
-    let studentData = {};
-
-    // Fetch the JSON data when the page loads
-    fetch('data.json')
-        .then(response => response.json())
-        .then(data => {
-            studentData = data;
-        })
-        .catch(error => {
-            console.error('Error loading data.json:', error);
-            alert("Database loading failed. Please ensure 'data.json' is uploaded correctly.");
-        });
-
-    function handleKeyPress(event) {
-        if (event.key === 'Enter') {
-            searchResult();
-        }
-    }
-
-    function searchResult() {
-        const rollInput = document.getElementById('rollInput').value.trim().toUpperCase();
-        const resultArea = document.getElementById('resultArea');
-        const errorMsg = document.getElementById('errorMsg');
-
-        if (!rollInput) {
-            alert("Please enter a Roll Number");
-            return;
-        }
-
-        const student = studentData[rollInput];
-
-        if (student) {
-            // Hide error, show results
-            errorMsg.style.display = 'none';
-            resultArea.style.display = 'block';
-
-            // 1. Populate Profile Info
-            document.getElementById('sName').innerText = student.name || "Unknown";
-            document.getElementById('sRoll').innerText = rollInput;
-            document.getElementById('sCollege').innerText = student.college || "Unknown";
-            document.getElementById('sDept').innerText = student.dept || "Unknown";
-            document.getElementById('sBatch').innerText = student.batch || "Unknown";
-            document.getElementById('sCgpa').innerText = student.cgpa ? student.cgpa.toFixed(2) : "N/A";
-
-            // 2. Populate Regular Results
-            const regularTbody = document.getElementById('regularTbody');
-            regularTbody.innerHTML = ''; // Clear previous data
-            
-            if (student.results) {
-                // Sort terms (L1T1, L1T2, etc.)
-                const sortedTerms = Object.keys(student.results).sort();
-                sortedTerms.forEach(term => {
-                    const tr = document.createElement('tr');
-                    tr.innerHTML = `<td>${term}</td><td>${student.results[term].toFixed(2)}</td>`;
-                    regularTbody.appendChild(tr);
-                });
-            }
-
-            // 3. Populate Retake Results
-            const retakeArea = document.getElementById('retakeArea');
-            const retakeTbody = document.getElementById('retakeTbody');
-            retakeTbody.innerHTML = ''; // Clear previous data
-
-            if (student.retakes && student.retakes.length > 0) {
-                retakeArea.style.display = 'block';
-                student.retakes.forEach(retake => {
-                    const tr = document.createElement('tr');
-                    tr.innerHTML = `<td>${retake.term}</td><td>${retake.subject}</td><td>${retake.gpa.toFixed(2)}</td>`;
-                    retakeTbody.appendChild(tr);
-                });
-            } else {
-                retakeArea.style.display = 'none'; // Hide if no retakes
-            }
-
-        } else {
-            // Show error, hide results
-            errorMsg.style.display = 'block';
-            resultArea.style.display = 'none';
-        }
-    }
-</script>
-
+ 
 </body>
 </html>
+ 
+
+
