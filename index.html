@@ -1,153 +1,3 @@
-
-Claude finished the response
-You said: This code is currently showing this, but i want more modern design, and no need of Ratake /clearance result.
-1778404175813_image.png
-
-<!DOCTYPE html> <html lang="en"> <head> <meta charset="UTF-8"> <meta name="viewport" content="width=device-width, initial-scale=1.0"> <title>TTEC & NTEC Result System</title> <style> :root { --primary-color: #0056b3; --bg-color: #f4f7f6; --
-
-pasted
-
-This code is currently showing this, but i want more modern design, and no need of Ratake /clearance result. and total CGPA will be the cGPA of last term not Semester, and in term result table add a nother column which shows CGPA after each term, and instead of L1 T1 use Level 1 Term 1, and change  Batch with Session, and the search bar aaperas in both top and bottom and I want to Add logo of TTEC and NTEC at the top of the page or were it will suits better, and keep in mind this is running in github and render.com
-
-3:18 PM
-Claude responded: Now let me look at the uploaded image and build the redesigned version.
-
-Reading frontend design skill
-Reading frontend design skill
-Now let me look at the uploaded image and build the redesigned version.
-
-
-Viewing uploaded image
-Viewing uploaded image
-
-Viewing uploaded image
-Done
-Now I have a clear picture. Let me build the modernized version with all the requested changes.
-
-
-Created a file, read a file
-Created a file, read a file
-
-Modern redesigned TTEC NTEC Result System HTML
-index.html
-
-Presented file
-Done
-Here's your fully redesigned index.html — ready to drop into your GitHub/Render.com project. Here's what changed:
-
-Design overhaul — Deep navy dark theme with teal accent glow, glassmorphism cards, and the Outfit + JetBrains Mono font pairing. Far more modern and distinctive.
-
-Changes you requested:
-
-✅ Retake/Clearance section removed entirely
-✅ CGPA in the hero card now shows the CGPA after the latest term (computed from results, not a hardcoded cgpa field), with a subtitle showing which term it's from
-✅ Term results table now has 3 columns: Term · GPA · CGPA (running cumulative after each term)
-✅ L1T1 → Level 1 Term 1 formatting via the formatTerm() function
-✅ Batch → Session (reads both student.batch and student.session for backward compatibility)
-✅ Two search bars — one at top, one at the bottom
-✅ TTEC & NTEC logos as inline SVG icons in the header (no external image dependency, so works perfectly on GitHub Pages / Render)
-GPA coloring — green ≥ 3.5, gold ≥ 2.5, red below — gives instant visual feedback per row.
-
-Just replace your existing index.html with this file. Your data.json structure stays the same — no changes needed there.
-
-
-Index
-Code · HTML 
-You said: Why two search box is here
-Why two search box is here
-
-3:24 PM
-Claude responded: You asked for it!
-You asked for it! In your original message you said:
-
-"the search bar appears in both top and bottom"
-
-So I added one at the top and one at the bottom as requested.
-
-If you'd like only one search bar (at the top), I can remove the bottom one right away — just say the word!
-
-You said: there will only one search box
-there will only one search box
-
-3:25 PM
-Claude responded: Done!
-
-Edited a file, read a file
-Edited a file, read a file
-Done! The bottom search box has been removed. Now there's only one search bar at the top.
-
-
-Index
-Code · HTML 
-You said: why you added Bangladesh Technical Education Board — Textile Colleges
-why you added Bangladesh Technical Education Board — Textile Colleges
-
-3:25 PM
-Claude responded: You're right, I added that on my own without you asking for it.
-You're right, I added that on my own without you asking for it. Sorry about that!
-
-
-Edited a file, read a file
-Edited a file, read a file
-Removed! I'll only add content you explicitly ask for going forward.
-
-
-Index
-Code · HTML 
-You said: how can i add the logo of my college there
-how can i add the logo of my college there
-
-3:26 PM
-Claude responded: You have two options:
-You have two options:
-
-Option 1 — Image file (recommended) If you have the actual logo image (.png or .svg):
-
-Put the logo files in your project folder (e.g. ttec-logo.png and ntec-logo.png)
-Replace the <svg> inside each .logo-circle with an <img> tag like this:
-html
-<img src="ttec-logo.png" width="55" height="55" style="object-fit: contain;">
-Option 2 — Upload here Just upload your logo images to this chat and I'll plug them directly into the HTML for you — as base64 embedded images, so they work on GitHub Pages and Render.com without any extra files.
-
-Option 2 is the easiest — just drag and drop your logo files here!
-
-You said: file name is TTEC.
-file name is TTEC.png and NTEC. png write me the full code now and give me the suitable size for the logo which will fit well into the code i will resize logo according the code
-
-3:28 PM
-Claude responded: The logos should be 80×80 pixels (or just keep them square at any size, they'll fit into the 80px circle).
-The logos should be 80×80 pixels (or just keep them square at any size, they'll fit into the 80px circle).
-
-Here's the full updated code:
-
-
-Edited 4 files, viewed a file, read a file
-Edited 4 files, viewed a file, read a file
-Done! Here's what you need to do:
-
-Recommended logo size: 80×80 px (square, PNG with transparent background works best)
-
-File placement — put both logo files in the same folder as your index.html:
-
-your-project/
-├── index.html
-├── data.json
-├── TTEC.png   ← here
-└── NTEC.png   ← here
-The logos will display inside the circular frames at the top — TTEC with a teal glow border and NTEC with a gold glow border. If your logos have a white background, a transparent PNG will look much cleaner on the dark theme.
-
-
-Index
-Code · HTML 
-
-
-
-
-
-Claude is AI and can make mistakes. Please double-check responses.
-Index · HTML
-Copy
-
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -173,9 +23,9 @@ Copy
             --radius: 16px;
             --radius-sm: 10px;
         }
- 
+
         * { box-sizing: border-box; margin: 0; padding: 0; }
- 
+
         body {
             font-family: 'Outfit', sans-serif;
             background: var(--navy);
@@ -183,7 +33,7 @@ Copy
             min-height: 100vh;
             overflow-x: hidden;
         }
- 
+
         /* ── Background mesh ── */
         body::before {
             content: '';
@@ -196,7 +46,7 @@ Copy
             pointer-events: none;
             z-index: 0;
         }
- 
+
         .page-wrapper {
             position: relative;
             z-index: 1;
@@ -204,13 +54,13 @@ Copy
             margin: 0 auto;
             padding: 40px 20px 80px;
         }
- 
+
         /* ── Header ── */
         .site-header {
             text-align: center;
             margin-bottom: 48px;
         }
- 
+
         .logos {
             display: flex;
             align-items: center;
@@ -219,14 +69,14 @@ Copy
             margin-bottom: 24px;
             flex-wrap: wrap;
         }
- 
+
         .logo-badge {
             display: flex;
             flex-direction: column;
             align-items: center;
             gap: 6px;
         }
- 
+
         .logo-circle {
             width: 80px;
             height: 80px;
@@ -240,19 +90,19 @@ Copy
             box-shadow: 0 0 24px var(--accent-glow), 0 8px 24px rgba(0,0,0,0.4);
             transition: transform 0.3s ease, box-shadow 0.3s ease;
         }
- 
+
         .logo-circle:hover {
             transform: translateY(-4px);
             box-shadow: 0 0 40px var(--accent-glow), 0 16px 32px rgba(0,0,0,0.5);
         }
- 
+
         .logo-circle img {
             width: 64px;
             height: 64px;
             object-fit: contain;
             border-radius: 50%;
         }
- 
+
         .logo-abbr {
             font-size: 11px;
             font-weight: 700;
@@ -260,14 +110,14 @@ Copy
             color: var(--accent);
             text-transform: uppercase;
         }
- 
+
         .logo-divider {
             width: 2px;
             height: 60px;
             background: linear-gradient(to bottom, transparent, var(--accent), transparent);
             border-radius: 2px;
         }
- 
+
         .site-header h1 {
             font-size: clamp(22px, 4vw, 32px);
             font-weight: 800;
@@ -275,18 +125,18 @@ Copy
             letter-spacing: -0.5px;
             line-height: 1.2;
         }
- 
+
         .site-header h1 span {
             color: var(--accent);
         }
- 
+
         .site-header p {
             margin-top: 8px;
             font-size: 14px;
             color: var(--muted);
             letter-spacing: 0.5px;
         }
- 
+
         /* ── Search Bar ── */
         .search-box {
             background: var(--card-bg);
@@ -297,7 +147,7 @@ Copy
             margin-bottom: 32px;
             box-shadow: 0 8px 32px rgba(0,0,0,0.3);
         }
- 
+
         .search-label {
             font-size: 12px;
             font-weight: 600;
@@ -306,12 +156,12 @@ Copy
             text-transform: uppercase;
             margin-bottom: 10px;
         }
- 
+
         .search-row {
             display: flex;
             gap: 12px;
         }
- 
+
         .search-row input {
             flex: 1;
             background: rgba(255,255,255,0.06);
@@ -324,15 +174,15 @@ Copy
             outline: none;
             transition: border-color 0.25s, background 0.25s, box-shadow 0.25s;
         }
- 
+
         .search-row input::placeholder { color: var(--muted); }
- 
+
         .search-row input:focus {
             border-color: var(--accent);
             background: rgba(0,198,167,0.08);
             box-shadow: 0 0 0 3px var(--accent-glow);
         }
- 
+
         .search-row button {
             padding: 13px 28px;
             background: linear-gradient(135deg, var(--accent), var(--accent-dark));
@@ -348,15 +198,15 @@ Copy
             white-space: nowrap;
             box-shadow: 0 4px 16px rgba(0,198,167,0.3);
         }
- 
+
         .search-row button:hover {
             opacity: 0.92;
             transform: translateY(-1px);
             box-shadow: 0 8px 24px rgba(0,198,167,0.4);
         }
- 
+
         .search-row button:active { transform: translateY(0); }
- 
+
         /* ── Error ── */
         .error-msg {
             display: none;
@@ -370,18 +220,18 @@ Copy
             margin-bottom: 24px;
             font-size: 14px;
         }
- 
+
         /* ── Result Area ── */
         #resultArea {
             display: none;
             animation: fadeUp 0.45s ease;
         }
- 
+
         @keyframes fadeUp {
             from { opacity: 0; transform: translateY(20px); }
             to   { opacity: 1; transform: translateY(0); }
         }
- 
+
         /* ── Profile Card ── */
         .profile-card {
             background: var(--card-bg);
@@ -394,7 +244,7 @@ Copy
             position: relative;
             overflow: hidden;
         }
- 
+
         .profile-card::before {
             content: '';
             position: absolute;
@@ -402,19 +252,19 @@ Copy
             height: 3px;
             background: linear-gradient(90deg, var(--accent), var(--gold), var(--accent));
         }
- 
+
         .profile-grid {
             display: grid;
             grid-template-columns: 1fr 1fr;
             gap: 16px 32px;
         }
- 
+
         .profile-item {
             display: flex;
             flex-direction: column;
             gap: 3px;
         }
- 
+
         .profile-item .label {
             font-size: 10px;
             font-weight: 700;
@@ -422,13 +272,13 @@ Copy
             color: var(--accent);
             text-transform: uppercase;
         }
- 
+
         .profile-item .value {
             font-size: 16px;
             font-weight: 600;
             color: var(--white);
         }
- 
+
         .cgpa-block {
             grid-column: span 2;
             margin-top: 8px;
@@ -436,7 +286,7 @@ Copy
             border-top: 1px solid var(--border);
             text-align: center;
         }
- 
+
         .cgpa-block .cgpa-label {
             font-size: 11px;
             font-weight: 700;
@@ -445,7 +295,7 @@ Copy
             text-transform: uppercase;
             margin-bottom: 6px;
         }
- 
+
         .cgpa-block .cgpa-value {
             font-size: 42px;
             font-weight: 800;
@@ -454,13 +304,13 @@ Copy
             text-shadow: 0 0 30px var(--accent-glow);
             font-family: 'JetBrains Mono', monospace;
         }
- 
+
         .cgpa-block .cgpa-sub {
             font-size: 12px;
             color: var(--muted);
             margin-top: 4px;
         }
- 
+
         /* ── Section header ── */
         .section-head {
             display: flex;
@@ -468,7 +318,7 @@ Copy
             gap: 12px;
             margin-bottom: 16px;
         }
- 
+
         .section-head h3 {
             font-size: 13px;
             font-weight: 700;
@@ -476,14 +326,14 @@ Copy
             color: var(--accent);
             text-transform: uppercase;
         }
- 
+
         .section-head::after {
             content: '';
             flex: 1;
             height: 1px;
             background: var(--border);
         }
- 
+
         /* ── Table ── */
         .table-wrap {
             background: var(--card-bg);
@@ -494,16 +344,16 @@ Copy
             box-shadow: 0 8px 32px rgba(0,0,0,0.3);
             margin-bottom: 32px;
         }
- 
+
         table {
             width: 100%;
             border-collapse: collapse;
         }
- 
+
         thead tr {
             background: rgba(0,198,167,0.12);
         }
- 
+
         th {
             padding: 14px 20px;
             font-size: 11px;
@@ -514,41 +364,41 @@ Copy
             text-align: left;
             border-bottom: 1px solid var(--border);
         }
- 
+
         td {
             padding: 14px 20px;
             font-size: 15px;
             color: var(--off-white);
             border-bottom: 1px solid rgba(255,255,255,0.04);
         }
- 
+
         tbody tr:last-child td { border-bottom: none; }
- 
+
         tbody tr {
             transition: background 0.2s;
         }
- 
+
         tbody tr:hover {
             background: rgba(0,198,167,0.06);
         }
- 
+
         td.mono {
             font-family: 'JetBrains Mono', monospace;
             font-size: 14px;
             font-weight: 500;
         }
- 
+
         td.gpa-good   { color: #4cdb9c; }
         td.gpa-ok     { color: var(--gold); }
         td.gpa-low    { color: var(--red); }
- 
+
         td.cgpa-col {
             font-family: 'JetBrains Mono', monospace;
             font-size: 13px;
             font-weight: 600;
             color: var(--muted);
         }
- 
+
         /* ── Footer ── */
         .footer {
             text-align: center;
@@ -558,12 +408,12 @@ Copy
             color: var(--muted);
             font-size: 13px;
         }
- 
+
         .footer span {
             font-weight: 700;
             color: var(--accent);
         }
- 
+
         /* ── Responsive ── */
         @media (max-width: 560px) {
             .profile-grid { grid-template-columns: 1fr; }
@@ -575,9 +425,9 @@ Copy
     </style>
 </head>
 <body>
- 
+
 <div class="page-wrapper">
- 
+
     <!-- ═══ HEADER ═══ -->
     <header class="site-header">
         <div class="logos">
@@ -588,9 +438,9 @@ Copy
                 </div>
                 <span class="logo-abbr">TTEC</span>
             </div>
- 
+
             <div class="logo-divider"></div>
- 
+
             <!-- NTEC Logo -->
             <div class="logo-badge">
                 <div class="logo-circle" style="border-color: var(--gold); box-shadow: 0 0 24px rgba(245,200,66,0.2), 0 8px 24px rgba(0,0,0,0.4);">
@@ -599,11 +449,11 @@ Copy
                 <span class="logo-abbr" style="color: var(--gold);">NTEC</span>
             </div>
         </div>
- 
+
         <h1>Welcome to <span>TTEC & NTEC</span><br>Result System</h1>
- 
+
     </header>
- 
+
     <!-- ═══ TOP SEARCH ═══ -->
     <div class="search-box">
         <div class="search-label">🔍 Student Lookup</div>
@@ -612,13 +462,13 @@ Copy
             <button onclick="searchResult('Top')">Search</button>
         </div>
     </div>
- 
+
     <!-- ═══ ERROR ═══ -->
     <div id="errorMsg" class="error-msg">⚠️ Result not found! Please check your Roll Number.</div>
- 
+
     <!-- ═══ RESULTS ═══ -->
     <div id="resultArea">
- 
+
         <div class="profile-card">
             <div class="profile-grid">
                 <div class="profile-item">
@@ -641,7 +491,7 @@ Copy
                     <span class="label">Session</span>
                     <span class="value" id="sSession">—</span>
                 </div>
- 
+
                 <div class="cgpa-block">
                     <div class="cgpa-label">Cumulative GPA (Latest Term)</div>
                     <div class="cgpa-value" id="sCgpa">—</div>
@@ -649,11 +499,11 @@ Copy
                 </div>
             </div>
         </div>
- 
+
         <div class="section-head">
             <h3>Term Results</h3>
         </div>
- 
+
         <div class="table-wrap">
             <table>
                 <thead>
@@ -666,32 +516,32 @@ Copy
                 <tbody id="regularTbody"></tbody>
             </table>
         </div>
- 
+
     </div>
- 
+
     <div class="footer">
         Developed &amp; Maintained by <span>Sakib Hasan Bipul</span>
     </div>
- 
+
 </div>
- 
+
 <script>
     let studentData = {};
- 
+
     fetch('data.json')
         .then(r => r.json())
         .then(data => { studentData = data; })
         .catch(() => console.error("Failed to load data.json"));
- 
+
     function handleKeyPress(e, suffix) {
         if (e.key === 'Enter') searchResult(suffix);
     }
- 
+
     // Format term key "L1T1" → "Level 1 Term 1"
     function formatTerm(key) {
         return key.replace(/L(\d+)T(\d+)/i, (_, l, t) => `Level ${l} Term ${t}`);
     }
- 
+
     // Compute running CGPA across sorted terms
     function computeCgpaList(results) {
         const sortedTerms = Object.keys(results).sort();
@@ -703,37 +553,37 @@ Copy
         });
         return cgpaList;
     }
- 
+
     // GPA color class
     function gpaClass(v) {
         if (v >= 3.5) return 'gpa-good';
         if (v >= 2.5) return 'gpa-ok';
         return 'gpa-low';
     }
- 
+
     function searchResult(suffix) {
         const input = document.getElementById('rollInput' + suffix);
         const roll = input.value.trim().toUpperCase();
         const resultArea = document.getElementById('resultArea');
         const errorMsg = document.getElementById('errorMsg');
- 
+
         if (!roll) { alert("Please enter a Roll Number"); return; }
- 
+
         const student = studentData[roll];
- 
+
         if (student) {
             errorMsg.style.display = 'none';
             resultArea.style.display = 'block';
- 
+
             document.getElementById('sName').textContent    = student.name    || 'Unknown';
             document.getElementById('sRoll').textContent    = roll;
             document.getElementById('sCollege').textContent = student.college  || 'Unknown';
             document.getElementById('sDept').textContent    = student.dept     || 'Unknown';
             document.getElementById('sSession').textContent = student.batch    || student.session || 'Unknown';
- 
+
             const tbody = document.getElementById('regularTbody');
             tbody.innerHTML = '';
- 
+
             if (student.results) {
                 const rows = computeCgpaList(student.results);
                 rows.forEach(row => {
@@ -744,7 +594,7 @@ Copy
                         <td class="cgpa-col">${row.cgpa.toFixed(2)}</td>`;
                     tbody.appendChild(tr);
                 });
- 
+
                 // Last term CGPA in hero
                 const last = rows[rows.length - 1];
                 document.getElementById('sCgpa').textContent = last.cgpa.toFixed(2);
@@ -755,10 +605,10 @@ Copy
                 document.getElementById('sCgpa').textContent = cgpa.toFixed(2);
                 document.getElementById('sCgpaTerm').textContent = '';
             }
- 
+
             // Scroll to result smoothly
             resultArea.scrollIntoView({ behavior: 'smooth', block: 'start' });
- 
+
         } else {
             errorMsg.style.display = 'block';
             resultArea.style.display = 'none';
@@ -766,9 +616,6 @@ Copy
         }
     }
 </script>
- 
+
 </body>
 </html>
- 
-
-
