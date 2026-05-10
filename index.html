@@ -537,21 +537,18 @@
         if (e.key === 'Enter') searchResult(suffix);
     }
 
-    // Format term key "L1T1" → "Level 1 Term 1"
+    // Format term key "L1T1" → "Level 1 Term 1", "LXTX" → "Clearance"
     function formatTerm(key) {
+        if (!key) return key;
+        if (/^LXTX$/i.test(key)) return 'Clearance';
         return key.replace(/L(\d+)T(\d+)/i, (_, l, t) => `Level ${l} Term ${t}`);
     }
 
-    // Compute running CGPA across sorted terms
-    function computeCgpaList(results) {
-        const sortedTerms = Object.keys(results).sort();
-        const cgpaList = [];
-        let total = 0;
-        sortedTerms.forEach((term, i) => {
-            total += results[term];
-            cgpaList.push({ term, gpa: results[term], cgpa: total / (i + 1) });
-        });
-        return cgpaList;
+    // Term sort order: regular L#T# first sorted, then LXTX/unknown at end
+    function termSortKey(key) {
+        const m = key.match(/^L(\d+)T(\d+)$/i);
+        if (m) return parseInt(m[1]) * 100 + parseInt(m[2]);
+        return 9999;
     }
 
     // GPA color class
@@ -584,29 +581,64 @@
             const tbody = document.getElementById('regularTbody');
             tbody.innerHTML = '';
 
-            if (student.results) {
-                const rows = computeCgpaList(student.results);
-                rows.forEach(row => {
-                    const tr = document.createElement('tr');
-                    tr.innerHTML = `
-                        <td>${formatTerm(row.term)}</td>
-                        <td class="mono ${gpaClass(row.gpa)}">${row.gpa.toFixed(2)}</td>
-                        <td class="cgpa-col">${row.cgpa.toFixed(2)}</td>`;
-                    tbody.appendChild(tr);
-                });
+            // --- Build unified row list ---
+            // Each row: { term, gpa, isRetake }
+            const allRows = [];
 
-                // Last term CGPA in hero
-                const last = rows[rows.length - 1];
-                document.getElementById('sCgpa').textContent = last.cgpa.toFixed(2);
-                document.getElementById('sCgpaTerm').textContent = `After ${formatTerm(last.term)}`;
+            // Add regular results
+            if (student.results) {
+                Object.entries(student.results).forEach(([term, gpa]) => {
+                    allRows.push({ term, gpa, isRetake: false });
+                });
+            }
+
+            // Add retakes
+            if (student.retakes && student.retakes.length > 0) {
+                student.retakes.forEach(r => {
+                    if (r.gpa > 0) { // skip 0.0 GPA retakes (failed/no result)
+                        allRows.push({ term: r.term, gpa: r.gpa, isRetake: true });
+                    }
+                });
+            }
+
+            // Sort all rows by term order, retakes after regulars within same term
+            allRows.sort((a, b) => {
+                const ka = termSortKey(a.term);
+                const kb = termSortKey(b.term);
+                if (ka !== kb) return ka - kb;
+                // same term: regular first, retake after
+                return (a.isRetake ? 1 : 0) - (b.isRetake ? 1 : 0);
+            });
+
+            // Compute running CGPA across all rows
+            let totalGpa = 0;
+            allRows.forEach((row, i) => {
+                totalGpa += row.gpa;
+                row.cgpa = totalGpa / (i + 1);
+            });
+
+            // Render rows
+            allRows.forEach(row => {
+                const tr = document.createElement('tr');
+                tr.innerHTML = `
+                    <td>${formatTerm(row.term)}</td>
+                    <td class="mono ${gpaClass(row.gpa)}">${row.gpa.toFixed(2)}</td>
+                    <td class="cgpa-col">${row.cgpa.toFixed(2)}</td>`;
+                tbody.appendChild(tr);
+            });
+
+            // Hero CGPA — use stored cgpa from data.json (authoritative final value)
+            const finalCgpa = student.cgpa || 0;
+            document.getElementById('sCgpa').textContent = finalCgpa.toFixed(2);
+
+            // Subtitle: last term label
+            if (allRows.length > 0) {
+                const lastRow = allRows[allRows.length - 1];
+                document.getElementById('sCgpaTerm').textContent = `After ${formatTerm(lastRow.term)}`;
             } else {
-                // fallback if student.cgpa provided
-                const cgpa = student.cgpa || 0;
-                document.getElementById('sCgpa').textContent = cgpa.toFixed(2);
                 document.getElementById('sCgpaTerm').textContent = '';
             }
 
-            // Scroll to result smoothly
             resultArea.scrollIntoView({ behavior: 'smooth', block: 'start' });
 
         } else {
