@@ -45996,5 +45996,15 @@
             "LXTX": 2.49
         },
         "cgpa": 2.98
+    },
+    "23090401018": {
+        "name": "MD HASAN ALI",
+        "batch": "23",
+        "college": "Rangpur",
+        "dept": "Apparel",
+        "results": {
+            "LXTX": 3.25
+        },
+        "cgpa": 3.09
     }
 }
