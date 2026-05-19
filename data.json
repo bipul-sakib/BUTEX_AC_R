@@ -51436,5 +51436,15 @@
             "LXTX": 2.9
         },
         "cgpa": 2.84
+    },
+    "22060201009": {
+        "name": "MD AMR HOSSAIN",
+        "batch": "22",
+        "college": "Jhenaidah",
+        "dept": "Fabric",
+        "results": {
+            "LXTX": 3.17
+        },
+        "cgpa": 2.99
     }
 }
