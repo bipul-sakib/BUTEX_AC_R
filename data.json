@@ -46006,5 +46006,5435 @@
             "LXTX": 3.25
         },
         "cgpa": 3.09
+    },
+    "22020101002": {
+        "name": "MD. ABRR HASAN",
+        "batch": "22",
+        "college": "Pabna",
+        "dept": "Yarn",
+        "results": {
+            "LXTX": 2.82
+        },
+        "cgpa": 2.77
+    },
+    "22020101003": {
+        "name": "MD. NAYEM HASSAN",
+        "batch": "22",
+        "college": "Pabna",
+        "dept": "Yarn",
+        "results": {
+            "LXTX": 3.23
+        },
+        "cgpa": 2.98
+    },
+    "22020101004": {
+        "name": "SALMAN FARSI",
+        "batch": "22",
+        "college": "Pabna",
+        "dept": "Yarn",
+        "results": {
+            "LXTX": 3.12
+        },
+        "cgpa": 2.82
+    },
+    "22020101005": {
+        "name": "SUFAL KUMAR",
+        "batch": "22",
+        "college": "Pabna",
+        "dept": "Yarn",
+        "results": {
+            "LXTX": 2.98
+        },
+        "cgpa": 2.83
+    },
+    "22020101006": {
+        "name": "AKIDA ISLAM DISTY",
+        "batch": "22",
+        "college": "Pabna",
+        "dept": "Yarn",
+        "results": {
+            "LXTX": 3.32
+        },
+        "cgpa": 3.07
+    },
+    "22020101007": {
+        "name": "MD. TANVRR ISLAM SAGOR",
+        "batch": "22",
+        "college": "Pabna",
+        "dept": "Yarn",
+        "results": {
+            "LXTX": 3.26
+        },
+        "cgpa": 3.03
+    },
+    "22020101009": {
+        "name": "MANZIDA ZAMAN OM",
+        "batch": "22",
+        "college": "Pabna",
+        "dept": "Yarn",
+        "results": {
+            "LXTX": 3.43
+        },
+        "cgpa": 3.26
+    },
+    "22020101010": {
+        "name": "M ANZID ISLAM ANTOR",
+        "batch": "22",
+        "college": "Pabna",
+        "dept": "Yarn",
+        "results": {
+            "LXTX": 3.48
+        },
+        "cgpa": 3.16
+    },
+    "22020101012": {
+        "name": "SAMSOJJUHA TUHN",
+        "batch": "22",
+        "college": "Pabna",
+        "dept": "Yarn",
+        "results": {
+            "LXTX": 3.02
+        },
+        "cgpa": 2.9
+    },
+    "22020101014": {
+        "name": "MD. MASUM REZA",
+        "batch": "22",
+        "college": "Pabna",
+        "dept": "Yarn",
+        "results": {
+            "LXTX": 3.12
+        },
+        "cgpa": 3.02
+    },
+    "22020101016": {
+        "name": "MD. JWEL RANA",
+        "batch": "22",
+        "college": "Pabna",
+        "dept": "Yarn",
+        "results": {
+            "LXTX": 2.86
+        },
+        "cgpa": 2.88
+    },
+    "22020101017": {
+        "name": "MD. ARIF ARMAN",
+        "batch": "22",
+        "college": "Pabna",
+        "dept": "Yarn",
+        "results": {
+            "LXTX": 3.48
+        },
+        "cgpa": 3.15
+    },
+    "22020101018": {
+        "name": "MD. ARAFAT JAMAN ADOR",
+        "batch": "22",
+        "college": "Pabna",
+        "dept": "Yarn",
+        "results": {
+            "LXTX": 3.39
+        },
+        "cgpa": 3.2
+    },
+    "22020101019": {
+        "name": "BULBUL AHAMMED",
+        "batch": "22",
+        "college": "Pabna",
+        "dept": "Yarn",
+        "results": {
+            "LXTX": 3.79
+        },
+        "cgpa": 3.62
+    },
+    "22020101020": {
+        "name": "MD. ABDULLAH",
+        "batch": "22",
+        "college": "Pabna",
+        "dept": "Yarn",
+        "results": {
+            "LXTX": 3.88
+        },
+        "cgpa": 3.54
+    },
+    "22020101021": {
+        "name": "MD MASUD RANA",
+        "batch": "22",
+        "college": "Pabna",
+        "dept": "Yarn",
+        "results": {
+            "LXTX": 3.35
+        },
+        "cgpa": 3.24
+    },
+    "22020101023": {
+        "name": "MST. BONNA KHATUN",
+        "batch": "22",
+        "college": "Pabna",
+        "dept": "Yarn",
+        "results": {
+            "LXTX": 3.4
+        },
+        "cgpa": 3.12
+    },
+    "22020101024": {
+        "name": "ABIDA KHANOM",
+        "batch": "22",
+        "college": "Pabna",
+        "dept": "Yarn",
+        "results": {
+            "LXTX": 3.07
+        },
+        "cgpa": 3.07
+    },
+    "22020101025": {
+        "name": "MA NROB ISLAM",
+        "batch": "22",
+        "college": "Pabna",
+        "dept": "Yarn",
+        "results": {
+            "LXTX": 3.4
+        },
+        "cgpa": 3.01
+    },
+    "22020101028": {
+        "name": "FAISAL MAHMUD",
+        "batch": "22",
+        "college": "Pabna",
+        "dept": "Yarn",
+        "results": {
+            "LXTX": 3.89
+        },
+        "cgpa": 3.57
+    },
+    "22020101029": {
+        "name": "MD. SHHABUL ISLAM",
+        "batch": "22",
+        "college": "Pabna",
+        "dept": "Yarn",
+        "results": {
+            "LXTX": 3.49
+        },
+        "cgpa": 3.27
+    },
+    "22020101030": {
+        "name": "TOMA RAN SAHA",
+        "batch": "22",
+        "college": "Pabna",
+        "dept": "Yarn",
+        "results": {
+            "LXTX": 3.69
+        },
+        "cgpa": 3.47
+    },
+    "P201911022": {
+        "name": "MD. ASLAM MIA",
+        "batch": "19",
+        "college": "Pabna",
+        "dept": "Yarn",
+        "results": {
+            "LXTX": 3.24
+        },
+        "cgpa": 3.16
+    },
+    "22020201001": {
+        "name": "MDD. SHAMM REJA",
+        "batch": "22",
+        "college": "Pabna",
+        "dept": "Fabric",
+        "results": {
+            "LXTX": 3.19
+        },
+        "cgpa": 2.83
+    },
+    "22020201005": {
+        "name": "SHOHIDUL ISLAM",
+        "batch": "22",
+        "college": "Pabna",
+        "dept": "Fabric",
+        "results": {
+            "LXTX": 3.5
+        },
+        "cgpa": 3.23
+    },
+    "22020201007": {
+        "name": "MD SAGOR ALI",
+        "batch": "22",
+        "college": "Pabna",
+        "dept": "Fabric",
+        "results": {
+            "LXTX": 3.54
+        },
+        "cgpa": 3.23
+    },
+    "22020201009": {
+        "name": "MDNAYEM ALI",
+        "batch": "22",
+        "college": "Pabna",
+        "dept": "Fabric",
+        "results": {
+            "LXTX": 3.68
+        },
+        "cgpa": 3.27
+    },
+    "22020201012": {
+        "name": "MST. JANNATI KHATUN",
+        "batch": "22",
+        "college": "Pabna",
+        "dept": "Fabric",
+        "results": {
+            "LXTX": 2.93
+        },
+        "cgpa": 2.63
+    },
+    "22020201014": {
+        "name": "HASANALI",
+        "batch": "22",
+        "college": "Pabna",
+        "dept": "Fabric",
+        "results": {
+            "LXTX": 2.68
+        },
+        "cgpa": 2.69
+    },
+    "22020201016": {
+        "name": "SAZZAD HOSSAIN",
+        "batch": "22",
+        "college": "Pabna",
+        "dept": "Fabric",
+        "results": {
+            "LXTX": 3.43
+        },
+        "cgpa": 3.05
+    },
+    "22020201017": {
+        "name": "MD. GOLAM RABBANI",
+        "batch": "22",
+        "college": "Pabna",
+        "dept": "Fabric",
+        "results": {
+            "LXTX": 3.79
+        },
+        "cgpa": 3.44
+    },
+    "22020201019": {
+        "name": "MD. MMM PRANTO",
+        "batch": "22",
+        "college": "Pabna",
+        "dept": "Fabric",
+        "results": {
+            "LXTX": 3.58
+        },
+        "cgpa": 3.08
+    },
+    "22020201020": {
+        "name": "SHAHRIYAR HOSSAIN",
+        "batch": "22",
+        "college": "Pabna",
+        "dept": "Fabric",
+        "results": {
+            "LXTX": 3.25
+        },
+        "cgpa": 2.84
+    },
+    "22020201023": {
+        "name": "ANKK KARMAKER",
+        "batch": "22",
+        "college": "Pabna",
+        "dept": "Fabric",
+        "results": {
+            "LXTX": 3.42
+        },
+        "cgpa": 2.94
+    },
+    "22020201024": {
+        "name": "SOUMK BHATTACHARJEE",
+        "batch": "22",
+        "college": "Pabna",
+        "dept": "Fabric",
+        "results": {
+            "LXTX": 3.14
+        },
+        "cgpa": 2.9
+    },
+    "22020201025": {
+        "name": "MD SHAHIDUL ISLAM",
+        "batch": "22",
+        "college": "Pabna",
+        "dept": "Fabric",
+        "results": {
+            "LXTX": 3.18
+        },
+        "cgpa": 2.84
+    },
+    "22020201027": {
+        "name": "FARZANA YESMN RIPA",
+        "batch": "22",
+        "college": "Pabna",
+        "dept": "Fabric",
+        "results": {
+            "LXTX": 3.4
+        },
+        "cgpa": 3.04
+    },
+    "22020201028": {
+        "name": "PRITOM DEY SARKER",
+        "batch": "22",
+        "college": "Pabna",
+        "dept": "Fabric",
+        "results": {
+            "LXTX": 3.06
+        },
+        "cgpa": 2.78
+    },
+    "22020201029": {
+        "name": "MD MAHADI HASAN",
+        "batch": "22",
+        "college": "Pabna",
+        "dept": "Fabric",
+        "results": {
+            "LXTX": 3.38
+        },
+        "cgpa": 3.08
+    },
+    "22020301002": {
+        "name": "GOURAB KUMAR PAUL",
+        "batch": "22",
+        "college": "Pabna",
+        "dept": "Wet Process",
+        "results": {
+            "LXTX": 3.44
+        },
+        "cgpa": 3.12
+    },
+    "22020301004": {
+        "name": "FOISAL HOSSAIN BIJOY",
+        "batch": "22",
+        "college": "Pabna",
+        "dept": "Wet Process",
+        "results": {
+            "LXTX": 3.44
+        },
+        "cgpa": 2.8
+    },
+    "22020301006": {
+        "name": "MD. ALFAZ AHAMED",
+        "batch": "22",
+        "college": "Pabna",
+        "dept": "Wet Process",
+        "results": {
+            "LXTX": 3.81
+        },
+        "cgpa": 3.01
+    },
+    "22020301007": {
+        "name": "MD MANZUR AHMED",
+        "batch": "22",
+        "college": "Pabna",
+        "dept": "Wet Process",
+        "results": {
+            "LXTX": 3.83
+        },
+        "cgpa": 3.51
+    },
+    "22020301011": {
+        "name": "MD. NASM KHAN",
+        "batch": "22",
+        "college": "Pabna",
+        "dept": "Wet Process",
+        "results": {
+            "LXTX": 3.23
+        },
+        "cgpa": 2.75
+    },
+    "22020301012": {
+        "name": "JESUN FERDOUS",
+        "batch": "22",
+        "college": "Pabna",
+        "dept": "Wet Process",
+        "results": {
+            "LXTX": 3.74
+        },
+        "cgpa": 3.21
+    },
+    "22020301014": {
+        "name": "MD. ARFFUL ISLAM",
+        "batch": "22",
+        "college": "Pabna",
+        "dept": "Wet Process",
+        "results": {
+            "LXTX": 3.68
+        },
+        "cgpa": 3.43
+    },
+    "22020301016": {
+        "name": "MDASHIKUR RAHAN",
+        "batch": "22",
+        "college": "Pabna",
+        "dept": "Wet Process",
+        "results": {
+            "LXTX": 3.28
+        },
+        "cgpa": 2.83
+    },
+    "22020301018": {
+        "name": "MDMAHBUB HASAN",
+        "batch": "22",
+        "college": "Pabna",
+        "dept": "Wet Process",
+        "results": {
+            "LXTX": 3.07
+        },
+        "cgpa": 2.85
+    },
+    "22020301020": {
+        "name": "ZUBARR AHED SHHAB",
+        "batch": "22",
+        "college": "Pabna",
+        "dept": "Wet Process",
+        "results": {
+            "LXTX": 3.72
+        },
+        "cgpa": 3.12
+    },
+    "22020301026": {
+        "name": "SABBR HOSSAIN SHARIF",
+        "batch": "22",
+        "college": "Pabna",
+        "dept": "Wet Process",
+        "results": {
+            "LXTX": 2.78
+        },
+        "cgpa": 2.63
+    },
+    "22020301030": {
+        "name": "BOKTIAR UDDIN KHAN",
+        "batch": "22",
+        "college": "Pabna",
+        "dept": "Wet Process",
+        "results": {
+            "LXTX": 3.56
+        },
+        "cgpa": 3.25
+    },
+    "22020301031": {
+        "name": "MD MNHAJUL ISLAM",
+        "batch": "22",
+        "college": "Pabna",
+        "dept": "Wet Process",
+        "results": {
+            "LXTX": 3.45
+        },
+        "cgpa": 3.16
+    },
+    "P202113025": {
+        "name": "MD. RAJU AHAMMED",
+        "batch": "21",
+        "college": "Pabna",
+        "dept": "Wet Process",
+        "results": {
+            "LXTX": 3.32
+        },
+        "cgpa": 2.84
+    },
+    "22020401002": {
+        "name": "SRABONTI PODDER",
+        "batch": "22",
+        "college": "Pabna",
+        "dept": "Apparel",
+        "results": {
+            "LXTX": 3.92
+        },
+        "cgpa": 3.75
+    },
+    "22020401004": {
+        "name": "NISHI SARKAR",
+        "batch": "22",
+        "college": "Pabna",
+        "dept": "Apparel",
+        "results": {
+            "LXTX": 3.7
+        },
+        "cgpa": 3.43
+    },
+    "22020401007": {
+        "name": "MD. ZABED OMAR",
+        "batch": "22",
+        "college": "Pabna",
+        "dept": "Apparel",
+        "results": {
+            "LXTX": 3.84
+        },
+        "cgpa": 3.28
+    },
+    "22020401011": {
+        "name": "MD. SHAON ALI",
+        "batch": "22",
+        "college": "Pabna",
+        "dept": "Apparel",
+        "results": {
+            "LXTX": 3.41
+        },
+        "cgpa": 3.04
+    },
+    "22020401012": {
+        "name": "NOWSHNN AFRIN",
+        "batch": "22",
+        "college": "Pabna",
+        "dept": "Apparel",
+        "results": {
+            "LXTX": 3.33
+        },
+        "cgpa": 2.99
+    },
+    "22020401013": {
+        "name": "MD BAYZID HASAN",
+        "batch": "22",
+        "college": "Pabna",
+        "dept": "Apparel",
+        "results": {
+            "LXTX": 3.68
+        },
+        "cgpa": 3.29
+    },
+    "22020401014": {
+        "name": "KH JALAL UDDNN",
+        "batch": "22",
+        "college": "Pabna",
+        "dept": "Apparel",
+        "results": {
+            "LXTX": 3.97
+        },
+        "cgpa": 3.63
+    },
+    "22020401016": {
+        "name": "TOHURA KHATUN",
+        "batch": "22",
+        "college": "Pabna",
+        "dept": "Apparel",
+        "results": {
+            "LXTX": 3.92
+        },
+        "cgpa": 3.67
+    },
+    "22020401018": {
+        "name": "SAROYAT JAHAN",
+        "batch": "22",
+        "college": "Pabna",
+        "dept": "Apparel",
+        "results": {
+            "LXTX": 3.78
+        },
+        "cgpa": 3.32
+    },
+    "22020401019": {
+        "name": "MD PARVEZ KHANDAKER",
+        "batch": "22",
+        "college": "Pabna",
+        "dept": "Apparel",
+        "results": {
+            "LXTX": 3.43
+        },
+        "cgpa": 2.99
+    },
+    "22020401021": {
+        "name": "KAZI OSMAN GANI ARMAN",
+        "batch": "22",
+        "college": "Pabna",
+        "dept": "Apparel",
+        "results": {
+            "LXTX": 3.02
+        },
+        "cgpa": 3.02
+    },
+    "22020401022": {
+        "name": "SOUROV KUMAR DAVNATH",
+        "batch": "22",
+        "college": "Pabna",
+        "dept": "Apparel",
+        "results": {
+            "LXTX": 3.53
+        },
+        "cgpa": 3.38
+    },
+    "22020401026": {
+        "name": "MD ABBAS OALIULLAH",
+        "batch": "22",
+        "college": "Pabna",
+        "dept": "Apparel",
+        "results": {
+            "LXTX": 3.84
+        },
+        "cgpa": 3.55
+    },
+    "22020401028": {
+        "name": "MD. MAHADI HASAN",
+        "batch": "22",
+        "college": "Pabna",
+        "dept": "Apparel",
+        "results": {
+            "LXTX": 3.55
+        },
+        "cgpa": 3.13
+    },
+    "22020401029": {
+        "name": "M RABIUL AWAL",
+        "batch": "22",
+        "college": "Pabna",
+        "dept": "Apparel",
+        "results": {
+            "LXTX": 3.86
+        },
+        "cgpa": 3.53
+    },
+    "22020401030": {
+        "name": "ARNKKA TAHOSNN",
+        "batch": "22",
+        "college": "Pabna",
+        "dept": "Apparel",
+        "results": {
+            "LXTX": 3.22
+        },
+        "cgpa": 2.94
+    },
+    "22020401031": {
+        "name": "MD ARIFUL ISLAM",
+        "batch": "22",
+        "college": "Pabna",
+        "dept": "Apparel",
+        "results": {
+            "LXTX": 3.32
+        },
+        "cgpa": 3.06
+    },
+    "P202114005": {
+        "name": "MD NAZMUL HOSSAIN",
+        "batch": "21",
+        "college": "Pabna",
+        "dept": "Apparel",
+        "results": {
+            "LXTX": 3.38
+        },
+        "cgpa": 2.9
+    },
+    "22030101001": {
+        "name": "SHRUTI CHAKRABORTY",
+        "batch": "22",
+        "college": "Chattogram",
+        "dept": "Yarn",
+        "results": {
+            "LXTX": 3.5
+        },
+        "cgpa": 3.23
+    },
+    "22030101003": {
+        "name": "TUSTI ACHARJEE",
+        "batch": "22",
+        "college": "Chattogram",
+        "dept": "Yarn",
+        "results": {
+            "LXTX": 3.68
+        },
+        "cgpa": 3.62
+    },
+    "22030101008": {
+        "name": "MD. JABED HOSSAIN",
+        "batch": "22",
+        "college": "Chattogram",
+        "dept": "Yarn",
+        "results": {
+            "LXTX": 3.14
+        },
+        "cgpa": 2.88
+    },
+    "22030101009": {
+        "name": "PROM NATH",
+        "batch": "22",
+        "college": "Chattogram",
+        "dept": "Yarn",
+        "results": {
+            "LXTX": 3.82
+        },
+        "cgpa": 3.5
+    },
+    "22030101010": {
+        "name": "JANNATUL FERDOUSE",
+        "batch": "22",
+        "college": "Chattogram",
+        "dept": "Yarn",
+        "results": {
+            "LXTX": 3.75
+        },
+        "cgpa": 3.76
+    },
+    "22030101012": {
+        "name": "ISHRAT JAHAN",
+        "batch": "22",
+        "college": "Chattogram",
+        "dept": "Yarn",
+        "results": {
+            "LXTX": 3.12
+        },
+        "cgpa": 3.05
+    },
+    "22030101013": {
+        "name": "SANIDAAKTER",
+        "batch": "22",
+        "college": "Chattogram",
+        "dept": "Yarn",
+        "results": {
+            "LXTX": 3.75
+        },
+        "cgpa": 3.59
+    },
+    "22030101016": {
+        "name": "SRABAN BANK RUDRA",
+        "batch": "22",
+        "college": "Chattogram",
+        "dept": "Yarn",
+        "results": {
+            "LXTX": 3.43
+        },
+        "cgpa": 3.25
+    },
+    "22030101018": {
+        "name": "AVIJIT RAKSHT",
+        "batch": "22",
+        "college": "Chattogram",
+        "dept": "Yarn",
+        "results": {
+            "LXTX": 3.17
+        },
+        "cgpa": 3.02
+    },
+    "22030101019": {
+        "name": "KATHA DAS",
+        "batch": "22",
+        "college": "Chattogram",
+        "dept": "Yarn",
+        "results": {
+            "LXTX": 3.89
+        },
+        "cgpa": 3.86
+    },
+    "22030101021": {
+        "name": "TANVIR MAHMUD",
+        "batch": "22",
+        "college": "Chattogram",
+        "dept": "Yarn",
+        "results": {
+            "LXTX": 3.3
+        },
+        "cgpa": 3.07
+    },
+    "22030101022": {
+        "name": "MDASIFUL ISLAM ASIF",
+        "batch": "22",
+        "college": "Chattogram",
+        "dept": "Yarn",
+        "results": {
+            "LXTX": 2.93
+        },
+        "cgpa": 2.71
+    },
+    "22030101023": {
+        "name": "SAKIB UDDIN SAYEM",
+        "batch": "22",
+        "college": "Chattogram",
+        "dept": "Yarn",
+        "results": {
+            "LXTX": 3.24
+        },
+        "cgpa": 2.71
+    },
+    "22030101026": {
+        "name": "PRIYONTI BANKK TURNA",
+        "batch": "22",
+        "college": "Chattogram",
+        "dept": "Yarn",
+        "results": {
+            "LXTX": 3.18
+        },
+        "cgpa": 2.99
+    },
+    "22030101027": {
+        "name": "MD. AJGOR HOSEN",
+        "batch": "22",
+        "college": "Chattogram",
+        "dept": "Yarn",
+        "results": {
+            "LXTX": 2.64
+        },
+        "cgpa": 2.76
+    },
+    "27030101028": {
+        "name": "PRANGON RAKSHIT",
+        "batch": "27",
+        "college": "Chattogram",
+        "dept": "Yarn",
+        "results": {
+            "LXTX": 3.19
+        },
+        "cgpa": 3.07
+    },
+    "22030101029": {
+        "name": "SAZIYA AFRIN",
+        "batch": "22",
+        "college": "Chattogram",
+        "dept": "Yarn",
+        "results": {
+            "LXTX": 3.4
+        },
+        "cgpa": 3.28
+    },
+    "22030101030": {
+        "name": "SHAKHAWAT HOSSAIN",
+        "batch": "22",
+        "college": "Chattogram",
+        "dept": "Yarn",
+        "results": {
+            "LXTX": 3.14
+        },
+        "cgpa": 3.22
+    },
+    "Z202111003": {
+        "name": "SAJIB DAS",
+        "batch": "21",
+        "college": "Chattogram",
+        "dept": "Yarn",
+        "results": {
+            "LXTX": 3.01
+        },
+        "cgpa": 2.73
+    },
+    "Z202111012": {
+        "name": "HABBBA SULTANA PARUL",
+        "batch": "21",
+        "college": "Chattogram",
+        "dept": "Yarn",
+        "results": {
+            "LXTX": 2.94
+        },
+        "cgpa": 2.94
+    },
+    "22030201001": {
+        "name": "MD. EMON HASSAN RAHI",
+        "batch": "22",
+        "college": "Chattogram",
+        "dept": "Fabric",
+        "results": {
+            "LXTX": 3.44
+        },
+        "cgpa": 2.99
+    },
+    "22030201004": {
+        "name": "SHAHADAT HOSSAIN",
+        "batch": "22",
+        "college": "Chattogram",
+        "dept": "Fabric",
+        "results": {
+            "LXTX": 3.6
+        },
+        "cgpa": 3.48
+    },
+    "22030201006": {
+        "name": "SUNJDDA RAHMAN DHHAN",
+        "batch": "22",
+        "college": "Chattogram",
+        "dept": "Fabric",
+        "results": {
+            "LXTX": 3.72
+        },
+        "cgpa": 3.4
+    },
+    "22030201007": {
+        "name": ". SAYHAM NOSHIN NABO",
+        "batch": "22",
+        "college": "Chattogram",
+        "dept": "Fabric",
+        "results": {
+            "LXTX": 2.97
+        },
+        "cgpa": 2.79
+    },
+    "22030201008": {
+        "name": "SHARIF UDDIN",
+        "batch": "22",
+        "college": "Chattogram",
+        "dept": "Fabric",
+        "results": {
+            "LXTX": 3.63
+        },
+        "cgpa": 3.19
+    },
+    "22030201010": {
+        "name": "MD SHARIFUL AZAM",
+        "batch": "22",
+        "college": "Chattogram",
+        "dept": "Fabric",
+        "results": {
+            "LXTX": 3.31
+        },
+        "cgpa": 3.11
+    },
+    "22030201013": {
+        "name": "MDSAKIB",
+        "batch": "22",
+        "college": "Chattogram",
+        "dept": "Fabric",
+        "results": {
+            "LXTX": 3.33
+        },
+        "cgpa": 3.17
+    },
+    "22030201014": {
+        "name": "ANIKA NATHANTU",
+        "batch": "22",
+        "college": "Chattogram",
+        "dept": "Fabric",
+        "results": {
+            "LXTX": 3.51
+        },
+        "cgpa": 3.35
+    },
+    "22030201017": {
+        "name": "IFTAKHER HOSSAIN EMON",
+        "batch": "22",
+        "college": "Chattogram",
+        "dept": "Fabric",
+        "results": {
+            "LXTX": 3.21
+        },
+        "cgpa": 2.92
+    },
+    "22030201020": {
+        "name": "MAHMUDUL HASAN",
+        "batch": "22",
+        "college": "Chattogram",
+        "dept": "Fabric",
+        "results": {
+            "LXTX": 3.39
+        },
+        "cgpa": 2.99
+    },
+    "22030201022": {
+        "name": "ABDUR RAHMAN",
+        "batch": "22",
+        "college": "Chattogram",
+        "dept": "Fabric",
+        "results": {
+            "LXTX": 3.54
+        },
+        "cgpa": 2.98
+    },
+    "22030201023": {
+        "name": "ISRAT JAHAN TNA",
+        "batch": "22",
+        "college": "Chattogram",
+        "dept": "Fabric",
+        "results": {
+            "LXTX": 3.54
+        },
+        "cgpa": 3.44
+    },
+    "22030201026": {
+        "name": "TARKKUL ISLAM",
+        "batch": "22",
+        "college": "Chattogram",
+        "dept": "Fabric",
+        "results": {
+            "LXTX": 3.64
+        },
+        "cgpa": 3.14
+    },
+    "22030201028": {
+        "name": "ISHAQ AL FAISAL",
+        "batch": "22",
+        "college": "Chattogram",
+        "dept": "Fabric",
+        "results": {
+            "LXTX": 3.1
+        },
+        "cgpa": 2.77
+    },
+    "22030201029": {
+        "name": "SHADHAT HOSSAI SAIF",
+        "batch": "22",
+        "college": "Chattogram",
+        "dept": "Fabric",
+        "results": {
+            "LXTX": 2.94
+        },
+        "cgpa": 2.66
+    },
+    "22030201030": {
+        "name": "SUJAN DAS",
+        "batch": "22",
+        "college": "Chattogram",
+        "dept": "Fabric",
+        "results": {
+            "LXTX": 3.88
+        },
+        "cgpa": 3.75
+    },
+    "2202112010": {
+        "name": "HM ARAFAT",
+        "batch": "Unknown",
+        "college": "Unknown",
+        "dept": "Unknown",
+        "results": {
+            "LXTX": 3.14
+        },
+        "cgpa": 2.67
+    },
+    "22030301002": {
+        "name": "SAMUL KABRR",
+        "batch": "22",
+        "college": "Chattogram",
+        "dept": "Wet Process",
+        "results": {
+            "LXTX": 3.11
+        },
+        "cgpa": 3.03
+    },
+    "22030301003": {
+        "name": "TAHSIN HASAN FAHIM",
+        "batch": "22",
+        "college": "Chattogram",
+        "dept": "Wet Process",
+        "results": {
+            "LXTX": 3.43
+        },
+        "cgpa": 3.08
+    },
+    "22030301004": {
+        "name": "MOHAMMED AKIV",
+        "batch": "22",
+        "college": "Chattogram",
+        "dept": "Wet Process",
+        "results": {
+            "LXTX": 2.98
+        },
+        "cgpa": 3.05
+    },
+    "22030301007": {
+        "name": "JANNATUL NAYEM AKTER",
+        "batch": "22",
+        "college": "Chattogram",
+        "dept": "Wet Process",
+        "results": {
+            "LXTX": 3.69
+        },
+        "cgpa": 3.6
+    },
+    "22030301008": {
+        "name": "SYDUL ISLAM TANIM",
+        "batch": "22",
+        "college": "Chattogram",
+        "dept": "Wet Process",
+        "results": {
+            "LXTX": 3.19
+        },
+        "cgpa": 2.93
+    },
+    "22030301010": {
+        "name": "MTEAZ FERDOUS",
+        "batch": "22",
+        "college": "Chattogram",
+        "dept": "Wet Process",
+        "results": {
+            "LXTX": 3.13
+        },
+        "cgpa": 2.37
+    },
+    "22030301011": {
+        "name": "MD. AL RAZI MAH",
+        "batch": "22",
+        "college": "Chattogram",
+        "dept": "Wet Process",
+        "results": {
+            "LXTX": 3.09
+        },
+        "cgpa": 2.73
+    },
+    "22030301013": {
+        "name": "SM FTEKHARUL ISLAM",
+        "batch": "22",
+        "college": "Chattogram",
+        "dept": "Wet Process",
+        "results": {
+            "LXTX": 3.41
+        },
+        "cgpa": 2.94
+    },
+    "22030301014": {
+        "name": "MDD. ZAHD HASAN",
+        "batch": "22",
+        "college": "Chattogram",
+        "dept": "Wet Process",
+        "results": {
+            "LXTX": 3.13
+        },
+        "cgpa": 2.99
+    },
+    "22030301017": {
+        "name": "MKOWSAR MAHAMD",
+        "batch": "22",
+        "college": "Chattogram",
+        "dept": "Wet Process",
+        "results": {
+            "LXTX": 3.66
+        },
+        "cgpa": 3.54
+    },
+    "22030301019": {
+        "name": "MD MARUF ALLAM",
+        "batch": "22",
+        "college": "Chattogram",
+        "dept": "Wet Process",
+        "results": {
+            "LXTX": 3.41
+        },
+        "cgpa": 3.12
+    },
+    "22030301021": {
+        "name": "PRANTIK CHOWDHURY",
+        "batch": "22",
+        "college": "Chattogram",
+        "dept": "Wet Process",
+        "results": {
+            "LXTX": 3.28
+        },
+        "cgpa": 2.79
+    },
+    "22030301022": {
+        "name": "M ISTIAK UDDNN",
+        "batch": "22",
+        "college": "Chattogram",
+        "dept": "Wet Process",
+        "results": {
+            "LXTX": 3.7
+        },
+        "cgpa": 3.62
+    },
+    "22030301024": {
+        "name": "UMARFAROQUEANAR",
+        "batch": "22",
+        "college": "Chattogram",
+        "dept": "Wet Process",
+        "results": {
+            "LXTX": 3.68
+        },
+        "cgpa": 3.24
+    },
+    "22030301025": {
+        "name": "TAPAS CHOWDHURY",
+        "batch": "22",
+        "college": "Chattogram",
+        "dept": "Wet Process",
+        "results": {
+            "LXTX": 3.48
+        },
+        "cgpa": 3.04
+    },
+    "22030301026": {
+        "name": "MDRASEL MRIDHA",
+        "batch": "22",
+        "college": "Chattogram",
+        "dept": "Wet Process",
+        "results": {
+            "LXTX": 3.63
+        },
+        "cgpa": 3.13
+    },
+    "22030301031": {
+        "name": "EMON DAS",
+        "batch": "22",
+        "college": "Chattogram",
+        "dept": "Wet Process",
+        "results": {
+            "LXTX": 3.36
+        },
+        "cgpa": 2.83
+    },
+    "22030301032": {
+        "name": "SUBIJEET CHAKMA",
+        "batch": "22",
+        "college": "Chattogram",
+        "dept": "Wet Process",
+        "results": {
+            "LXTX": 3.63
+        },
+        "cgpa": 3.23
+    },
+    "2202113003": {
+        "name": "MD. HABB ULLAH HAMD",
+        "batch": "Unknown",
+        "college": "Unknown",
+        "dept": "Unknown",
+        "results": {
+            "LXTX": 3.06
+        },
+        "cgpa": 2.89
+    },
+    "2202113004": {
+        "name": "HABIBUR RAHMAN",
+        "batch": "Unknown",
+        "college": "Unknown",
+        "dept": "Unknown",
+        "results": {
+            "LXTX": 3.15
+        },
+        "cgpa": 2.73
+    },
+    "22030401001": {
+        "name": "SHRESTHA BHOWMK",
+        "batch": "22",
+        "college": "Chattogram",
+        "dept": "Apparel",
+        "results": {
+            "LXTX": 3.97
+        },
+        "cgpa": 3.47
+    },
+    "22030401004": {
+        "name": "ARNA DATTA",
+        "batch": "22",
+        "college": "Chattogram",
+        "dept": "Apparel",
+        "results": {
+            "LXTX": 3.87
+        },
+        "cgpa": 3.64
+    },
+    "22030401005": {
+        "name": "NADIA SULTANA",
+        "batch": "22",
+        "college": "Chattogram",
+        "dept": "Apparel",
+        "results": {
+            "LXTX": 3.84
+        },
+        "cgpa": 3.4
+    },
+    "22030401007": {
+        "name": "HAFSA AKTER",
+        "batch": "22",
+        "college": "Chattogram",
+        "dept": "Apparel",
+        "results": {
+            "LXTX": 4.0
+        },
+        "cgpa": 3.7
+    },
+    "22030401010": {
+        "name": "FRUJ MAHAMUD",
+        "batch": "22",
+        "college": "Chattogram",
+        "dept": "Apparel",
+        "results": {
+            "LXTX": 3.45
+        },
+        "cgpa": 3.15
+    },
+    "22030401011": {
+        "name": "SABBRR AHMED RIAD",
+        "batch": "22",
+        "college": "Chattogram",
+        "dept": "Apparel",
+        "results": {
+            "LXTX": 3.84
+        },
+        "cgpa": 3.76
+    },
+    "22030401015": {
+        "name": "MD FORKAN UDDIN",
+        "batch": "22",
+        "college": "Chattogram",
+        "dept": "Apparel",
+        "results": {
+            "LXTX": 3.28
+        },
+        "cgpa": 3.02
+    },
+    "22030401024": {
+        "name": "SADMAN SANN",
+        "batch": "22",
+        "college": "Chattogram",
+        "dept": "Apparel",
+        "results": {
+            "LXTX": 3.34
+        },
+        "cgpa": 2.91
+    },
+    "22030401026": {
+        "name": "SANJIDA MEHRIN",
+        "batch": "22",
+        "college": "Chattogram",
+        "dept": "Apparel",
+        "results": {
+            "LXTX": 3.9
+        },
+        "cgpa": 3.73
+    },
+    "22030401028": {
+        "name": "JEBIN SULTANA PRANTI",
+        "batch": "22",
+        "college": "Chattogram",
+        "dept": "Apparel",
+        "results": {
+            "LXTX": 3.4
+        },
+        "cgpa": 3.15
+    },
+    "Z202114003": {
+        "name": "MRAJ ARMAN SHAHR",
+        "batch": "21",
+        "college": "Chattogram",
+        "dept": "Apparel",
+        "results": {
+            "LXTX": 3.15
+        },
+        "cgpa": 2.7
+    },
+    "Z202114022": {
+        "name": "TANAY CHOWDHURY",
+        "batch": "21",
+        "college": "Chattogram",
+        "dept": "Apparel",
+        "results": {
+            "LXTX": 3.5
+        },
+        "cgpa": 2.91
+    },
+    "22040101001": {
+        "name": "MDSANIUL ISLAM SOJOL",
+        "batch": "22",
+        "college": "Barishal",
+        "dept": "Yarn",
+        "results": {
+            "LXTX": 2.71
+        },
+        "cgpa": 2.81
+    },
+    "22040101002": {
+        "name": "NAFISA ANJUM EFTT",
+        "batch": "22",
+        "college": "Barishal",
+        "dept": "Yarn",
+        "results": {
+            "LXTX": 3.46
+        },
+        "cgpa": 3.53
+    },
+    "22040101003": {
+        "name": "ERIC GOMES",
+        "batch": "22",
+        "college": "Barishal",
+        "dept": "Yarn",
+        "results": {
+            "LXTX": 3.04
+        },
+        "cgpa": 3.02
+    },
+    "22040101004": {
+        "name": "MST SAFATUNNESA BRISTT",
+        "batch": "22",
+        "college": "Barishal",
+        "dept": "Yarn",
+        "results": {
+            "LXTX": 2.9
+        },
+        "cgpa": 2.78
+    },
+    "22040101006": {
+        "name": "M YEAMN TALUKDER",
+        "batch": "22",
+        "college": "Barishal",
+        "dept": "Yarn",
+        "results": {
+            "LXTX": 2.87
+        },
+        "cgpa": 2.72
+    },
+    "22040101010": {
+        "name": "M. RIAJUL ISLAM",
+        "batch": "22",
+        "college": "Barishal",
+        "dept": "Yarn",
+        "results": {
+            "LXTX": 3.24
+        },
+        "cgpa": 3.06
+    },
+    "22040101011": {
+        "name": "MD MASUM BILLAH",
+        "batch": "22",
+        "college": "Barishal",
+        "dept": "Yarn",
+        "results": {
+            "LXTX": 3.77
+        },
+        "cgpa": 3.45
+    },
+    "22040101014": {
+        "name": "JOYA SAHA",
+        "batch": "22",
+        "college": "Barishal",
+        "dept": "Yarn",
+        "results": {
+            "LXTX": 3.01
+        },
+        "cgpa": 2.83
+    },
+    "22040101015": {
+        "name": "MOHAMMAD ANSAR",
+        "batch": "22",
+        "college": "Barishal",
+        "dept": "Yarn",
+        "results": {
+            "LXTX": 3.12
+        },
+        "cgpa": 2.85
+    },
+    "22040101016": {
+        "name": "YUVORAZ KHAN",
+        "batch": "22",
+        "college": "Barishal",
+        "dept": "Yarn",
+        "results": {
+            "LXTX": 3.11
+        },
+        "cgpa": 2.79
+    },
+    "22040101017": {
+        "name": "SUSHANTA DAS",
+        "batch": "22",
+        "college": "Barishal",
+        "dept": "Yarn",
+        "results": {
+            "LXTX": 2.92
+        },
+        "cgpa": 3.09
+    },
+    "22040101018": {
+        "name": "MD. JUNAYED AHED",
+        "batch": "22",
+        "college": "Barishal",
+        "dept": "Yarn",
+        "results": {
+            "LXTX": 3.93
+        },
+        "cgpa": 3.7
+    },
+    "22040101021": {
+        "name": "MD. REKATUL ISLAM",
+        "batch": "22",
+        "college": "Barishal",
+        "dept": "Yarn",
+        "results": {
+            "LXTX": 2.86
+        },
+        "cgpa": 2.82
+    },
+    "22040101022": {
+        "name": "MDSHADATH HOSSAIN",
+        "batch": "22",
+        "college": "Barishal",
+        "dept": "Yarn",
+        "results": {
+            "LXTX": 3.18
+        },
+        "cgpa": 2.74
+    },
+    "22040101023": {
+        "name": "MD. MMHAJUL ISLAM",
+        "batch": "22",
+        "college": "Barishal",
+        "dept": "Yarn",
+        "results": {
+            "LXTX": 3.39
+        },
+        "cgpa": 2.97
+    },
+    "22040101024": {
+        "name": "MD SAJIB UDDNN",
+        "batch": "22",
+        "college": "Barishal",
+        "dept": "Yarn",
+        "results": {
+            "LXTX": 3.15
+        },
+        "cgpa": 3.0
+    },
+    "22040101025": {
+        "name": "JOYA MSTRY",
+        "batch": "22",
+        "college": "Barishal",
+        "dept": "Yarn",
+        "results": {
+            "LXTX": 3.14
+        },
+        "cgpa": 3.07
+    },
+    "B202111014": {
+        "name": "SUDIPTO BANIK",
+        "batch": "21",
+        "college": "Barisal",
+        "dept": "Yarn",
+        "results": {
+            "LXTX": 3.01
+        },
+        "cgpa": 2.98
+    },
+    "B202111018": {
+        "name": "MDALKAIUM",
+        "batch": "21",
+        "college": "Barisal",
+        "dept": "Yarn",
+        "results": {
+            "LXTX": 2.5
+        },
+        "cgpa": 2.59
+    },
+    "B202111020": {
+        "name": "MD. MUBASSRR FAHAD",
+        "batch": "21",
+        "college": "Barisal",
+        "dept": "Yarn",
+        "results": {
+            "LXTX": 2.9
+        },
+        "cgpa": 2.7
+    },
+    "22040201001": {
+        "name": "MD.AKTARUL ZAMAN",
+        "batch": "22",
+        "college": "Barishal",
+        "dept": "Fabric",
+        "results": {
+            "LXTX": 3.58
+        },
+        "cgpa": 3.33
+    },
+    "22040201002": {
+        "name": "MHEDI HASAN SUJON",
+        "batch": "22",
+        "college": "Barishal",
+        "dept": "Fabric",
+        "results": {
+            "LXTX": 2.68
+        },
+        "cgpa": 2.82
+    },
+    "22040201004": {
+        "name": "SUMAN BISWAS",
+        "batch": "22",
+        "college": "Barishal",
+        "dept": "Fabric",
+        "results": {
+            "LXTX": 3.19
+        },
+        "cgpa": 2.83
+    },
+    "22040201005": {
+        "name": "TANVR ISLAM JBAER",
+        "batch": "22",
+        "college": "Barishal",
+        "dept": "Fabric",
+        "results": {
+            "LXTX": 3.11
+        },
+        "cgpa": 2.84
+    },
+    "22040201007": {
+        "name": "JAHIDUL ISLAM",
+        "batch": "22",
+        "college": "Barishal",
+        "dept": "Fabric",
+        "results": {
+            "LXTX": 3.08
+        },
+        "cgpa": 2.72
+    },
+    "22040201008": {
+        "name": "SAIFUL ISLAM RABBY",
+        "batch": "22",
+        "college": "Barishal",
+        "dept": "Fabric",
+        "results": {
+            "LXTX": 3.15
+        },
+        "cgpa": 3.09
+    },
+    "22040201009": {
+        "name": "MD. SHAHRIA TOKI",
+        "batch": "22",
+        "college": "Barishal",
+        "dept": "Fabric",
+        "results": {
+            "LXTX": 2.85
+        },
+        "cgpa": 2.95
+    },
+    "22040201010": {
+        "name": "MD SAIDUL ISLAM",
+        "batch": "22",
+        "college": "Barishal",
+        "dept": "Fabric",
+        "results": {
+            "LXTX": 2.86
+        },
+        "cgpa": 2.69
+    },
+    "22040201013": {
+        "name": "AKBOR HOSSEN",
+        "batch": "22",
+        "college": "Barishal",
+        "dept": "Fabric",
+        "results": {
+            "LXTX": 2.98
+        },
+        "cgpa": 3.09
+    },
+    "22040201015": {
+        "name": "MD RAHAT",
+        "batch": "22",
+        "college": "Barishal",
+        "dept": "Fabric",
+        "results": {
+            "LXTX": 2.78
+        },
+        "cgpa": 2.98
+    },
+    "22040201016": {
+        "name": "MD. SAKI AHAMED",
+        "batch": "22",
+        "college": "Barishal",
+        "dept": "Fabric",
+        "results": {
+            "LXTX": 3.71
+        },
+        "cgpa": 3.32
+    },
+    "22040201017": {
+        "name": "MD. JAHDUL ISLAM",
+        "batch": "22",
+        "college": "Barishal",
+        "dept": "Fabric",
+        "results": {
+            "LXTX": 3.38
+        },
+        "cgpa": 3.0
+    },
+    "22040201018": {
+        "name": "AKIB AL NEEHAL",
+        "batch": "22",
+        "college": "Barishal",
+        "dept": "Fabric",
+        "results": {
+            "LXTX": 3.19
+        },
+        "cgpa": 3.2
+    },
+    "22040201020": {
+        "name": "MD MOSTAK HASAN NON",
+        "batch": "22",
+        "college": "Barishal",
+        "dept": "Fabric",
+        "results": {
+            "LXTX": 3.06
+        },
+        "cgpa": 3.05
+    },
+    "22040201022": {
+        "name": "SAKIL KHAN",
+        "batch": "22",
+        "college": "Barishal",
+        "dept": "Fabric",
+        "results": {
+            "LXTX": 3.13
+        },
+        "cgpa": 2.97
+    },
+    "22040201024": {
+        "name": "MD. ABID SARDER",
+        "batch": "22",
+        "college": "Barishal",
+        "dept": "Fabric",
+        "results": {
+            "LXTX": 3.58
+        },
+        "cgpa": 3.26
+    },
+    "22040201028": {
+        "name": "SUMON GHARAMI",
+        "batch": "22",
+        "college": "Barishal",
+        "dept": "Fabric",
+        "results": {
+            "LXTX": 2.76
+        },
+        "cgpa": 2.72
+    },
+    "22040201029": {
+        "name": "HIROK MONDAL",
+        "batch": "22",
+        "college": "Barishal",
+        "dept": "Fabric",
+        "results": {
+            "LXTX": 3.08
+        },
+        "cgpa": 2.75
+    },
+    "B202112014": {
+        "name": "GOUTOM CHANDRO SHL",
+        "batch": "21",
+        "college": "Barisal",
+        "dept": "Fabric",
+        "results": {
+            "LXTX": 3.47
+        },
+        "cgpa": 3.36
+    },
+    "22040301001": {
+        "name": "TAHMDD HASAN",
+        "batch": "22",
+        "college": "Barishal",
+        "dept": "Wet Process",
+        "results": {
+            "LXTX": 3.07
+        },
+        "cgpa": 2.79
+    },
+    "22040301002": {
+        "name": "MD ISTIAK AHED",
+        "batch": "22",
+        "college": "Barishal",
+        "dept": "Wet Process",
+        "results": {
+            "LXTX": 3.42
+        },
+        "cgpa": 3.04
+    },
+    "22040301003": {
+        "name": "KM NROB",
+        "batch": "22",
+        "college": "Barishal",
+        "dept": "Wet Process",
+        "results": {
+            "LXTX": 3.42
+        },
+        "cgpa": 3.15
+    },
+    "22040301004": {
+        "name": "JOBAYAR SHEKKH",
+        "batch": "22",
+        "college": "Barishal",
+        "dept": "Wet Process",
+        "results": {
+            "LXTX": 3.45
+        },
+        "cgpa": 3.08
+    },
+    "22040301008": {
+        "name": "M TAWHEED ISLAM",
+        "batch": "22",
+        "college": "Barishal",
+        "dept": "Wet Process",
+        "results": {
+            "LXTX": 3.43
+        },
+        "cgpa": 3.23
+    },
+    "22040301009": {
+        "name": "MD NAZMUL ISLAM SAKIB",
+        "batch": "22",
+        "college": "Barishal",
+        "dept": "Wet Process",
+        "results": {
+            "LXTX": 3.48
+        },
+        "cgpa": 3.25
+    },
+    "22040301012": {
+        "name": "SAUHARDYA SARDAR",
+        "batch": "22",
+        "college": "Barishal",
+        "dept": "Wet Process",
+        "results": {
+            "LXTX": 3.43
+        },
+        "cgpa": 3.11
+    },
+    "22040301013": {
+        "name": "MDAFFF YOUSUF",
+        "batch": "22",
+        "college": "Barishal",
+        "dept": "Wet Process",
+        "results": {
+            "LXTX": 2.86
+        },
+        "cgpa": 2.76
+    },
+    "22040301016": {
+        "name": "MD. MAHABUB HOSSAIN",
+        "batch": "22",
+        "college": "Barishal",
+        "dept": "Wet Process",
+        "results": {
+            "LXTX": 2.81
+        },
+        "cgpa": 2.81
+    },
+    "22040301017": {
+        "name": "SAHIN ALAM",
+        "batch": "22",
+        "college": "Barishal",
+        "dept": "Wet Process",
+        "results": {
+            "LXTX": 2.63
+        },
+        "cgpa": 2.66
+    },
+    "22040301020": {
+        "name": "MD ARIFUZZAMAN ARIF",
+        "batch": "22",
+        "college": "Barishal",
+        "dept": "Wet Process",
+        "results": {
+            "LXTX": 3.4
+        },
+        "cgpa": 3.07
+    },
+    "22040301021": {
+        "name": "MD. SHHAB KHAN",
+        "batch": "22",
+        "college": "Barishal",
+        "dept": "Wet Process",
+        "results": {
+            "LXTX": 3.74
+        },
+        "cgpa": 3.01
+    },
+    "22040301022": {
+        "name": "JUNAYEDUL ISLAM",
+        "batch": "22",
+        "college": "Barishal",
+        "dept": "Wet Process",
+        "results": {
+            "LXTX": 3.43
+        },
+        "cgpa": 3.06
+    },
+    "22040301024": {
+        "name": "SHAHARUL ISLAM SUMAN",
+        "batch": "22",
+        "college": "Barishal",
+        "dept": "Wet Process",
+        "results": {
+            "LXTX": 2.95
+        },
+        "cgpa": 2.84
+    },
+    "22040301025": {
+        "name": "NAHID HASSAN",
+        "batch": "22",
+        "college": "Barishal",
+        "dept": "Wet Process",
+        "results": {
+            "LXTX": 3.17
+        },
+        "cgpa": 3.05
+    },
+    "22040301026": {
+        "name": "ANKK KARMOKAR",
+        "batch": "22",
+        "college": "Barishal",
+        "dept": "Wet Process",
+        "results": {
+            "LXTX": 3.16
+        },
+        "cgpa": 2.98
+    },
+    "22040301027": {
+        "name": "MD. SAGOR HOSSAIN",
+        "batch": "22",
+        "college": "Barishal",
+        "dept": "Wet Process",
+        "results": {
+            "LXTX": 2.83
+        },
+        "cgpa": 2.7
+    },
+    "22040301028": {
+        "name": "MD SIAM HOSSAIN MIRAZ",
+        "batch": "22",
+        "college": "Barishal",
+        "dept": "Wet Process",
+        "results": {
+            "LXTX": 2.88
+        },
+        "cgpa": 2.63
+    },
+    "22040401003": {
+        "name": "M RRFAN SHAHRIAR",
+        "batch": "22",
+        "college": "Barishal",
+        "dept": "Apparel",
+        "results": {
+            "LXTX": 3.07
+        },
+        "cgpa": 2.93
+    },
+    "22040401004": {
+        "name": "MDATIK",
+        "batch": "22",
+        "college": "Barishal",
+        "dept": "Apparel",
+        "results": {
+            "LXTX": 3.03
+        },
+        "cgpa": 2.98
+    },
+    "22040401005": {
+        "name": "M HASIBUR RAHAN",
+        "batch": "22",
+        "college": "Barishal",
+        "dept": "Apparel",
+        "results": {
+            "LXTX": 2.96
+        },
+        "cgpa": 2.98
+    },
+    "22040401007": {
+        "name": "M MTAMMHASAN",
+        "batch": "22",
+        "college": "Barishal",
+        "dept": "Apparel",
+        "results": {
+            "LXTX": 2.92
+        },
+        "cgpa": 2.82
+    },
+    "22040401008": {
+        "name": "MIM HAQUE",
+        "batch": "22",
+        "college": "Barishal",
+        "dept": "Apparel",
+        "results": {
+            "LXTX": 3.9
+        },
+        "cgpa": 3.7
+    },
+    "22040401009": {
+        "name": "MEHERAB HOSSAIN",
+        "batch": "22",
+        "college": "Barishal",
+        "dept": "Apparel",
+        "results": {
+            "LXTX": 3.15
+        },
+        "cgpa": 3.13
+    },
+    "22040401010": {
+        "name": "TASMNN JAHAN TAIN",
+        "batch": "22",
+        "college": "Barishal",
+        "dept": "Apparel",
+        "results": {
+            "LXTX": 3.77
+        },
+        "cgpa": 3.52
+    },
+    "22040401012": {
+        "name": "MD. SHAHED",
+        "batch": "22",
+        "college": "Barishal",
+        "dept": "Apparel",
+        "results": {
+            "LXTX": 3.5
+        },
+        "cgpa": 3.22
+    },
+    "22040401015": {
+        "name": "SHUVO SARKAR",
+        "batch": "22",
+        "college": "Barishal",
+        "dept": "Apparel",
+        "results": {
+            "LXTX": 2.78
+        },
+        "cgpa": 2.69
+    },
+    "22040401017": {
+        "name": "MUNSH MASUM BILLAH",
+        "batch": "22",
+        "college": "Barishal",
+        "dept": "Apparel",
+        "results": {
+            "LXTX": 3.2
+        },
+        "cgpa": 2.91
+    },
+    "22040401019": {
+        "name": "BADHAN BARAL",
+        "batch": "22",
+        "college": "Barishal",
+        "dept": "Apparel",
+        "results": {
+            "LXTX": 3.2
+        },
+        "cgpa": 2.94
+    },
+    "22040401020": {
+        "name": "SIAM ELAH",
+        "batch": "22",
+        "college": "Barishal",
+        "dept": "Apparel",
+        "results": {
+            "LXTX": 3.14
+        },
+        "cgpa": 3.01
+    },
+    "22040401022": {
+        "name": "RITU SARKAR",
+        "batch": "22",
+        "college": "Barishal",
+        "dept": "Apparel",
+        "results": {
+            "LXTX": 3.93
+        },
+        "cgpa": 3.88
+    },
+    "22040401023": {
+        "name": "RAWSHAN ZAHIN",
+        "batch": "22",
+        "college": "Barishal",
+        "dept": "Apparel",
+        "results": {
+            "LXTX": 3.87
+        },
+        "cgpa": 3.61
+    },
+    "22040401024": {
+        "name": "MD NAIMUL ISLAM",
+        "batch": "22",
+        "college": "Barishal",
+        "dept": "Apparel",
+        "results": {
+            "LXTX": 2.9
+        },
+        "cgpa": 2.87
+    },
+    "22040401025": {
+        "name": "MD. ABU ARIN ARNOB",
+        "batch": "22",
+        "college": "Barishal",
+        "dept": "Apparel",
+        "results": {
+            "LXTX": 2.89
+        },
+        "cgpa": 2.85
+    },
+    "22040401026": {
+        "name": "M FRROJ AHAMED",
+        "batch": "22",
+        "college": "Barishal",
+        "dept": "Apparel",
+        "results": {
+            "LXTX": 3.58
+        },
+        "cgpa": 3.42
+    },
+    "22040401027": {
+        "name": "MD. DEEN ISLAM",
+        "batch": "22",
+        "college": "Barishal",
+        "dept": "Apparel",
+        "results": {
+            "LXTX": 3.74
+        },
+        "cgpa": 3.51
+    },
+    "22040401029": {
+        "name": "TASNIM NISHAT",
+        "batch": "22",
+        "college": "Barishal",
+        "dept": "Apparel",
+        "results": {
+            "LXTX": 3.85
+        },
+        "cgpa": 3.59
+    },
+    "22050101004": {
+        "name": "MD. BBRAHMM",
+        "batch": "22",
+        "college": "Noakhali",
+        "dept": "Yarn",
+        "results": {
+            "LXTX": 3.46
+        },
+        "cgpa": 3.27
+    },
+    "22050101005": {
+        "name": "HASNAT ABDUL KAIUM-",
+        "batch": "22",
+        "college": "Noakhali",
+        "dept": "Yarn",
+        "results": {
+            "LXTX": 3.25
+        },
+        "cgpa": 3.1
+    },
+    "22050101007": {
+        "name": "ANURUDDHA BARUA",
+        "batch": "22",
+        "college": "Noakhali",
+        "dept": "Yarn",
+        "results": {
+            "LXTX": 3.24
+        },
+        "cgpa": 2.79
+    },
+    "22050101010": {
+        "name": "ANRRUDDHA DEY SAYON",
+        "batch": "22",
+        "college": "Noakhali",
+        "dept": "Yarn",
+        "results": {
+            "LXTX": 3.58
+        },
+        "cgpa": 3.37
+    },
+    "22050101012": {
+        "name": "ABDUR RAHAN SADID",
+        "batch": "22",
+        "college": "Noakhali",
+        "dept": "Yarn",
+        "results": {
+            "LXTX": 3.2
+        },
+        "cgpa": 2.83
+    },
+    "22050101015": {
+        "name": "ARUNMA DAS PUTUL",
+        "batch": "22",
+        "college": "Noakhali",
+        "dept": "Yarn",
+        "results": {
+            "LXTX": 3.61
+        },
+        "cgpa": 3.44
+    },
+    "22050101016": {
+        "name": "ZURAFJAL NAHAN",
+        "batch": "22",
+        "college": "Noakhali",
+        "dept": "Yarn",
+        "results": {
+            "LXTX": 3.15
+        },
+        "cgpa": 2.85
+    },
+    "22050101020": {
+        "name": "AKTHER HOSSEN",
+        "batch": "22",
+        "college": "Noakhali",
+        "dept": "Yarn",
+        "results": {
+            "LXTX": 3.62
+        },
+        "cgpa": 3.47
+    },
+    "22050101021": {
+        "name": "MRAN HOSSEN",
+        "batch": "22",
+        "college": "Noakhali",
+        "dept": "Yarn",
+        "results": {
+            "LXTX": 2.79
+        },
+        "cgpa": 2.83
+    },
+    "22050101023": {
+        "name": "MUNTASR HOSSAIN KHAN",
+        "batch": "22",
+        "college": "Noakhali",
+        "dept": "Yarn",
+        "results": {
+            "LXTX": 2.72
+        },
+        "cgpa": 2.68
+    },
+    "22050101025": {
+        "name": "REFAT HOSSAIN",
+        "batch": "22",
+        "college": "Noakhali",
+        "dept": "Yarn",
+        "results": {
+            "LXTX": 3.45
+        },
+        "cgpa": 3.14
+    },
+    "22050101026": {
+        "name": "MD NAHID HASAN",
+        "batch": "22",
+        "college": "Noakhali",
+        "dept": "Yarn",
+        "results": {
+            "LXTX": 3.04
+        },
+        "cgpa": 2.8
+    },
+    "22050101027": {
+        "name": "KAZI SAIFUL ISLAM",
+        "batch": "22",
+        "college": "Noakhali",
+        "dept": "Yarn",
+        "results": {
+            "LXTX": 3.86
+        },
+        "cgpa": 3.69
+    },
+    "22050201001": {
+        "name": "MD HANFF KHONDOKER",
+        "batch": "22",
+        "college": "Noakhali",
+        "dept": "Fabric",
+        "results": {
+            "LXTX": 3.75
+        },
+        "cgpa": 3.48
+    },
+    "22050201003": {
+        "name": "A MMAHEDI HASSAN",
+        "batch": "22",
+        "college": "Noakhali",
+        "dept": "Fabric",
+        "results": {
+            "LXTX": 2.62
+        },
+        "cgpa": 2.48
+    },
+    "22050201006": {
+        "name": "YEASIN ARAFAT",
+        "batch": "22",
+        "college": "Noakhali",
+        "dept": "Fabric",
+        "results": {
+            "LXTX": 2.53
+        },
+        "cgpa": 2.63
+    },
+    "22050201008": {
+        "name": "MD ABU SAYED",
+        "batch": "22",
+        "college": "Noakhali",
+        "dept": "Fabric",
+        "results": {
+            "LXTX": 3.3
+        },
+        "cgpa": 2.92
+    },
+    "22050201010": {
+        "name": "MIJANUR RAHAMAN",
+        "batch": "22",
+        "college": "Noakhali",
+        "dept": "Fabric",
+        "results": {
+            "LXTX": 3.19
+        },
+        "cgpa": 2.79
+    },
+    "22050201017": {
+        "name": "MD IBRAHMM KHALIL",
+        "batch": "22",
+        "college": "Noakhali",
+        "dept": "Fabric",
+        "results": {
+            "LXTX": 2.46
+        },
+        "cgpa": 2.44
+    },
+    "22050201018": {
+        "name": "MD. SHAHDUL ISLAM",
+        "batch": "22",
+        "college": "Noakhali",
+        "dept": "Fabric",
+        "results": {
+            "LXTX": 2.43
+        },
+        "cgpa": 2.41
+    },
+    "22050201020": {
+        "name": "JANNATUL NAYEEM-",
+        "batch": "22",
+        "college": "Noakhali",
+        "dept": "Fabric",
+        "results": {
+            "LXTX": 3.04
+        },
+        "cgpa": 2.88
+    },
+    "22050201021": {
+        "name": "PARTHA PRATEEM DEY",
+        "batch": "22",
+        "college": "Noakhali",
+        "dept": "Fabric",
+        "results": {
+            "LXTX": 3.17
+        },
+        "cgpa": 2.97
+    },
+    "22050201024": {
+        "name": "SHBLI SHADKK SHYAM",
+        "batch": "22",
+        "college": "Noakhali",
+        "dept": "Fabric",
+        "results": {
+            "LXTX": 3.07
+        },
+        "cgpa": 2.75
+    },
+    "22050201027": {
+        "name": "NURE HASNAT",
+        "batch": "22",
+        "college": "Noakhali",
+        "dept": "Fabric",
+        "results": {
+            "LXTX": 3.19
+        },
+        "cgpa": 3.25
+    },
+    "22050201029": {
+        "name": "RAZAUL KARMM RIPON",
+        "batch": "22",
+        "college": "Noakhali",
+        "dept": "Fabric",
+        "results": {
+            "LXTX": 3.79
+        },
+        "cgpa": 3.5
+    },
+    "22050201030": {
+        "name": "MD. MARGUB MORSHEAD",
+        "batch": "22",
+        "college": "Noakhali",
+        "dept": "Fabric",
+        "results": {
+            "LXTX": 3.25
+        },
+        "cgpa": 3.03
+    },
+    "22050201031": {
+        "name": "SADIA AFRIN MAISHA",
+        "batch": "22",
+        "college": "Noakhali",
+        "dept": "Fabric",
+        "results": {
+            "LXTX": 3.58
+        },
+        "cgpa": 3.38
+    },
+    "N202112004": {
+        "name": "SYED ABDUL WAHD ASF",
+        "batch": "21",
+        "college": "Noakhali",
+        "dept": "Fabric",
+        "results": {
+            "LXTX": 2.58
+        },
+        "cgpa": 2.62
+    },
+    "N202112005": {
+        "name": "SHAZID UL ISLAM SHAM",
+        "batch": "21",
+        "college": "Noakhali",
+        "dept": "Fabric",
+        "results": {
+            "LXTX": 2.67
+        },
+        "cgpa": 2.59
+    },
+    "N202112019": {
+        "name": "MD. SHAKRB UDDIN",
+        "batch": "21",
+        "college": "Noakhali",
+        "dept": "Fabric",
+        "results": {
+            "LXTX": 2.75
+        },
+        "cgpa": 2.75
+    },
+    "N202112025": {
+        "name": "MD. ROBIUL ISLAM",
+        "batch": "21",
+        "college": "Noakhali",
+        "dept": "Fabric",
+        "results": {
+            "LXTX": 3.61
+        },
+        "cgpa": 3.12
+    },
+    "22050301001": {
+        "name": "MD. SUMON HOSSAN",
+        "batch": "22",
+        "college": "Noakhali",
+        "dept": "Wet Process",
+        "results": {
+            "LXTX": 3.73
+        },
+        "cgpa": 3.48
+    },
+    "22050301002": {
+        "name": "MASRUR AHMAD",
+        "batch": "22",
+        "college": "Noakhali",
+        "dept": "Wet Process",
+        "results": {
+            "LXTX": 3.57
+        },
+        "cgpa": 3.1
+    },
+    "22050301003": {
+        "name": "NAIM UDDIN SHAHED",
+        "batch": "22",
+        "college": "Noakhali",
+        "dept": "Wet Process",
+        "results": {
+            "LXTX": 3.23
+        },
+        "cgpa": 3.06
+    },
+    "22050301004": {
+        "name": "ATAUS SAMAD",
+        "batch": "22",
+        "college": "Noakhali",
+        "dept": "Wet Process",
+        "results": {
+            "LXTX": 3.11
+        },
+        "cgpa": 2.96
+    },
+    "22050301009": {
+        "name": "TAPU DAS",
+        "batch": "22",
+        "college": "Noakhali",
+        "dept": "Wet Process",
+        "results": {
+            "LXTX": 3.52
+        },
+        "cgpa": 3.24
+    },
+    "22050301011": {
+        "name": "MD. MAHINUL ISLAM KHAN",
+        "batch": "22",
+        "college": "Noakhali",
+        "dept": "Wet Process",
+        "results": {
+            "LXTX": 3.07
+        },
+        "cgpa": 2.88
+    },
+    "22050301012": {
+        "name": "CHNMOY ROY",
+        "batch": "22",
+        "college": "Noakhali",
+        "dept": "Wet Process",
+        "results": {
+            "LXTX": 2.95
+        },
+        "cgpa": 2.74
+    },
+    "22050301014": {
+        "name": "NIAZ UDDIN ABIR",
+        "batch": "22",
+        "college": "Noakhali",
+        "dept": "Wet Process",
+        "results": {
+            "LXTX": 3.42
+        },
+        "cgpa": 3.08
+    },
+    "22050301015": {
+        "name": "JAWAD HASSAN",
+        "batch": "22",
+        "college": "Noakhali",
+        "dept": "Wet Process",
+        "results": {
+            "LXTX": 2.86
+        },
+        "cgpa": 2.62
+    },
+    "22050301016": {
+        "name": "ANTU GHOSH SUPTA",
+        "batch": "22",
+        "college": "Noakhali",
+        "dept": "Wet Process",
+        "results": {
+            "LXTX": 3.99
+        },
+        "cgpa": 3.5
+    },
+    "22050301019": {
+        "name": "SADIA SULTANA",
+        "batch": "22",
+        "college": "Noakhali",
+        "dept": "Wet Process",
+        "results": {
+            "LXTX": 3.83
+        },
+        "cgpa": 3.42
+    },
+    "22050301021": {
+        "name": "SRIMON DAS",
+        "batch": "22",
+        "college": "Noakhali",
+        "dept": "Wet Process",
+        "results": {
+            "LXTX": 3.28
+        },
+        "cgpa": 2.91
+    },
+    "22050301022": {
+        "name": "FAHIM FUAD",
+        "batch": "22",
+        "college": "Noakhali",
+        "dept": "Wet Process",
+        "results": {
+            "LXTX": 3.18
+        },
+        "cgpa": 2.86
+    },
+    "22050301023": {
+        "name": "MD.BURHAN UDDIN NAFIS",
+        "batch": "22",
+        "college": "Noakhali",
+        "dept": "Wet Process",
+        "results": {
+            "LXTX": 3.19
+        },
+        "cgpa": 3.0
+    },
+    "22050301026": {
+        "name": "SHAH MD REDWAN TAREK",
+        "batch": "22",
+        "college": "Noakhali",
+        "dept": "Wet Process",
+        "results": {
+            "LXTX": 3.92
+        },
+        "cgpa": 3.66
+    },
+    "22050301028": {
+        "name": "MD. ROBIUL HOSSAN",
+        "batch": "22",
+        "college": "Noakhali",
+        "dept": "Wet Process",
+        "results": {
+            "LXTX": 3.4
+        },
+        "cgpa": 2.98
+    },
+    "22050301030": {
+        "name": "NAZMUL HASAN RABBY",
+        "batch": "22",
+        "college": "Noakhali",
+        "dept": "Wet Process",
+        "results": {
+            "LXTX": 3.44
+        },
+        "cgpa": 3.07
+    },
+    "N202113030": {
+        "name": "JAHADUUL HASAN JIBON",
+        "batch": "21",
+        "college": "Noakhali",
+        "dept": "Wet Process",
+        "results": {
+            "LXTX": 3.57
+        },
+        "cgpa": 3.06
+    },
+    "22050401002": {
+        "name": "MEHEDI HASAN",
+        "batch": "22",
+        "college": "Noakhali",
+        "dept": "Apparel",
+        "results": {
+            "LXTX": 3.64
+        },
+        "cgpa": 3.43
+    },
+    "22050401005": {
+        "name": "MOMANA AKTHER",
+        "batch": "22",
+        "college": "Noakhali",
+        "dept": "Apparel",
+        "results": {
+            "LXTX": 3.85
+        },
+        "cgpa": 3.48
+    },
+    "22050401006": {
+        "name": "TAHD TASBE",
+        "batch": "22",
+        "college": "Noakhali",
+        "dept": "Apparel",
+        "results": {
+            "LXTX": 3.68
+        },
+        "cgpa": 3.47
+    },
+    "22050401008": {
+        "name": "MD. SHAKIBUL HASSAN",
+        "batch": "22",
+        "college": "Noakhali",
+        "dept": "Apparel",
+        "results": {
+            "LXTX": 3.29
+        },
+        "cgpa": 3.15
+    },
+    "22050401012": {
+        "name": "KHAT-RUL AMNN",
+        "batch": "22",
+        "college": "Noakhali",
+        "dept": "Apparel",
+        "results": {
+            "LXTX": 3.17
+        },
+        "cgpa": 2.93
+    },
+    "22050401013": {
+        "name": "MD. PARVEZ ALAM TOHIN",
+        "batch": "22",
+        "college": "Noakhali",
+        "dept": "Apparel",
+        "results": {
+            "LXTX": 3.58
+        },
+        "cgpa": 3.2
+    },
+    "22050401015": {
+        "name": "MD SABBR AHMAD",
+        "batch": "22",
+        "college": "Noakhali",
+        "dept": "Apparel",
+        "results": {
+            "LXTX": 3.09
+        },
+        "cgpa": 2.95
+    },
+    "22050401018": {
+        "name": "APU ISLAM",
+        "batch": "22",
+        "college": "Noakhali",
+        "dept": "Apparel",
+        "results": {
+            "LXTX": 3.11
+        },
+        "cgpa": 3.17
+    },
+    "22050401020": {
+        "name": "MD. OAHAD AZGOR MAHIN",
+        "batch": "22",
+        "college": "Noakhali",
+        "dept": "Apparel",
+        "results": {
+            "LXTX": 3.07
+        },
+        "cgpa": 2.92
+    },
+    "22050401021": {
+        "name": "MD. MRAD HASAN",
+        "batch": "22",
+        "college": "Noakhali",
+        "dept": "Apparel",
+        "results": {
+            "LXTX": 3.14
+        },
+        "cgpa": 3.02
+    },
+    "22050401024": {
+        "name": "PRIYANKA DAS PUJA",
+        "batch": "22",
+        "college": "Noakhali",
+        "dept": "Apparel",
+        "results": {
+            "LXTX": 3.48
+        },
+        "cgpa": 3.19
+    },
+    "22050401026": {
+        "name": "SUDPPTA CHAKRA BORTY",
+        "batch": "22",
+        "college": "Noakhali",
+        "dept": "Apparel",
+        "results": {
+            "LXTX": 3.8
+        },
+        "cgpa": 3.71
+    },
+    "22050401027": {
+        "name": "NIZUM PAUL",
+        "batch": "22",
+        "college": "Noakhali",
+        "dept": "Apparel",
+        "results": {
+            "LXTX": 3.34
+        },
+        "cgpa": 3.17
+    },
+    "22050401030": {
+        "name": "MD IMRAN KHAN SIZAN",
+        "batch": "22",
+        "college": "Noakhali",
+        "dept": "Apparel",
+        "results": {
+            "LXTX": 3.46
+        },
+        "cgpa": 3.18
+    },
+    "N202114003": {
+        "name": "ATIKUN NABI",
+        "batch": "21",
+        "college": "Noakhali",
+        "dept": "Apparel",
+        "results": {
+            "LXTX": 2.94
+        },
+        "cgpa": 2.58
+    },
+    "22060101002": {
+        "name": "M NAYEM HASAN",
+        "batch": "22",
+        "college": "Jhenaidah",
+        "dept": "Yarn",
+        "results": {
+            "LXTX": 2.83
+        },
+        "cgpa": 2.88
+    },
+    "22060101003": {
+        "name": "MD MUSFIQUR RAHMAN",
+        "batch": "22",
+        "college": "Jhenaidah",
+        "dept": "Yarn",
+        "results": {
+            "LXTX": 3.04
+        },
+        "cgpa": 3.06
+    },
+    "22060101004": {
+        "name": "NAJMUZ SAKB",
+        "batch": "22",
+        "college": "Jhenaidah",
+        "dept": "Yarn",
+        "results": {
+            "LXTX": 3.43
+        },
+        "cgpa": 3.18
+    },
+    "22060101006": {
+        "name": "MD EMON ALI SARDAR",
+        "batch": "22",
+        "college": "Jhenaidah",
+        "dept": "Yarn",
+        "results": {
+            "LXTX": 3.4
+        },
+        "cgpa": 3.16
+    },
+    "22060101007": {
+        "name": "RIYA DAS",
+        "batch": "22",
+        "college": "Jhenaidah",
+        "dept": "Yarn",
+        "results": {
+            "LXTX": 3.45
+        },
+        "cgpa": 3.44
+    },
+    "22060101010": {
+        "name": "MDSHOVAN SARDAR",
+        "batch": "22",
+        "college": "Jhenaidah",
+        "dept": "Yarn",
+        "results": {
+            "LXTX": 2.65
+        },
+        "cgpa": 2.92
+    },
+    "22060101012": {
+        "name": "TASNI BNNTE ATK",
+        "batch": "22",
+        "college": "Jhenaidah",
+        "dept": "Yarn",
+        "results": {
+            "LXTX": 3.63
+        },
+        "cgpa": 3.58
+    },
+    "22060101015": {
+        "name": "AYSHA KHATUN",
+        "batch": "22",
+        "college": "Jhenaidah",
+        "dept": "Yarn",
+        "results": {
+            "LXTX": 3.57
+        },
+        "cgpa": 3.48
+    },
+    "22060101018": {
+        "name": "NAFIUL ISLAM",
+        "batch": "22",
+        "college": "Jhenaidah",
+        "dept": "Yarn",
+        "results": {
+            "LXTX": 3.39
+        },
+        "cgpa": 3.42
+    },
+    "22060101019": {
+        "name": "BASHDEV ROY",
+        "batch": "22",
+        "college": "Jhenaidah",
+        "dept": "Yarn",
+        "results": {
+            "LXTX": 3.02
+        },
+        "cgpa": 2.79
+    },
+    "22060101023": {
+        "name": "MD. MEHEDI HASAN",
+        "batch": "22",
+        "college": "Jhenaidah",
+        "dept": "Yarn",
+        "results": {
+            "LXTX": 3.29
+        },
+        "cgpa": 3.05
+    },
+    "22060101025": {
+        "name": "SADAT HOSSAIN SHISHRR",
+        "batch": "22",
+        "college": "Jhenaidah",
+        "dept": "Yarn",
+        "results": {
+            "LXTX": 2.76
+        },
+        "cgpa": 2.84
+    },
+    "22060101026": {
+        "name": "SHARIUL ISLAM",
+        "batch": "22",
+        "college": "Jhenaidah",
+        "dept": "Yarn",
+        "results": {
+            "LXTX": 3.17
+        },
+        "cgpa": 3.14
+    },
+    "J202111012": {
+        "name": "MD. BYAZID BISWAS",
+        "batch": "21",
+        "college": "Jhenaidah",
+        "dept": "Yarn",
+        "results": {
+            "LXTX": 2.67
+        },
+        "cgpa": 2.59
+    },
+    "J202011011": {
+        "name": "S.M HABIBULLAH",
+        "batch": "20",
+        "college": "Jhenaidah",
+        "dept": "Yarn",
+        "results": {
+            "LXTX": 2.96
+        },
+        "cgpa": 2.7
+    },
+    "22060201005": {
+        "name": "MD. NAYON CHOWDHURY",
+        "batch": "22",
+        "college": "Jhenaidah",
+        "dept": "Fabric",
+        "results": {
+            "LXTX": 3.22
+        },
+        "cgpa": 3.05
+    },
+    "22060201008": {
+        "name": "HASANUL BANNA",
+        "batch": "22",
+        "college": "Jhenaidah",
+        "dept": "Fabric",
+        "results": {
+            "LXTX": 3.43
+        },
+        "cgpa": 3.09
+    },
+    "22060201012": {
+        "name": "MD. FARHAN SADIK",
+        "batch": "22",
+        "college": "Jhenaidah",
+        "dept": "Fabric",
+        "results": {
+            "LXTX": 3.36
+        },
+        "cgpa": 2.87
+    },
+    "22060201013": {
+        "name": "MD. SADMAN HAFEEZ",
+        "batch": "22",
+        "college": "Jhenaidah",
+        "dept": "Fabric",
+        "results": {
+            "LXTX": 2.74
+        },
+        "cgpa": 2.66
+    },
+    "22060201014": {
+        "name": "MD. PARVEZ HASSAN",
+        "batch": "22",
+        "college": "Jhenaidah",
+        "dept": "Fabric",
+        "results": {
+            "LXTX": 3.01
+        },
+        "cgpa": 3.04
+    },
+    "22060201015": {
+        "name": "SAJOL KUMAR PAUL",
+        "batch": "22",
+        "college": "Jhenaidah",
+        "dept": "Fabric",
+        "results": {
+            "LXTX": 3.5
+        },
+        "cgpa": 3.18
+    },
+    "22060201016": {
+        "name": "PUSHPITA SAHA",
+        "batch": "22",
+        "college": "Jhenaidah",
+        "dept": "Fabric",
+        "results": {
+            "LXTX": 3.71
+        },
+        "cgpa": 3.52
+    },
+    "22060201017": {
+        "name": "MD MUNTASRR AHED",
+        "batch": "22",
+        "college": "Jhenaidah",
+        "dept": "Fabric",
+        "results": {
+            "LXTX": 3.42
+        },
+        "cgpa": 3.09
+    },
+    "22060201021": {
+        "name": "NUSRAT JAHAN",
+        "batch": "22",
+        "college": "Jhenaidah",
+        "dept": "Fabric",
+        "results": {
+            "LXTX": 3.65
+        },
+        "cgpa": 3.34
+    },
+    "22060201023": {
+        "name": "MD. SHAKI HOSSAI",
+        "batch": "22",
+        "college": "Jhenaidah",
+        "dept": "Fabric",
+        "results": {
+            "LXTX": 2.83
+        },
+        "cgpa": 2.7
+    },
+    "22060201024": {
+        "name": "MOST. NUSRAT JAHAN",
+        "batch": "22",
+        "college": "Jhenaidah",
+        "dept": "Fabric",
+        "results": {
+            "LXTX": 3.69
+        },
+        "cgpa": 3.56
+    },
+    "22060201028": {
+        "name": "THAMD RAHMAN",
+        "batch": "22",
+        "college": "Jhenaidah",
+        "dept": "Fabric",
+        "results": {
+            "LXTX": 3.92
+        },
+        "cgpa": 3.89
+    },
+    "J202112008": {
+        "name": "PRITI DAS",
+        "batch": "21",
+        "college": "Jhenaidah",
+        "dept": "Fabric",
+        "results": {
+            "LXTX": 2.75
+        },
+        "cgpa": 3.01
+    },
+    "J202112014": {
+        "name": "MD. ABIR MONDAL",
+        "batch": "21",
+        "college": "Jhenaidah",
+        "dept": "Fabric",
+        "results": {
+            "LXTX": 2.48
+        },
+        "cgpa": 2.52
+    },
+    "J202112019": {
+        "name": "MD. TAMMUR RAHMAN",
+        "batch": "21",
+        "college": "Jhenaidah",
+        "dept": "Fabric",
+        "results": {
+            "LXTX": 3.03
+        },
+        "cgpa": 2.93
+    },
+    "22060301003": {
+        "name": "MD NABL AHAMMED",
+        "batch": "22",
+        "college": "Jhenaidah",
+        "dept": "Wet Process",
+        "results": {
+            "LXTX": 3.08
+        },
+        "cgpa": 2.89
+    },
+    "22060301004": {
+        "name": "FOYSHAL AHAMED",
+        "batch": "22",
+        "college": "Jhenaidah",
+        "dept": "Wet Process",
+        "results": {
+            "LXTX": 3.24
+        },
+        "cgpa": 2.8
+    },
+    "22060301006": {
+        "name": "MOSAIHOSSEN",
+        "batch": "22",
+        "college": "Jhenaidah",
+        "dept": "Wet Process",
+        "results": {
+            "LXTX": 3.53
+        },
+        "cgpa": 3.25
+    },
+    "22060301007": {
+        "name": "AFNAN JANY",
+        "batch": "22",
+        "college": "Jhenaidah",
+        "dept": "Wet Process",
+        "results": {
+            "LXTX": 3.61
+        },
+        "cgpa": 3.42
+    },
+    "22060301008": {
+        "name": "SAMIA ISLAM",
+        "batch": "22",
+        "college": "Jhenaidah",
+        "dept": "Wet Process",
+        "results": {
+            "LXTX": 3.7
+        },
+        "cgpa": 3.48
+    },
+    "22060301009": {
+        "name": "ZAVD IQBAL",
+        "batch": "22",
+        "college": "Jhenaidah",
+        "dept": "Wet Process",
+        "results": {
+            "LXTX": 3.72
+        },
+        "cgpa": 3.53
+    },
+    "22060301011": {
+        "name": "JOY NANDY",
+        "batch": "22",
+        "college": "Jhenaidah",
+        "dept": "Wet Process",
+        "results": {
+            "LXTX": 3.78
+        },
+        "cgpa": 3.62
+    },
+    "22060301012": {
+        "name": "ASMA ZAMAN NEHA",
+        "batch": "22",
+        "college": "Jhenaidah",
+        "dept": "Wet Process",
+        "results": {
+            "LXTX": 3.76
+        },
+        "cgpa": 3.54
+    },
+    "22060301013": {
+        "name": "BULBUL AHMED",
+        "batch": "22",
+        "college": "Jhenaidah",
+        "dept": "Wet Process",
+        "results": {
+            "LXTX": 3.77
+        },
+        "cgpa": 3.7
+    },
+    "22060301016": {
+        "name": "POBITTRO BISWAS",
+        "batch": "22",
+        "college": "Jhenaidah",
+        "dept": "Wet Process",
+        "results": {
+            "LXTX": 3.74
+        },
+        "cgpa": 3.25
+    },
+    "22060301018": {
+        "name": "HEMEL MAHMUD",
+        "batch": "22",
+        "college": "Jhenaidah",
+        "dept": "Wet Process",
+        "results": {
+            "LXTX": 3.08
+        },
+        "cgpa": 2.79
+    },
+    "22060301019": {
+        "name": "RAISUL ISLAM",
+        "batch": "22",
+        "college": "Jhenaidah",
+        "dept": "Wet Process",
+        "results": {
+            "LXTX": 3.3
+        },
+        "cgpa": 3.04
+    },
+    "22060301020": {
+        "name": "KHALEDUR RAHMAN",
+        "batch": "22",
+        "college": "Jhenaidah",
+        "dept": "Wet Process",
+        "results": {
+            "LXTX": 2.92
+        },
+        "cgpa": 2.59
+    },
+    "22060301022": {
+        "name": "ANEE MALAKAR",
+        "batch": "22",
+        "college": "Jhenaidah",
+        "dept": "Wet Process",
+        "results": {
+            "LXTX": 3.86
+        },
+        "cgpa": 3.49
+    },
+    "22060301023": {
+        "name": "MD NAYEEM HASAN",
+        "batch": "22",
+        "college": "Jhenaidah",
+        "dept": "Wet Process",
+        "results": {
+            "LXTX": 3.41
+        },
+        "cgpa": 2.99
+    },
+    "22060301026": {
+        "name": "MD. BBRAH HOSSANN",
+        "batch": "22",
+        "college": "Jhenaidah",
+        "dept": "Wet Process",
+        "results": {
+            "LXTX": 3.49
+        },
+        "cgpa": 3.2
+    },
+    "22060301027": {
+        "name": "MD. EMON SARKER",
+        "batch": "22",
+        "college": "Jhenaidah",
+        "dept": "Wet Process",
+        "results": {
+            "LXTX": 3.39
+        },
+        "cgpa": 3.07
+    },
+    "22060301028": {
+        "name": "ABRR HASAN RIFAT",
+        "batch": "22",
+        "college": "Jhenaidah",
+        "dept": "Wet Process",
+        "results": {
+            "LXTX": 3.28
+        },
+        "cgpa": 3.09
+    },
+    "22060301029": {
+        "name": "MD. BAYEZID HOSSAIN",
+        "batch": "22",
+        "college": "Jhenaidah",
+        "dept": "Wet Process",
+        "results": {
+            "LXTX": 3.72
+        },
+        "cgpa": 3.45
+    },
+    "J202013004": {
+        "name": "MD KAMRUZZAMAN",
+        "batch": "20",
+        "college": "Jhenaidah",
+        "dept": "Wet Process",
+        "results": {
+            "LXTX": 2.77
+        },
+        "cgpa": 2.59
+    },
+    "22060401001": {
+        "name": "MD. SAFF RAIHAN",
+        "batch": "22",
+        "college": "Jhenaidah",
+        "dept": "Apparel",
+        "results": {
+            "LXTX": 3.45
+        },
+        "cgpa": 3.2
+    },
+    "22060401004": {
+        "name": "MD. SOVON BISWAS",
+        "batch": "22",
+        "college": "Jhenaidah",
+        "dept": "Apparel",
+        "results": {
+            "LXTX": 3.49
+        },
+        "cgpa": 3.48
+    },
+    "22060401006": {
+        "name": ". MD. EMDADUL ISLAM",
+        "batch": "22",
+        "college": "Jhenaidah",
+        "dept": "Apparel",
+        "results": {
+            "LXTX": 3.11
+        },
+        "cgpa": 2.92
+    },
+    "22060401017": {
+        "name": "HABBBUR RAHAN",
+        "batch": "22",
+        "college": "Jhenaidah",
+        "dept": "Apparel",
+        "results": {
+            "LXTX": 3.33
+        },
+        "cgpa": 3.16
+    },
+    "22060401019": {
+        "name": "PUJA SAHA",
+        "batch": "22",
+        "college": "Jhenaidah",
+        "dept": "Apparel",
+        "results": {
+            "LXTX": 3.4
+        },
+        "cgpa": 3.37
+    },
+    "22060401020": {
+        "name": "MDMAHMUDUL HASAN",
+        "batch": "22",
+        "college": "Jhenaidah",
+        "dept": "Apparel",
+        "results": {
+            "LXTX": 3.66
+        },
+        "cgpa": 3.44
+    },
+    "22060401022": {
+        "name": "ROCKY HOSSAIN",
+        "batch": "22",
+        "college": "Jhenaidah",
+        "dept": "Apparel",
+        "results": {
+            "LXTX": 3.5
+        },
+        "cgpa": 3.53
+    },
+    "22060401025": {
+        "name": "NAHDUL ISLAM",
+        "batch": "22",
+        "college": "Jhenaidah",
+        "dept": "Apparel",
+        "results": {
+            "LXTX": 3.48
+        },
+        "cgpa": 3.19
+    },
+    "22060401028": {
+        "name": "MD. ABDULLAH AL ESMAM",
+        "batch": "22",
+        "college": "Jhenaidah",
+        "dept": "Apparel",
+        "results": {
+            "LXTX": 3.27
+        },
+        "cgpa": 3.25
+    },
+    "22060401029": {
+        "name": "MD. SHAMSHER MOBIN",
+        "batch": "22",
+        "college": "Jhenaidah",
+        "dept": "Apparel",
+        "results": {
+            "LXTX": 3.14
+        },
+        "cgpa": 2.99
+    },
+    "J202114023": {
+        "name": "MD. FAHIMHASAN",
+        "batch": "21",
+        "college": "Jhenaidah",
+        "dept": "Apparel",
+        "results": {
+            "LXTX": 3.08
+        },
+        "cgpa": 3.1
+    },
+    "22090101001": {
+        "name": "SOBUJ DATTA",
+        "batch": "22",
+        "college": "Rangpur",
+        "dept": "Yarn",
+        "results": {
+            "LXTX": 2.93
+        },
+        "cgpa": 3.03
+    },
+    "22090101002": {
+        "name": "ABU RAIHAN",
+        "batch": "22",
+        "college": "Rangpur",
+        "dept": "Yarn",
+        "results": {
+            "LXTX": 3.26
+        },
+        "cgpa": 3.27
+    },
+    "22090101003": {
+        "name": "MD NUR NOBI ISLAM",
+        "batch": "22",
+        "college": "Rangpur",
+        "dept": "Yarn",
+        "results": {
+            "LXTX": 3.12
+        },
+        "cgpa": 2.93
+    },
+    "22090101006": {
+        "name": "SADIA AFRIN BONNY",
+        "batch": "22",
+        "college": "Rangpur",
+        "dept": "Yarn",
+        "results": {
+            "LXTX": 3.07
+        },
+        "cgpa": 3.14
+    },
+    "22090101011": {
+        "name": "MDD ARIFUL ISLAM",
+        "batch": "22",
+        "college": "Rangpur",
+        "dept": "Yarn",
+        "results": {
+            "LXTX": 3.24
+        },
+        "cgpa": 3.33
+    },
+    "22090101012": {
+        "name": "MD ZAHID HASAN",
+        "batch": "22",
+        "college": "Rangpur",
+        "dept": "Yarn",
+        "results": {
+            "LXTX": 2.94
+        },
+        "cgpa": 2.95
+    },
+    "22090101013": {
+        "name": "MD. SHARFF AHAMMED",
+        "batch": "22",
+        "college": "Rangpur",
+        "dept": "Yarn",
+        "results": {
+            "LXTX": 3.58
+        },
+        "cgpa": 3.42
+    },
+    "22090101014": {
+        "name": "MD. SHAKIBUL HASAN",
+        "batch": "22",
+        "college": "Rangpur",
+        "dept": "Yarn",
+        "results": {
+            "LXTX": 3.14
+        },
+        "cgpa": 3.09
+    },
+    "22090101026": {
+        "name": "MOSTAKI ISLAM",
+        "batch": "22",
+        "college": "Rangpur",
+        "dept": "Yarn",
+        "results": {
+            "LXTX": 3.0
+        },
+        "cgpa": 2.83
+    },
+    "22090101027": {
+        "name": "ARGHO MOHON GHOSH",
+        "batch": "22",
+        "college": "Rangpur",
+        "dept": "Yarn",
+        "results": {
+            "LXTX": 3.23
+        },
+        "cgpa": 3.22
+    },
+    "22090101028": {
+        "name": "MASADUZZAMAN",
+        "batch": "22",
+        "college": "Rangpur",
+        "dept": "Yarn",
+        "results": {
+            "LXTX": 3.13
+        },
+        "cgpa": 3.08
+    },
+    "22090101030": {
+        "name": "JAHD HASAN",
+        "batch": "22",
+        "college": "Rangpur",
+        "dept": "Yarn",
+        "results": {
+            "LXTX": 3.0
+        },
+        "cgpa": 3.03
+    },
+    "22090201001": {
+        "name": "MALF MONDOL",
+        "batch": "22",
+        "college": "Rangpur",
+        "dept": "Fabric",
+        "results": {
+            "LXTX": 2.67
+        },
+        "cgpa": 2.93
+    },
+    "22090201002": {
+        "name": "MD.ABU SAYEM",
+        "batch": "22",
+        "college": "Rangpur",
+        "dept": "Fabric",
+        "results": {
+            "LXTX": 3.58
+        },
+        "cgpa": 3.49
+    },
+    "22090201006": {
+        "name": "PROTTOY DAS",
+        "batch": "22",
+        "college": "Rangpur",
+        "dept": "Fabric",
+        "results": {
+            "LXTX": 2.6
+        },
+        "cgpa": 2.72
+    },
+    "22090201008": {
+        "name": "ZANNATUL FERDAUS",
+        "batch": "22",
+        "college": "Rangpur",
+        "dept": "Fabric",
+        "results": {
+            "LXTX": 2.88
+        },
+        "cgpa": 3.16
+    },
+    "22090201009": {
+        "name": "M MAINUL ISLAM",
+        "batch": "22",
+        "college": "Rangpur",
+        "dept": "Fabric",
+        "results": {
+            "LXTX": 3.64
+        },
+        "cgpa": 3.43
+    },
+    "22090201010": {
+        "name": "SAGOR HOSSEN",
+        "batch": "22",
+        "college": "Rangpur",
+        "dept": "Fabric",
+        "results": {
+            "LXTX": 3.46
+        },
+        "cgpa": 3.35
+    },
+    "22090201012": {
+        "name": "MD SOHL RANA",
+        "batch": "22",
+        "college": "Rangpur",
+        "dept": "Fabric",
+        "results": {
+            "LXTX": 3.46
+        },
+        "cgpa": 3.12
+    },
+    "22090201013": {
+        "name": "MD. YEAKUB HASAN",
+        "batch": "22",
+        "college": "Rangpur",
+        "dept": "Fabric",
+        "results": {
+            "LXTX": 3.1
+        },
+        "cgpa": 2.89
+    },
+    "22090201015": {
+        "name": "PALLAB ROY",
+        "batch": "22",
+        "college": "Rangpur",
+        "dept": "Fabric",
+        "results": {
+            "LXTX": 3.08
+        },
+        "cgpa": 2.99
+    },
+    "22090201016": {
+        "name": "MDNAHID HASAN",
+        "batch": "22",
+        "college": "Rangpur",
+        "dept": "Fabric",
+        "results": {
+            "LXTX": 2.52
+        },
+        "cgpa": 2.72
+    },
+    "22090201021": {
+        "name": "SHEFAT ULLA",
+        "batch": "22",
+        "college": "Rangpur",
+        "dept": "Fabric",
+        "results": {
+            "LXTX": 2.78
+        },
+        "cgpa": 2.86
+    },
+    "22090201022": {
+        "name": "FARZANA MITI MOSTOFA",
+        "batch": "22",
+        "college": "Rangpur",
+        "dept": "Fabric",
+        "results": {
+            "LXTX": 3.75
+        },
+        "cgpa": 3.68
+    },
+    "22090201023": {
+        "name": "MD. ARFFUL ISLAM",
+        "batch": "22",
+        "college": "Rangpur",
+        "dept": "Fabric",
+        "results": {
+            "LXTX": 3.53
+        },
+        "cgpa": 3.22
+    },
+    "22090201024": {
+        "name": "MARUF AHED",
+        "batch": "22",
+        "college": "Rangpur",
+        "dept": "Fabric",
+        "results": {
+            "LXTX": 3.15
+        },
+        "cgpa": 3.19
+    },
+    "22090201026": {
+        "name": "SAIUL ISLAMRIAT",
+        "batch": "22",
+        "college": "Rangpur",
+        "dept": "Fabric",
+        "results": {
+            "LXTX": 3.06
+        },
+        "cgpa": 3.11
+    },
+    "22090201027": {
+        "name": "MD LOHAN MONDOL",
+        "batch": "22",
+        "college": "Rangpur",
+        "dept": "Fabric",
+        "results": {
+            "LXTX": 3.42
+        },
+        "cgpa": 3.25
+    },
+    "22090201029": {
+        "name": "KQUSHK CHANDRA SHLL",
+        "batch": "22",
+        "college": "Rangpur",
+        "dept": "Fabric",
+        "results": {
+            "LXTX": 2.88
+        },
+        "cgpa": 2.81
+    },
+    "R202112008": {
+        "name": "SOUROV KUMAR ROY",
+        "batch": "21",
+        "college": "Rangpur",
+        "dept": "Fabric",
+        "results": {
+            "LXTX": 2.94
+        },
+        "cgpa": 2.69
+    },
+    "22090301001": {
+        "name": "MD. RABIUL ISLAM",
+        "batch": "22",
+        "college": "Rangpur",
+        "dept": "Wet Process",
+        "results": {
+            "LXTX": 3.05
+        },
+        "cgpa": 2.98
+    },
+    "22090301002": {
+        "name": "SHRABAN ROY",
+        "batch": "22",
+        "college": "Rangpur",
+        "dept": "Wet Process",
+        "results": {
+            "LXTX": 3.72
+        },
+        "cgpa": 3.62
+    },
+    "22090301004": {
+        "name": "MD. FAZLE RABBY",
+        "batch": "22",
+        "college": "Rangpur",
+        "dept": "Wet Process",
+        "results": {
+            "LXTX": 3.16
+        },
+        "cgpa": 2.95
+    },
+    "22090301006": {
+        "name": "MD. ASHIKUR RAHMAN",
+        "batch": "22",
+        "college": "Rangpur",
+        "dept": "Wet Process",
+        "results": {
+            "LXTX": 2.75
+        },
+        "cgpa": 2.79
+    },
+    "22090301007": {
+        "name": "MD SAHKHAWATFAYSAL",
+        "batch": "22",
+        "college": "Rangpur",
+        "dept": "Wet Process",
+        "results": {
+            "LXTX": 3.65
+        },
+        "cgpa": 3.27
+    },
+    "22090301008": {
+        "name": "MD. NAZIUR RAHMAN",
+        "batch": "22",
+        "college": "Rangpur",
+        "dept": "Wet Process",
+        "results": {
+            "LXTX": 3.22
+        },
+        "cgpa": 2.96
+    },
+    "22090301011": {
+        "name": "PRAPTO DATTA SANTO",
+        "batch": "22",
+        "college": "Rangpur",
+        "dept": "Wet Process",
+        "results": {
+            "LXTX": 3.09
+        },
+        "cgpa": 2.99
+    },
+    "22090301013": {
+        "name": "MMTIAZ HASAN ANKK",
+        "batch": "22",
+        "college": "Rangpur",
+        "dept": "Wet Process",
+        "results": {
+            "LXTX": 2.88
+        },
+        "cgpa": 2.85
+    },
+    "22090301015": {
+        "name": "MD. RAKIUL HASAN",
+        "batch": "22",
+        "college": "Rangpur",
+        "dept": "Wet Process",
+        "results": {
+            "LXTX": 3.26
+        },
+        "cgpa": 2.79
+    },
+    "22090301020": {
+        "name": "SHAHDAT HOSSAIN",
+        "batch": "22",
+        "college": "Rangpur",
+        "dept": "Wet Process",
+        "results": {
+            "LXTX": 2.92
+        },
+        "cgpa": 2.8
+    },
+    "22090301023": {
+        "name": "MD SHARFF MA",
+        "batch": "22",
+        "college": "Rangpur",
+        "dept": "Wet Process",
+        "results": {
+            "LXTX": 3.09
+        },
+        "cgpa": 2.71
+    },
+    "22090301025": {
+        "name": "ASRAFUL ISLAM",
+        "batch": "22",
+        "college": "Rangpur",
+        "dept": "Wet Process",
+        "results": {
+            "LXTX": 3.49
+        },
+        "cgpa": 3.25
+    },
+    "22090301027": {
+        "name": "MD. NAFIZ BIN ROHANI",
+        "batch": "22",
+        "college": "Rangpur",
+        "dept": "Wet Process",
+        "results": {
+            "LXTX": 3.11
+        },
+        "cgpa": 2.9
+    },
+    "22090301028": {
+        "name": "MD.JOBAER ALAM",
+        "batch": "22",
+        "college": "Rangpur",
+        "dept": "Wet Process",
+        "results": {
+            "LXTX": 3.06
+        },
+        "cgpa": 2.86
+    },
+    "22090301030": {
+        "name": "MD. AKHTARUZZAMAN",
+        "batch": "22",
+        "college": "Rangpur",
+        "dept": "Wet Process",
+        "results": {
+            "LXTX": 3.1
+        },
+        "cgpa": 2.76
+    },
+    "R202113024": {
+        "name": "MD. FAKRUL ISLAM SHAH",
+        "batch": "21",
+        "college": "Rangpur",
+        "dept": "Wet Process",
+        "results": {
+            "LXTX": 3.7
+        },
+        "cgpa": 3.67
+    },
+    "22090401004": {
+        "name": "MD. MAHFUZ ALAM",
+        "batch": "22",
+        "college": "Rangpur",
+        "dept": "Apparel",
+        "results": {
+            "LXTX": 3.8
+        },
+        "cgpa": 3.58
+    },
+    "22090401005": {
+        "name": "JERIN TAJNNN",
+        "batch": "22",
+        "college": "Rangpur",
+        "dept": "Apparel",
+        "results": {
+            "LXTX": 3.57
+        },
+        "cgpa": 3.46
+    },
+    "22090401011": {
+        "name": "MUSFIKA MIM",
+        "batch": "22",
+        "college": "Rangpur",
+        "dept": "Apparel",
+        "results": {
+            "LXTX": 3.8
+        },
+        "cgpa": 3.67
+    },
+    "22090401012": {
+        "name": "AMINA SIDIQUA",
+        "batch": "22",
+        "college": "Rangpur",
+        "dept": "Apparel",
+        "results": {
+            "LXTX": 3.68
+        },
+        "cgpa": 3.52
+    },
+    "22090401013": {
+        "name": "ISRAT JAMILA",
+        "batch": "22",
+        "college": "Rangpur",
+        "dept": "Apparel",
+        "results": {
+            "LXTX": 3.79
+        },
+        "cgpa": 3.47
+    },
+    "22090401014": {
+        "name": "MST. KANCH KHATUN",
+        "batch": "22",
+        "college": "Rangpur",
+        "dept": "Apparel",
+        "results": {
+            "LXTX": 3.47
+        },
+        "cgpa": 3.16
+    },
+    "22090401016": {
+        "name": "AYESHA SIDDIKA",
+        "batch": "22",
+        "college": "Rangpur",
+        "dept": "Apparel",
+        "results": {
+            "LXTX": 3.67
+        },
+        "cgpa": 3.52
+    },
+    "22090401017": {
+        "name": "RUKAIYA ISLAM RAMA",
+        "batch": "22",
+        "college": "Rangpur",
+        "dept": "Apparel",
+        "results": {
+            "LXTX": 3.78
+        },
+        "cgpa": 3.49
+    },
+    "22090401018": {
+        "name": "F.RIJOBA",
+        "batch": "22",
+        "college": "Rangpur",
+        "dept": "Apparel",
+        "results": {
+            "LXTX": 3.72
+        },
+        "cgpa": 3.58
+    },
+    "22090401019": {
+        "name": "PRETILOTA GHOSH",
+        "batch": "22",
+        "college": "Rangpur",
+        "dept": "Apparel",
+        "results": {
+            "LXTX": 3.8
+        },
+        "cgpa": 3.6
+    },
+    "22090401020": {
+        "name": "MD. ABU JOBA YER JIMM",
+        "batch": "22",
+        "college": "Rangpur",
+        "dept": "Apparel",
+        "results": {
+            "LXTX": 3.47
+        },
+        "cgpa": 3.14
+    },
+    "22090401022": {
+        "name": "MD. ZULFIKAR ALI ZILAN",
+        "batch": "22",
+        "college": "Rangpur",
+        "dept": "Apparel",
+        "results": {
+            "LXTX": 3.74
+        },
+        "cgpa": 3.32
+    },
+    "22090401023": {
+        "name": "MD. RABIUL ISLAM",
+        "batch": "22",
+        "college": "Rangpur",
+        "dept": "Apparel",
+        "results": {
+            "LXTX": 3.87
+        },
+        "cgpa": 3.61
+    },
+    "22090401026": {
+        "name": "EHSAN AHMED SAIKAT",
+        "batch": "22",
+        "college": "Rangpur",
+        "dept": "Apparel",
+        "results": {
+            "LXTX": 3.52
+        },
+        "cgpa": 3.17
+    },
+    "22090401027": {
+        "name": "MEHEDI HASAN JIBON",
+        "batch": "22",
+        "college": "Rangpur",
+        "dept": "Apparel",
+        "results": {
+            "LXTX": 3.67
+        },
+        "cgpa": 3.21
+    },
+    "22090401028": {
+        "name": "TASNIA KHATUN MM",
+        "batch": "22",
+        "college": "Rangpur",
+        "dept": "Apparel",
+        "results": {
+            "LXTX": 3.39
+        },
+        "cgpa": 3.09
+    },
+    "22100101002": {
+        "name": "FARJANA UDDIN",
+        "batch": "22",
+        "college": "Gopalganj",
+        "dept": "Yarn",
+        "results": {
+            "LXTX": 3.89
+        },
+        "cgpa": 3.8
+    },
+    "22100101006": {
+        "name": "ANENDITA DAS ROY",
+        "batch": "22",
+        "college": "Gopalganj",
+        "dept": "Yarn",
+        "results": {
+            "LXTX": 3.75
+        },
+        "cgpa": 3.69
+    },
+    "22100101007": {
+        "name": "MD. ALTAF HOSEN",
+        "batch": "22",
+        "college": "Gopalganj",
+        "dept": "Yarn",
+        "results": {
+            "LXTX": 3.2
+        },
+        "cgpa": 2.86
+    },
+    "22100101010": {
+        "name": "TONMOY KUMAR PAUL",
+        "batch": "22",
+        "college": "Gopalganj",
+        "dept": "Yarn",
+        "results": {
+            "LXTX": 3.42
+        },
+        "cgpa": 3.2
+    },
+    "22100101011": {
+        "name": "TASRIN AKTHER",
+        "batch": "22",
+        "college": "Gopalganj",
+        "dept": "Yarn",
+        "results": {
+            "LXTX": 3.88
+        },
+        "cgpa": 3.69
+    },
+    "22100101015": {
+        "name": "AL-AMIN MHHAD",
+        "batch": "22",
+        "college": "Gopalganj",
+        "dept": "Yarn",
+        "results": {
+            "LXTX": 2.76
+        },
+        "cgpa": 2.73
+    },
+    "22100101016": {
+        "name": "MD.ADNAN HASAN",
+        "batch": "22",
+        "college": "Gopalganj",
+        "dept": "Yarn",
+        "results": {
+            "LXTX": 2.61
+        },
+        "cgpa": 2.53
+    },
+    "22100101017": {
+        "name": "MD. ALVIRAHMAN",
+        "batch": "22",
+        "college": "Gopalganj",
+        "dept": "Yarn",
+        "results": {
+            "LXTX": 3.74
+        },
+        "cgpa": 3.14
+    },
+    "22100101018": {
+        "name": "MD. NAZMUL HASAN",
+        "batch": "22",
+        "college": "Gopalganj",
+        "dept": "Yarn",
+        "results": {
+            "LXTX": 3.5
+        },
+        "cgpa": 3.27
+    },
+    "22100101019": {
+        "name": "SREE ASHK KUMMAR PAL",
+        "batch": "22",
+        "college": "Gopalganj",
+        "dept": "Yarn",
+        "results": {
+            "LXTX": 3.8
+        },
+        "cgpa": 3.41
+    },
+    "22100101023": {
+        "name": "RABBANI",
+        "batch": "22",
+        "college": "Gopalganj",
+        "dept": "Yarn",
+        "results": {
+            "LXTX": 3.08
+        },
+        "cgpa": 2.91
+    },
+    "22100101025": {
+        "name": "MD. SHHAB UDDIN",
+        "batch": "22",
+        "college": "Gopalganj",
+        "dept": "Yarn",
+        "results": {
+            "LXTX": 3.64
+        },
+        "cgpa": 3.19
+    },
+    "22100101026": {
+        "name": "MD. ALI HAITHER ZEBON",
+        "batch": "22",
+        "college": "Gopalganj",
+        "dept": "Yarn",
+        "results": {
+            "LXTX": 3.18
+        },
+        "cgpa": 2.93
+    },
+    "22100101027": {
+        "name": "ISRAT FARHHA",
+        "batch": "22",
+        "college": "Gopalganj",
+        "dept": "Yarn",
+        "results": {
+            "LXTX": 3.57
+        },
+        "cgpa": 3.34
+    },
+    "22100101028": {
+        "name": "UMME SALMA SUMAIYA",
+        "batch": "22",
+        "college": "Gopalganj",
+        "dept": "Yarn",
+        "results": {
+            "LXTX": 3.69
+        },
+        "cgpa": 3.33
+    },
+    "22100201001": {
+        "name": "SHAHINUR ARA SMRAN",
+        "batch": "22",
+        "college": "Gopalganj",
+        "dept": "Fabric",
+        "results": {
+            "LXTX": 3.79
+        },
+        "cgpa": 3.48
+    },
+    "22100201002": {
+        "name": "KAZI MEHADI HASAN",
+        "batch": "22",
+        "college": "Gopalganj",
+        "dept": "Fabric",
+        "results": {
+            "LXTX": 3.51
+        },
+        "cgpa": 3.07
+    },
+    "22100201003": {
+        "name": "AKASH KUMER DAS",
+        "batch": "22",
+        "college": "Gopalganj",
+        "dept": "Fabric",
+        "results": {
+            "LXTX": 3.92
+        },
+        "cgpa": 3.84
+    },
+    "22100201004": {
+        "name": "KABBO MTRA",
+        "batch": "22",
+        "college": "Gopalganj",
+        "dept": "Fabric",
+        "results": {
+            "LXTX": 2.5
+        },
+        "cgpa": 2.56
+    },
+    "22100201005": {
+        "name": "SRABONTHI DEY",
+        "batch": "22",
+        "college": "Gopalganj",
+        "dept": "Fabric",
+        "results": {
+            "LXTX": 3.4
+        },
+        "cgpa": 3.16
+    },
+    "22100201006": {
+        "name": "TAHMINA TAHRIN",
+        "batch": "22",
+        "college": "Gopalganj",
+        "dept": "Fabric",
+        "results": {
+            "LXTX": 3.89
+        },
+        "cgpa": 3.61
+    },
+    "22100201007": {
+        "name": "NAHDUL ISLAM",
+        "batch": "22",
+        "college": "Gopalganj",
+        "dept": "Fabric",
+        "results": {
+            "LXTX": 3.24
+        },
+        "cgpa": 2.89
+    },
+    "22100201008": {
+        "name": "JAHIN FERDUSH NABIL",
+        "batch": "22",
+        "college": "Gopalganj",
+        "dept": "Fabric",
+        "results": {
+            "LXTX": 3.65
+        },
+        "cgpa": 3.12
+    },
+    "22100201010": {
+        "name": "MD. REAZ UDDIN EMON",
+        "batch": "22",
+        "college": "Gopalganj",
+        "dept": "Fabric",
+        "results": {
+            "LXTX": 3.74
+        },
+        "cgpa": 3.61
+    },
+    "22100201012": {
+        "name": "RAISA ISLAM",
+        "batch": "22",
+        "college": "Gopalganj",
+        "dept": "Fabric",
+        "results": {
+            "LXTX": 3.28
+        },
+        "cgpa": 3.21
+    },
+    "22100201014": {
+        "name": "MD. RAFI SARDAR",
+        "batch": "22",
+        "college": "Gopalganj",
+        "dept": "Fabric",
+        "results": {
+            "LXTX": 3.63
+        },
+        "cgpa": 3.18
+    },
+    "22100201015": {
+        "name": "MD. ISMAIL HOSSAIN",
+        "batch": "22",
+        "college": "Gopalganj",
+        "dept": "Fabric",
+        "results": {
+            "LXTX": 2.97
+        },
+        "cgpa": 2.89
+    },
+    "22100201016": {
+        "name": "SHAFIUL ISLAM FAHIM",
+        "batch": "22",
+        "college": "Gopalganj",
+        "dept": "Fabric",
+        "results": {
+            "LXTX": 3.51
+        },
+        "cgpa": 3.17
+    },
+    "22100201017": {
+        "name": "MD. MHEDI HASAN",
+        "batch": "22",
+        "college": "Gopalganj",
+        "dept": "Fabric",
+        "results": {
+            "LXTX": 3.54
+        },
+        "cgpa": 3.06
+    },
+    "22100201018": {
+        "name": "MD. YUNUS",
+        "batch": "22",
+        "college": "Gopalganj",
+        "dept": "Fabric",
+        "results": {
+            "LXTX": 3.31
+        },
+        "cgpa": 3.0
+    },
+    "22100201019": {
+        "name": "MUNNA DAS",
+        "batch": "22",
+        "college": "Gopalganj",
+        "dept": "Fabric",
+        "results": {
+            "LXTX": 2.93
+        },
+        "cgpa": 2.96
+    },
+    "22100201020": {
+        "name": "ASHRAFUL ALAM",
+        "batch": "22",
+        "college": "Gopalganj",
+        "dept": "Fabric",
+        "results": {
+            "LXTX": 3.43
+        },
+        "cgpa": 3.27
+    },
+    "22100201022": {
+        "name": "PRIYAM BARUA",
+        "batch": "22",
+        "college": "Gopalganj",
+        "dept": "Fabric",
+        "results": {
+            "LXTX": 3.61
+        },
+        "cgpa": 3.07
+    },
+    "22100201025": {
+        "name": "SAZID SHEIKH",
+        "batch": "22",
+        "college": "Gopalganj",
+        "dept": "Fabric",
+        "results": {
+            "LXTX": 3.5
+        },
+        "cgpa": 3.19
+    },
+    "22100201028": {
+        "name": "MD. SAKIB",
+        "batch": "22",
+        "college": "Gopalganj",
+        "dept": "Fabric",
+        "results": {
+            "LXTX": 3.51
+        },
+        "cgpa": 3.32
+    },
+    "22100201029": {
+        "name": "APON CHAKRABORTY",
+        "batch": "22",
+        "college": "Gopalganj",
+        "dept": "Fabric",
+        "results": {
+            "LXTX": 3.75
+        },
+        "cgpa": 3.4
+    },
+    "22100201030": {
+        "name": "FAMA JAHAN HRA",
+        "batch": "22",
+        "college": "Gopalganj",
+        "dept": "Fabric",
+        "results": {
+            "LXTX": 3.14
+        },
+        "cgpa": 3.05
+    },
+    "6202112013": {
+        "name": "MD SHOHAG HOSSAIN",
+        "batch": "Unknown",
+        "college": "Unknown",
+        "dept": "Unknown",
+        "results": {
+            "LXTX": 2.76
+        },
+        "cgpa": 2.65
+    },
+    "G202112014": {
+        "name": "TASNM SETU",
+        "batch": "21",
+        "college": "Gopalganj",
+        "dept": "Fabric",
+        "results": {
+            "LXTX": 3.44
+        },
+        "cgpa": 3.05
+    },
+    "G202112018": {
+        "name": "MD SHOHAG ALI",
+        "batch": "21",
+        "college": "Gopalganj",
+        "dept": "Fabric",
+        "results": {
+            "LXTX": 2.74
+        },
+        "cgpa": 2.8
+    },
+    "22100301004": {
+        "name": "MD. JOBAIR HOSSAIN",
+        "batch": "22",
+        "college": "Gopalganj",
+        "dept": "Wet Process",
+        "results": {
+            "LXTX": 3.22
+        },
+        "cgpa": 3.07
+    },
+    "22100301006": {
+        "name": "KAZI BASHIRUL ISLAM",
+        "batch": "22",
+        "college": "Gopalganj",
+        "dept": "Wet Process",
+        "results": {
+            "LXTX": 3.67
+        },
+        "cgpa": 3.16
+    },
+    "22100301007": {
+        "name": "NILOY KUMAR NANDI",
+        "batch": "22",
+        "college": "Gopalganj",
+        "dept": "Wet Process",
+        "results": {
+            "LXTX": 3.97
+        },
+        "cgpa": 3.62
+    },
+    "22100301008": {
+        "name": "NAFIUL ISLAM NISHAT",
+        "batch": "22",
+        "college": "Gopalganj",
+        "dept": "Wet Process",
+        "results": {
+            "LXTX": 3.97
+        },
+        "cgpa": 3.69
+    },
+    "22100301009": {
+        "name": "MD. ARIF HOSSAIN",
+        "batch": "22",
+        "college": "Gopalganj",
+        "dept": "Wet Process",
+        "results": {
+            "LXTX": 3.43
+        },
+        "cgpa": 3.0
+    },
+    "22100301018": {
+        "name": "DITI MUNI",
+        "batch": "22",
+        "college": "Gopalganj",
+        "dept": "Wet Process",
+        "results": {
+            "LXTX": 3.9
+        },
+        "cgpa": 3.49
+    },
+    "22100301019": {
+        "name": "MD. HABIBUR RAHMAN",
+        "batch": "22",
+        "college": "Gopalganj",
+        "dept": "Wet Process",
+        "results": {
+            "LXTX": 3.56
+        },
+        "cgpa": 3.34
+    },
+    "22100301020": {
+        "name": "MD. RONY GAZI",
+        "batch": "22",
+        "college": "Gopalganj",
+        "dept": "Wet Process",
+        "results": {
+            "LXTX": 3.97
+        },
+        "cgpa": 3.84
+    },
+    "22100301022": {
+        "name": "AKI JAHAN NOOR",
+        "batch": "22",
+        "college": "Gopalganj",
+        "dept": "Wet Process",
+        "results": {
+            "LXTX": 3.8
+        },
+        "cgpa": 3.52
+    },
+    "22100301028": {
+        "name": "MAHMA RANJAN ROY",
+        "batch": "22",
+        "college": "Gopalganj",
+        "dept": "Wet Process",
+        "results": {
+            "LXTX": 3.26
+        },
+        "cgpa": 3.07
+    },
+    "22100301029": {
+        "name": "SAURAV PAUL",
+        "batch": "22",
+        "college": "Gopalganj",
+        "dept": "Wet Process",
+        "results": {
+            "LXTX": 3.26
+        },
+        "cgpa": 2.81
+    },
+    "G202113003": {
+        "name": "MDMARUF HOSSIN",
+        "batch": "21",
+        "college": "Gopalganj",
+        "dept": "Wet Process",
+        "results": {
+            "LXTX": 3.21
+        },
+        "cgpa": 2.66
+    },
+    "G202113010": {
+        "name": "MAINUL HASAN",
+        "batch": "21",
+        "college": "Gopalganj",
+        "dept": "Wet Process",
+        "results": {
+            "LXTX": 3.18
+        },
+        "cgpa": 2.69
+    },
+    "22100401005": {
+        "name": "MDTANJIR HOSSEN RIFAT",
+        "batch": "22",
+        "college": "Gopalganj",
+        "dept": "Apparel",
+        "results": {
+            "LXTX": 3.47
+        },
+        "cgpa": 2.91
+    },
+    "22100401006": {
+        "name": "MOHAMMAD SADMAN",
+        "batch": "22",
+        "college": "Gopalganj",
+        "dept": "Apparel",
+        "results": {
+            "LXTX": 3.65
+        },
+        "cgpa": 3.47
+    },
+    "22100401007": {
+        "name": "SMTA CHOWDHURY",
+        "batch": "22",
+        "college": "Gopalganj",
+        "dept": "Apparel",
+        "results": {
+            "LXTX": 3.59
+        },
+        "cgpa": 3.15
+    },
+    "22100401008": {
+        "name": "KABBYA DAS",
+        "batch": "22",
+        "college": "Gopalganj",
+        "dept": "Apparel",
+        "results": {
+            "LXTX": 3.2
+        },
+        "cgpa": 2.95
+    },
+    "22100401009": {
+        "name": "MD. EBRAHIM",
+        "batch": "22",
+        "college": "Gopalganj",
+        "dept": "Apparel",
+        "results": {
+            "LXTX": 3.41
+        },
+        "cgpa": 3.11
+    },
+    "22100401010": {
+        "name": "RAKIB UZ JAMAN",
+        "batch": "22",
+        "college": "Gopalganj",
+        "dept": "Apparel",
+        "results": {
+            "LXTX": 3.52
+        },
+        "cgpa": 3.45
+    },
+    "22100401015": {
+        "name": "MD. SHAKI HOSSEN",
+        "batch": "22",
+        "college": "Gopalganj",
+        "dept": "Apparel",
+        "results": {
+            "LXTX": 3.42
+        },
+        "cgpa": 3.1
+    },
+    "22100401016": {
+        "name": "MD. ELEUS UDDIN",
+        "batch": "22",
+        "college": "Gopalganj",
+        "dept": "Apparel",
+        "results": {
+            "LXTX": 3.09
+        },
+        "cgpa": 3.13
+    },
+    "22100401018": {
+        "name": "HADIA BNTA EMA",
+        "batch": "22",
+        "college": "Gopalganj",
+        "dept": "Apparel",
+        "results": {
+            "LXTX": 3.54
+        },
+        "cgpa": 3.27
+    },
+    "22100401020": {
+        "name": "PRANTAR PAUL OLI",
+        "batch": "22",
+        "college": "Gopalganj",
+        "dept": "Apparel",
+        "results": {
+            "LXTX": 3.26
+        },
+        "cgpa": 2.88
+    },
+    "22100401021": {
+        "name": "SUMAIYA AHMED MUNA",
+        "batch": "22",
+        "college": "Gopalganj",
+        "dept": "Apparel",
+        "results": {
+            "LXTX": 3.82
+        },
+        "cgpa": 3.63
+    },
+    "22100401022": {
+        "name": "MD.AKASH ISLAM",
+        "batch": "22",
+        "college": "Gopalganj",
+        "dept": "Apparel",
+        "results": {
+            "LXTX": 3.14
+        },
+        "cgpa": 3.06
+    },
+    "22100401023": {
+        "name": "SUMAIYA SULTANA",
+        "batch": "22",
+        "college": "Gopalganj",
+        "dept": "Apparel",
+        "results": {
+            "LXTX": 3.52
+        },
+        "cgpa": 3.2
+    },
+    "22100401024": {
+        "name": "MEJBAH UDDIN",
+        "batch": "22",
+        "college": "Gopalganj",
+        "dept": "Apparel",
+        "results": {
+            "LXTX": 3.62
+        },
+        "cgpa": 3.18
+    },
+    "22100401025": {
+        "name": "MAHINUR AKTER",
+        "batch": "22",
+        "college": "Gopalganj",
+        "dept": "Apparel",
+        "results": {
+            "LXTX": 3.68
+        },
+        "cgpa": 3.55
+    },
+    "22100401026": {
+        "name": "MD. SURUJ ALI",
+        "batch": "22",
+        "college": "Gopalganj",
+        "dept": "Apparel",
+        "results": {
+            "LXTX": 3.11
+        },
+        "cgpa": 2.89
+    },
+    "22100401028": {
+        "name": "SOKAT KUMAR",
+        "batch": "22",
+        "college": "Gopalganj",
+        "dept": "Apparel",
+        "results": {
+            "LXTX": 3.84
+        },
+        "cgpa": 3.7
+    },
+    "22110101001": {
+        "name": "RIDWAN AHMAD",
+        "batch": "22",
+        "college": "Jamalpur",
+        "dept": "Yarn",
+        "results": {
+            "LXTX": 3.6
+        },
+        "cgpa": 3.3
+    },
+    "22110101003": {
+        "name": "SADDAM HOSSAIN",
+        "batch": "22",
+        "college": "Jamalpur",
+        "dept": "Yarn",
+        "results": {
+            "LXTX": 3.42
+        },
+        "cgpa": 3.18
+    },
+    "22110101006": {
+        "name": "ASFIA NOURIN",
+        "batch": "22",
+        "college": "Jamalpur",
+        "dept": "Yarn",
+        "results": {
+            "LXTX": 3.36
+        },
+        "cgpa": 3.13
+    },
+    "22110101007": {
+        "name": "MNAMM HOSSAIN",
+        "batch": "22",
+        "college": "Jamalpur",
+        "dept": "Yarn",
+        "results": {
+            "LXTX": 3.48
+        },
+        "cgpa": 3.24
+    },
+    "22110101009": {
+        "name": "MAJBHA UDDIN",
+        "batch": "22",
+        "college": "Jamalpur",
+        "dept": "Yarn",
+        "results": {
+            "LXTX": 3.74
+        },
+        "cgpa": 3.43
+    },
+    "22110101010": {
+        "name": "KHANDOKER IZAZ AHMED",
+        "batch": "22",
+        "college": "Jamalpur",
+        "dept": "Yarn",
+        "results": {
+            "LXTX": 3.19
+        },
+        "cgpa": 2.9
+    },
+    "22110101011": {
+        "name": "SAKIB AL HASAN",
+        "batch": "22",
+        "college": "Jamalpur",
+        "dept": "Yarn",
+        "results": {
+            "LXTX": 3.43
+        },
+        "cgpa": 2.85
+    },
+    "22110101014": {
+        "name": "FOKRUL ISLAM",
+        "batch": "22",
+        "college": "Jamalpur",
+        "dept": "Yarn",
+        "results": {
+            "LXTX": 3.64
+        },
+        "cgpa": 3.24
+    },
+    "22110101016": {
+        "name": "SOHANUR RAHMAN",
+        "batch": "22",
+        "college": "Jamalpur",
+        "dept": "Yarn",
+        "results": {
+            "LXTX": 3.73
+        },
+        "cgpa": 3.62
+    },
+    "22110101017": {
+        "name": "KAMRUL HASAN SAMON",
+        "batch": "22",
+        "college": "Jamalpur",
+        "dept": "Yarn",
+        "results": {
+            "LXTX": 3.1
+        },
+        "cgpa": 2.63
+    },
+    "22110101018": {
+        "name": "ANANTO DAS",
+        "batch": "22",
+        "college": "Jamalpur",
+        "dept": "Yarn",
+        "results": {
+            "LXTX": 3.5
+        },
+        "cgpa": 3.22
+    },
+    "22110101019": {
+        "name": "MD. RIMON SARKER",
+        "batch": "22",
+        "college": "Jamalpur",
+        "dept": "Yarn",
+        "results": {
+            "LXTX": 3.48
+        },
+        "cgpa": 3.26
+    },
+    "22110101020": {
+        "name": "MD MAHADI HASAN",
+        "batch": "22",
+        "college": "Jamalpur",
+        "dept": "Yarn",
+        "results": {
+            "LXTX": 3.69
+        },
+        "cgpa": 3.35
+    },
+    "22110101022": {
+        "name": "DHRUBO BHATTACHARJEE",
+        "batch": "22",
+        "college": "Jamalpur",
+        "dept": "Yarn",
+        "results": {
+            "LXTX": 3.15
+        },
+        "cgpa": 2.82
+    },
+    "22110101023": {
+        "name": "SOMPA YEASMIN",
+        "batch": "22",
+        "college": "Jamalpur",
+        "dept": "Yarn",
+        "results": {
+            "LXTX": 3.64
+        },
+        "cgpa": 3.43
+    },
+    "22110101024": {
+        "name": "MD. HOSANUL KABRR",
+        "batch": "22",
+        "college": "Jamalpur",
+        "dept": "Yarn",
+        "results": {
+            "LXTX": 3.29
+        },
+        "cgpa": 3.1
+    },
+    "22110101029": {
+        "name": "MD SAJDD HOSSAIN",
+        "batch": "22",
+        "college": "Jamalpur",
+        "dept": "Yarn",
+        "results": {
+            "LXTX": 3.61
+        },
+        "cgpa": 3.18
+    },
+    "22110201002": {
+        "name": "TANJL ISLAM RUPOK",
+        "batch": "22",
+        "college": "Jamalpur",
+        "dept": "Fabric",
+        "results": {
+            "LXTX": 3.79
+        },
+        "cgpa": 3.27
+    },
+    "22110201003": {
+        "name": "MD. ALKAMA",
+        "batch": "22",
+        "college": "Jamalpur",
+        "dept": "Fabric",
+        "results": {
+            "LXTX": 3.65
+        },
+        "cgpa": 3.14
+    },
+    "22110201004": {
+        "name": "SHAHED HOSSEN",
+        "batch": "22",
+        "college": "Jamalpur",
+        "dept": "Fabric",
+        "results": {
+            "LXTX": 3.4
+        },
+        "cgpa": 3.09
+    },
+    "22110201005": {
+        "name": "MD. SAKIL MIA",
+        "batch": "22",
+        "college": "Jamalpur",
+        "dept": "Fabric",
+        "results": {
+            "LXTX": 3.04
+        },
+        "cgpa": 2.72
+    },
+    "22110201006": {
+        "name": "ARIF RAIHAN",
+        "batch": "22",
+        "college": "Jamalpur",
+        "dept": "Fabric",
+        "results": {
+            "LXTX": 3.43
+        },
+        "cgpa": 2.91
+    },
+    "22110201008": {
+        "name": "TOWHID HOSSANN",
+        "batch": "22",
+        "college": "Jamalpur",
+        "dept": "Fabric",
+        "results": {
+            "LXTX": 3.65
+        },
+        "cgpa": 3.44
+    },
+    "22110201010": {
+        "name": "MDD. HASAN KHANDAKER",
+        "batch": "22",
+        "college": "Jamalpur",
+        "dept": "Fabric",
+        "results": {
+            "LXTX": 3.25
+        },
+        "cgpa": 3.25
+    },
+    "22110201011": {
+        "name": "SHEIKH FARID",
+        "batch": "22",
+        "college": "Jamalpur",
+        "dept": "Fabric",
+        "results": {
+            "LXTX": 3.79
+        },
+        "cgpa": 3.23
+    },
+    "22110201012": {
+        "name": "TAWFIQUL HAQUE NIBRR",
+        "batch": "22",
+        "college": "Jamalpur",
+        "dept": "Fabric",
+        "results": {
+            "LXTX": 3.56
+        },
+        "cgpa": 3.02
+    },
+    "22110201013": {
+        "name": "KAWSHK RAHMAN AKASH",
+        "batch": "22",
+        "college": "Jamalpur",
+        "dept": "Fabric",
+        "results": {
+            "LXTX": 3.61
+        },
+        "cgpa": 2.96
+    },
+    "22110201018": {
+        "name": "SMKA ROY",
+        "batch": "22",
+        "college": "Jamalpur",
+        "dept": "Fabric",
+        "results": {
+            "LXTX": 3.38
+        },
+        "cgpa": 3.14
+    },
+    "22110201019": {
+        "name": "MUJADDID-E ISLAM",
+        "batch": "22",
+        "college": "Jamalpur",
+        "dept": "Fabric",
+        "results": {
+            "LXTX": 3.17
+        },
+        "cgpa": 3.01
+    },
+    "22110201021": {
+        "name": "MD. ROBIUL HASAN",
+        "batch": "22",
+        "college": "Jamalpur",
+        "dept": "Fabric",
+        "results": {
+            "LXTX": 3.49
+        },
+        "cgpa": 3.27
+    },
+    "22110201023": {
+        "name": "SAHIDA ISLAM",
+        "batch": "22",
+        "college": "Jamalpur",
+        "dept": "Fabric",
+        "results": {
+            "LXTX": 3.83
+        },
+        "cgpa": 3.61
+    },
+    "22110201024": {
+        "name": "APURBA DEY",
+        "batch": "22",
+        "college": "Jamalpur",
+        "dept": "Fabric",
+        "results": {
+            "LXTX": 3.07
+        },
+        "cgpa": 2.68
+    },
+    "22110201025": {
+        "name": "SADIA JAHAN",
+        "batch": "22",
+        "college": "Jamalpur",
+        "dept": "Fabric",
+        "results": {
+            "LXTX": 3.51
+        },
+        "cgpa": 3.12
+    },
+    "22110201026": {
+        "name": "KHAYA SAHA",
+        "batch": "22",
+        "college": "Jamalpur",
+        "dept": "Fabric",
+        "results": {
+            "LXTX": 3.79
+        },
+        "cgpa": 3.41
+    },
+    "22110201027": {
+        "name": "M. SADMAN ASHIK SHAFI",
+        "batch": "22",
+        "college": "Jamalpur",
+        "dept": "Fabric",
+        "results": {
+            "LXTX": 2.92
+        },
+        "cgpa": 2.89
+    },
+    "22110201029": {
+        "name": "MD SAKIUL ISLAM SAKI",
+        "batch": "22",
+        "college": "Jamalpur",
+        "dept": "Fabric",
+        "results": {
+            "LXTX": 2.97
+        },
+        "cgpa": 2.79
+    },
+    "22110201030": {
+        "name": "MD. ROBN MIA",
+        "batch": "22",
+        "college": "Jamalpur",
+        "dept": "Fabric",
+        "results": {
+            "LXTX": 3.1
+        },
+        "cgpa": 2.78
+    },
+    "22110301001": {
+        "name": "MOHSINA RAHMAN TISHA",
+        "batch": "22",
+        "college": "Jamalpur",
+        "dept": "Wet Process",
+        "results": {
+            "LXTX": 3.66
+        },
+        "cgpa": 3.21
+    },
+    "22110301002": {
+        "name": "AL AMIN",
+        "batch": "22",
+        "college": "Jamalpur",
+        "dept": "Wet Process",
+        "results": {
+            "LXTX": 3.07
+        },
+        "cgpa": 2.89
+    },
+    "22110301005": {
+        "name": "MD. ROBIUL AWAL",
+        "batch": "22",
+        "college": "Jamalpur",
+        "dept": "Wet Process",
+        "results": {
+            "LXTX": 3.34
+        },
+        "cgpa": 3.15
+    },
+    "22110301006": {
+        "name": "MD. ASHRAFUL ISLAM",
+        "batch": "22",
+        "college": "Jamalpur",
+        "dept": "Wet Process",
+        "results": {
+            "LXTX": 3.52
+        },
+        "cgpa": 3.19
+    },
+    "22110301007": {
+        "name": "MD MUSHFIQUR RAHMAN",
+        "batch": "22",
+        "college": "Jamalpur",
+        "dept": "Wet Process",
+        "results": {
+            "LXTX": 3.5
+        },
+        "cgpa": 3.14
+    },
+    "22110301011": {
+        "name": "MD.JASM UDDIN JBBON",
+        "batch": "22",
+        "college": "Jamalpur",
+        "dept": "Wet Process",
+        "results": {
+            "LXTX": 3.23
+        },
+        "cgpa": 3.01
+    },
+    "22110301012": {
+        "name": "MOMO RAKSHT",
+        "batch": "22",
+        "college": "Jamalpur",
+        "dept": "Wet Process",
+        "results": {
+            "LXTX": 3.6
+        },
+        "cgpa": 3.33
+    },
+    "22110301014": {
+        "name": "MD BRAJ MIA",
+        "batch": "22",
+        "college": "Jamalpur",
+        "dept": "Wet Process",
+        "results": {
+            "LXTX": 3.53
+        },
+        "cgpa": 3.09
+    },
+    "22110301015": {
+        "name": "MD. SHHAB SIDDIQI",
+        "batch": "22",
+        "college": "Jamalpur",
+        "dept": "Wet Process",
+        "results": {
+            "LXTX": 3.88
+        },
+        "cgpa": 3.65
+    },
+    "22110301017": {
+        "name": "MARZIA AKTER NIHA",
+        "batch": "22",
+        "college": "Jamalpur",
+        "dept": "Wet Process",
+        "results": {
+            "LXTX": 3.92
+        },
+        "cgpa": 3.64
+    },
+    "22110301019": {
+        "name": "RAKBB AL HASAN",
+        "batch": "22",
+        "college": "Jamalpur",
+        "dept": "Wet Process",
+        "results": {
+            "LXTX": 3.5
+        },
+        "cgpa": 3.06
+    },
+    "22110301021": {
+        "name": "R K ASK KHAN",
+        "batch": "22",
+        "college": "Jamalpur",
+        "dept": "Wet Process",
+        "results": {
+            "LXTX": 3.49
+        },
+        "cgpa": 3.13
+    },
+    "22110301022": {
+        "name": "ISTIAK FARUK IFTEE",
+        "batch": "22",
+        "college": "Jamalpur",
+        "dept": "Wet Process",
+        "results": {
+            "LXTX": 3.88
+        },
+        "cgpa": 3.44
+    },
+    "22110301023": {
+        "name": "MD. SHAKIL ANWER",
+        "batch": "22",
+        "college": "Jamalpur",
+        "dept": "Wet Process",
+        "results": {
+            "LXTX": 3.4
+        },
+        "cgpa": 2.91
+    },
+    "22110301024": {
+        "name": "RAFIUL ISLAM",
+        "batch": "22",
+        "college": "Jamalpur",
+        "dept": "Wet Process",
+        "results": {
+            "LXTX": 3.41
+        },
+        "cgpa": 2.99
+    },
+    "22110301025": {
+        "name": "SHAFINE FERDUS SHMMUL",
+        "batch": "22",
+        "college": "Jamalpur",
+        "dept": "Wet Process",
+        "results": {
+            "LXTX": 2.78
+        },
+        "cgpa": 2.65
+    },
+    "22110301026": {
+        "name": "S.M NAHDD",
+        "batch": "22",
+        "college": "Jamalpur",
+        "dept": "Wet Process",
+        "results": {
+            "LXTX": 3.03
+        },
+        "cgpa": 2.79
+    },
+    "22110401001": {
+        "name": "SATH RANI BARMAN",
+        "batch": "22",
+        "college": "Jamalpur",
+        "dept": "Apparel",
+        "results": {
+            "LXTX": 3.79
+        },
+        "cgpa": 3.51
+    },
+    "22110401002": {
+        "name": "ESHA GUPTA",
+        "batch": "22",
+        "college": "Jamalpur",
+        "dept": "Apparel",
+        "results": {
+            "LXTX": 3.65
+        },
+        "cgpa": 3.53
+    },
+    "22110401004": {
+        "name": "SHAMM AHED",
+        "batch": "22",
+        "college": "Jamalpur",
+        "dept": "Apparel",
+        "results": {
+            "LXTX": 3.74
+        },
+        "cgpa": 3.22
+    },
+    "22110401006": {
+        "name": "MD. AFRIDI HASSAN",
+        "batch": "22",
+        "college": "Jamalpur",
+        "dept": "Apparel",
+        "results": {
+            "LXTX": 3.84
+        },
+        "cgpa": 3.58
+    },
+    "22110401007": {
+        "name": "MD. NAZMUL HASAN",
+        "batch": "22",
+        "college": "Jamalpur",
+        "dept": "Apparel",
+        "results": {
+            "LXTX": 3.77
+        },
+        "cgpa": 3.54
+    },
+    "22110401008": {
+        "name": "MDRASHIDUL ISLAM",
+        "batch": "22",
+        "college": "Jamalpur",
+        "dept": "Apparel",
+        "results": {
+            "LXTX": 2.89
+        },
+        "cgpa": 2.82
+    },
+    "22110401010": {
+        "name": "FFTEKHAR AHMED",
+        "batch": "22",
+        "college": "Jamalpur",
+        "dept": "Apparel",
+        "results": {
+            "LXTX": 3.55
+        },
+        "cgpa": 3.07
+    },
+    "22110401013": {
+        "name": "MD. TABASSUM AL MOHIT",
+        "batch": "22",
+        "college": "Jamalpur",
+        "dept": "Apparel",
+        "results": {
+            "LXTX": 3.22
+        },
+        "cgpa": 3.05
+    },
+    "22110401015": {
+        "name": "TAHSNN REDUAN ADIB",
+        "batch": "22",
+        "college": "Jamalpur",
+        "dept": "Apparel",
+        "results": {
+            "LXTX": 3.2
+        },
+        "cgpa": 3.06
+    },
+    "22110401017": {
+        "name": "MD. MONAYEM AHED",
+        "batch": "22",
+        "college": "Jamalpur",
+        "dept": "Apparel",
+        "results": {
+            "LXTX": 3.93
+        },
+        "cgpa": 3.73
+    },
+    "22110401022": {
+        "name": "FARHANA AFRIN NISH",
+        "batch": "22",
+        "college": "Jamalpur",
+        "dept": "Apparel",
+        "results": {
+            "LXTX": 3.22
+        },
+        "cgpa": 3.1
+    },
+    "22110401024": {
+        "name": "SOUROV PAUL",
+        "batch": "22",
+        "college": "Jamalpur",
+        "dept": "Apparel",
+        "results": {
+            "LXTX": 2.84
+        },
+        "cgpa": 2.81
+    },
+    "22110401027": {
+        "name": "MD. OMUR FARUK",
+        "batch": "22",
+        "college": "Jamalpur",
+        "dept": "Apparel",
+        "results": {
+            "LXTX": 3.65
+        },
+        "cgpa": 3.3
+    },
+    "22110401028": {
+        "name": "MD.AL-AMN ISLAM",
+        "batch": "22",
+        "college": "Jamalpur",
+        "dept": "Apparel",
+        "results": {
+            "LXTX": 3.4
+        },
+        "cgpa": 3.06
+    },
+    "22110401030": {
+        "name": "JANNATUL FERDOUS",
+        "batch": "22",
+        "college": "Jamalpur",
+        "dept": "Apparel",
+        "results": {
+            "LXTX": 3.05
+        },
+        "cgpa": 2.93
+    },
+    "22110401031": {
+        "name": "MEHEDI HASAN",
+        "batch": "22",
+        "college": "Jamalpur",
+        "dept": "Apparel",
+        "results": {
+            "LXTX": 2.9
+        },
+        "cgpa": 2.84
     }
 }
