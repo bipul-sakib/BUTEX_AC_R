@@ -77,7 +77,8 @@
         "dept": "Yarn",
         "results": {
             "L1T1": 2.5,
-            "L3T2": 3.29
+            "L3T2": 3.29,
+            "L4T2": 3.04
         },
         "retakes": [
             {
@@ -101,7 +102,7 @@
                 "gpa": 2.91
             }
         ],
-        "cgpa": 2.82
+        "cgpa": 2.89
     },
     "T202111004": {
         "name": "MD. FOYSAL . . Promoted CHEM-II . T I I I  MD. NUR SHAH ALOM",
@@ -111,7 +112,8 @@
         "results": {
             "L1T2": 2.49,
             "L1T1": 2.99,
-            "L3T2": 2.71
+            "L3T2": 2.71,
+            "L4T2": 3.18
         },
         "retakes": [
             {
@@ -130,7 +132,7 @@
                 "gpa": 2.86
             }
         ],
-        "cgpa": 2.49
+        "cgpa": 2.95
     },
     "T202111005": {
         "name": "MD. NUR SHAH ALOM",
@@ -138,7 +140,8 @@
         "college": "Tangail Textile Engineering College",
         "dept": "Yarn",
         "results": {
-            "L1T1": 2.67
+            "L1T1": 2.67,
+            "L4T2": 3.0
         },
         "retakes": [
             {
@@ -167,7 +170,7 @@
                 "gpa": 2.5
             }
         ],
-        "cgpa": 2.67
+        "cgpa": 2.54
     },
     "T202111010": {
         "name": "MD. MAJNUL ISLAM . . Promoted CHEM-II CP . T l  EMON HOWLADER",
@@ -177,7 +180,8 @@
         "results": {
             "L2T1": 3.02,
             "L1T1": 2.61,
-            "L3T2": 3.18
+            "L3T2": 3.18,
+            "L4T2": 3.36
         },
         "retakes": [
             {
@@ -191,7 +195,7 @@
                 "gpa": 2.79
             }
         ],
-        "cgpa": 2.86
+        "cgpa": 2.95
     },
     "T202111015": {
         "name": "DABOJIT CHANDRO ROY",
@@ -201,7 +205,8 @@
         "results": {
             "L2T1": 2.59,
             "L1T1": 2.59,
-            "L3T2": 3.4
+            "L3T2": 3.4,
+            "L4T2": 3.54
         },
         "retakes": [
             {
@@ -220,7 +225,7 @@
                 "gpa": 2.98
             }
         ],
-        "cgpa": 2.91
+        "cgpa": 3.05
     },
     "T202111016": {
         "name": "ISHTIAK AHMED LICHAN",
@@ -229,7 +234,8 @@
         "dept": "Yarn",
         "results": {
             "L1T1": 2.73,
-            "L3T2": 2.99
+            "L3T2": 2.99,
+            "L4T2": 3.29
         },
         "retakes": [
             {
@@ -248,7 +254,7 @@
                 "gpa": 2.83
             }
         ],
-        "cgpa": 2.79
+        "cgpa": 2.88
     },
     "T202111018": {
         "name": "MD. MOSTAFIZUR RAHMAN",
@@ -257,7 +263,8 @@
         "dept": "Yarn",
         "results": {
             "L1T1": 2.75,
-            "L3T2": 3.14
+            "L3T2": 3.14,
+            "L4T2": 3.32
         },
         "retakes": [
             {
@@ -281,7 +288,7 @@
                 "gpa": 2.25
             }
         ],
-        "cgpa": 2.77
+        "cgpa": 2.9
     },
     "T202111020": {
         "name": "MD. FAZLA RAFI",
@@ -290,7 +297,8 @@
         "dept": "Yarn",
         "results": {
             "L1T1": 2.99,
-            "L3T2": 3.31
+            "L3T2": 3.31,
+            "L4T2": 3.79
         },
         "retakes": [
             {
@@ -304,7 +312,7 @@
                 "gpa": 3.3
             }
         ],
-        "cgpa": 3.26
+        "cgpa": 3.36
     },
     "T202111021": {
         "name": "MD. AHSHENUR RAHAMAN",
@@ -313,7 +321,8 @@
         "dept": "Yarn",
         "results": {
             "L1T1": 2.58,
-            "L3T2": 3.2
+            "L3T2": 3.2,
+            "L4T2": 3.46
         },
         "retakes": [
             {
@@ -337,7 +346,7 @@
                 "gpa": 2.91
             }
         ],
-        "cgpa": 2.85
+        "cgpa": 2.98
     },
     "T202111024": {
         "name": "MONIR HOSSAIN",
@@ -394,7 +403,8 @@
         "dept": "Yarn",
         "results": {
             "L1T1": 3.18,
-            "L3T2": 3.24
+            "L3T2": 3.24,
+            "L4T2": 3.36
         },
         "retakes": [
             {
@@ -408,7 +418,7 @@
                 "gpa": 3.1
             }
         ],
-        "cgpa": 3.13
+        "cgpa": 3.18
     },
     "T202111027": {
         "name": ".RIPON CHANDRA ROY . . Promoted CP - . T I  MD. ABU SALEH AKASH",
@@ -418,7 +428,8 @@
         "results": {
             "L2T1": 2.99,
             "L1T1": 2.97,
-            "L3T2": 3.31
+            "L3T2": 3.31,
+            "L4T2": 3.57
         },
         "retakes": [
             {
@@ -432,7 +443,7 @@
                 "gpa": 2.93
             }
         ],
-        "cgpa": 3.0
+        "cgpa": 3.11
     },
     "T202111030": {
         "name": "MD. TARIQUL ISLAM",
@@ -631,7 +642,8 @@
         "results": {
             "L1T2": 2.93,
             "L1T1": 2.95,
-            "L3T2": 3.65
+            "L3T2": 3.65,
+            "L4T2": 3.33
         },
         "retakes": [
             {
@@ -650,7 +662,7 @@
                 "gpa": 2.95
             }
         ],
-        "cgpa": 3.04
+        "cgpa": 3.08
     },
     "T202112012": {
         "name": "MD. NA YEM HOSSAIN . . Promoted CHEM-II CP  . T I  MOST. FA TEMA AKTER",
@@ -693,7 +705,8 @@
         "dept": "Fabric",
         "results": {
             "L1T1": 2.84,
-            "L3T2": 3.26
+            "L3T2": 3.26,
+            "L4T2": 3.32
         },
         "retakes": [
             {
@@ -707,7 +720,7 @@
                 "gpa": 3.06
             }
         ],
-        "cgpa": 3.01
+        "cgpa": 3.02
     },
     "T202112021": {
         "name": "MOST. DELROBA AKTER . . Promoted CP . T I l  FOYSAL AHMMED",
@@ -717,7 +730,8 @@
         "results": {
             "L1T2": 2.75,
             "L1T1": 3.01,
-            "L3T2": 3.4
+            "L3T2": 3.4,
+            "L4T2": 3.55
         },
         "retakes": [
             {
@@ -741,7 +755,7 @@
                 "gpa": 3.19
             }
         ],
-        "cgpa": 3.16
+        "cgpa": 3.24
     },
     "T202112022": {
         "name": "FOYSAL AHMMED",
@@ -751,7 +765,8 @@
         "results": {
             "L2T1": 2.84,
             "L1T1": 2.86,
-            "L3T2": 3.24
+            "L3T2": 3.24,
+            "L4T2": 3.26
         },
         "retakes": [
             {
@@ -775,7 +790,7 @@
                 "gpa": 3.0
             }
         ],
-        "cgpa": 2.96
+        "cgpa": 3.04
     },
     "T202112026": {
         "name": "TAPUROY",
@@ -784,7 +799,8 @@
         "dept": "Fabric",
         "results": {
             "L1T1": 3.03,
-            "L3T2": 3.57
+            "L3T2": 3.57,
+            "L4T2": 3.51
         },
         "retakes": [
             {
@@ -798,7 +814,7 @@
                 "gpa": 3.39
             }
         ],
-        "cgpa": 3.41
+        "cgpa": 3.47
     },
     "T202112028": {
         "name": "MD. RATHAN ALOM",
@@ -808,7 +824,8 @@
         "results": {
             "L2T1": 2.89,
             "L1T1": 2.68,
-            "L3T2": 2.99
+            "L3T2": 2.99,
+            "L4T2": 2.99
         },
         "retakes": [
             {
@@ -837,7 +854,7 @@
                 "gpa": 2.97
             }
         ],
-        "cgpa": 2.77
+        "cgpa": 2.85
     },
     "T202012025": {
         "name": "MD. BASIRUL HOQUE",
@@ -885,7 +902,8 @@
         "results": {
             "L1T2": 2.54,
             "L1T1": 2.83,
-            "L3T2": 3.16
+            "L3T2": 3.16,
+            "L4T2": 3.47
         },
         "retakes": [
             {
@@ -909,7 +927,7 @@
                 "gpa": 2.75
             }
         ],
-        "cgpa": 2.92
+        "cgpa": 3.04
     },
     "T202113019": {
         "name": "MD. ARIF HASAN . . Promoted BCEcP . TI  ABU SUFIAN BISWAS",
@@ -948,7 +966,8 @@
         "results": {
             "L2T1": 2.77,
             "L1T1": 2.78,
-            "L3T2": 3.03
+            "L3T2": 3.03,
+            "L4T2": 3.2
         },
         "retakes": [
             {
@@ -977,7 +996,7 @@
                 "gpa": 2.89
             }
         ],
-        "cgpa": 2.86
+        "cgpa": 2.92
     },
     "T202113030": {
         "name": "JONYKHAN",
@@ -987,7 +1006,8 @@
         "results": {
             "L2T1": 2.71,
             "L1T1": 2.63,
-            "L3T2": 2.77
+            "L3T2": 2.77,
+            "L4T2": 3.43
         },
         "retakes": [
             {
@@ -1011,7 +1031,7 @@
                 "gpa": 2.72
             }
         ],
-        "cgpa": 2.68
+        "cgpa": 2.82
     },
     "T202013017": {
         "name": "MD NAZMUL HOSSAIN",
@@ -1201,7 +1221,8 @@
         "dept": "Wet Process",
         "results": {
             "L1T1": 2.5,
-            "L3T2": 2.61
+            "L3T2": 2.61,
+            "L4T2": 3.11
         },
         "retakes": [
             {
@@ -1235,7 +1256,7 @@
                 "gpa": 2.55
             }
         ],
-        "cgpa": 2.53
+        "cgpa": 2.59
     },
     "S202113015": {
         "name": "MD. SHAKIL MCA",
@@ -1246,7 +1267,8 @@
             "L2T1": 2.99,
             "L1T2": 3.03,
             "L1T1": 3.12,
-            "L3T2": 3.03
+            "L3T2": 3.03,
+            "L4T2": 3.21
         },
         "retakes": [
             {
@@ -1270,7 +1292,7 @@
                 "gpa": 3.03
             }
         ],
-        "cgpa": 3.03
+        "cgpa": 3.02
     },
     "S202113022": {
         "name": "KAYASBHUYAN",
@@ -1680,7 +1702,8 @@
         "dept": "Apparel",
         "results": {
             "L1T1": 3.18,
-            "L3T2": 2.76
+            "L3T2": 2.76,
+            "L4T2": 3.0
         },
         "retakes": [
             {
@@ -1734,7 +1757,7 @@
                 "gpa": 2.71
             }
         ],
-        "cgpa": 2.66
+        "cgpa": 3.13
     },
     "22070101001": {
         "name": "AKRAMUL HAQUE",
@@ -11524,7 +11547,8 @@
         "dept": "Yarn",
         "results": {
             "L2T1": 3.36,
-            "L3T2": 3.77
+            "L3T2": 3.77,
+            "L4T2": 3.64
         },
         "retakes": [
             {
@@ -11533,7 +11557,7 @@
                 "gpa": 3.35
             }
         ],
-        "cgpa": 3.47
+        "cgpa": 3.53
     },
     "T202111008": {
         "name": "AL-AMIN . . Promoted - . T I  ASHIKUR RAHMAN",
@@ -11543,7 +11567,8 @@
         "results": {
             "L2T1": 3.07,
             "L1T1": 3.39,
-            "L3T2": 3.68
+            "L3T2": 3.68,
+            "L4T2": 3.75
         },
         "retakes": [
             {
@@ -11557,7 +11582,7 @@
                 "gpa": 3.42
             }
         ],
-        "cgpa": 3.46
+        "cgpa": 3.54
     },
     "T202111009": {
         "name": "ASHIKUR RAHMAN",
@@ -11589,7 +11614,8 @@
         "dept": "Yarn",
         "results": {
             "L1T1": 3.64,
-            "L3T2": 3.74
+            "L3T2": 3.74,
+            "L4T2": 3.82
         },
         "retakes": [
             {
@@ -11608,7 +11634,7 @@
                 "gpa": 2.89
             }
         ],
-        "cgpa": 3.78
+        "cgpa": 3.81
     },
     "T202111013": {
         "name": "SHAKIB HOSSAIN",
@@ -11617,7 +11643,8 @@
         "dept": "Yarn",
         "results": {
             "L1T1": 2.75,
-            "L3T2": 3.1
+            "L3T2": 3.1,
+            "L4T2": 3.29
         },
         "retakes": [
             {
@@ -11626,7 +11653,7 @@
                 "gpa": 2.79
             }
         ],
-        "cgpa": 2.83
+        "cgpa": 2.94
     },
     "T202111014": {
         "name": "MD. JARID HASAN",
@@ -11635,7 +11662,8 @@
         "dept": "Yarn",
         "results": {
             "L1T1": 2.81,
-            "L3T2": 3.4
+            "L3T2": 3.4,
+            "L4T2": 3.36
         },
         "retakes": [
             {
@@ -11649,7 +11677,7 @@
                 "gpa": 2.25
             }
         ],
-        "cgpa": 3.0
+        "cgpa": 3.1
     },
     "T202111017": {
         "name": "MD. SHAKHAWATHOSSAIN",
@@ -11657,7 +11685,8 @@
         "college": "Tangail Textile Engineering College",
         "dept": "Yarn",
         "results": {
-            "L1T1": 2.53
+            "L1T1": 2.53,
+            "L4T2": 3.21
         },
         "retakes": [
             {
@@ -11676,7 +11705,7 @@
                 "gpa": 2.84
             }
         ],
-        "cgpa": 2.53
+        "cgpa": 2.85
     },
     "T202111019": {
         "name": "TSHTTAK AHMED SOUROV . . . Promoted - . TI I  MD. FAZLA RAFI",
@@ -11686,7 +11715,8 @@
         "results": {
             "L2T1": 3.32,
             "L1T1": 3.54,
-            "L3T2": 3.68
+            "L3T2": 3.68,
+            "L4T2": 3.68
         },
         "retakes": [
             {
@@ -11695,7 +11725,7 @@
                 "gpa": 3.52
             }
         ],
-        "cgpa": 3.56
+        "cgpa": 3.59
     },
     "T202111023": {
         "name": "ARMAN ROSSEN",
@@ -11703,7 +11733,8 @@
         "college": "Tangail Textile Engineering College",
         "dept": "Yarn",
         "results": {
-            "L3T2": 3.43
+            "L3T2": 3.43,
+            "L4T2": 3.57
         },
         "retakes": [
             {
@@ -11722,7 +11753,7 @@
                 "gpa": 3.07
             }
         ],
-        "cgpa": 3.01
+        "cgpa": 3.13
     },
     "T202111028": {
         "name": "MD. ABU SALEH AKASH",
@@ -11731,7 +11762,8 @@
         "dept": "Yarn",
         "results": {
             "L1T1": 3.17,
-            "L3T2": 3.24
+            "L3T2": 3.24,
+            "L4T2": 3.39
         },
         "retakes": [
             {
@@ -11745,7 +11777,7 @@
                 "gpa": 3.07
             }
         ],
-        "cgpa": 3.1
+        "cgpa": 3.17
     },
     "T202011026": {
         "name": "YOUSUF ALI",
@@ -11802,7 +11834,8 @@
         "dept": "Fabric",
         "results": {
             "L1T1": 3.28,
-            "L3T2": 3.38
+            "L3T2": 3.38,
+            "L4T2": 3.4
         },
         "retakes": [
             {
@@ -11821,7 +11854,7 @@
                 "gpa": 3.36
             }
         ],
-        "cgpa": 3.35
+        "cgpa": 3.36
     },
     "T202112003": {
         "name": "MD.ALAMIN",
@@ -11830,7 +11863,8 @@
         "dept": "Fabric",
         "results": {
             "L1T1": 2.92,
-            "L3T2": 3.6
+            "L3T2": 3.6,
+            "L4T2": 3.53
         },
         "retakes": [
             {
@@ -11849,7 +11883,7 @@
                 "gpa": 3.29
             }
         ],
-        "cgpa": 3.27
+        "cgpa": 3.32
     },
     "T202120063": {
         "name": "Unknown",
@@ -11872,7 +11906,8 @@
         "dept": "Fabric",
         "results": {
             "L1T1": 3.29,
-            "L3T2": 3.72
+            "L3T2": 3.72,
+            "L4T2": 3.68
         },
         "retakes": [
             {
@@ -11891,7 +11926,7 @@
                 "gpa": 3.52
             }
         ],
-        "cgpa": 3.48
+        "cgpa": 3.54
     },
     "T202112009": {
         "name": "FAIDM MUSFIO ' . . Promoted -- . Jl  -MD. MASUM BABU",
@@ -11901,7 +11936,8 @@
         "results": {
             "L2T1": 2.82,
             "L1T1": 3.0,
-            "L3T2": 3.14
+            "L3T2": 3.14,
+            "L4T2": 3.2
         },
         "retakes": [
             {
@@ -11915,7 +11951,7 @@
                 "gpa": 2.87
             }
         ],
-        "cgpa": 2.91
+        "cgpa": 2.98
     },
     "T202112014": {
         "name": "MOST. FATEMA AKTER",
@@ -11925,7 +11961,8 @@
         "results": {
             "L2T1": 3.77,
             "L1T1": 3.42,
-            "L3T2": 3.92
+            "L3T2": 3.92,
+            "L4T2": 3.75
         },
         "retakes": [
             {
@@ -11944,7 +11981,7 @@
                 "gpa": 3.73
             }
         ],
-        "cgpa": 3.71
+        "cgpa": 3.73
     },
     "T202112016": {
         "name": "ASHRAFUL HAQUE . . Promoted -- . Tl l MD. AMIT HASAN",
@@ -11983,7 +12020,8 @@
         "results": {
             "L1T2": 3.04,
             "L1T1": 3.08,
-            "L3T2": 3.79
+            "L3T2": 3.79,
+            "L4T2": 3.47
         },
         "retakes": [
             {
@@ -12002,7 +12040,7 @@
                 "gpa": 2.98
             }
         ],
-        "cgpa": 3.26
+        "cgpa": 3.32
     },
     "T202112019": {
         "name": "MONRUJJAMAN . . Promoted -- . T I l  MOST. MARINA PARVIN",
@@ -12012,7 +12050,8 @@
         "results": {
             "L1T2": 3.33,
             "L1T1": 2.93,
-            "L3T2": 3.61
+            "L3T2": 3.61,
+            "L4T2": 3.4
         },
         "retakes": [
             {
@@ -12031,7 +12070,7 @@
                 "gpa": 3.34
             }
         ],
-        "cgpa": 3.28
+        "cgpa": 3.35
     },
     "T202112020": {
         "name": "MOST. MARINA PARVIN",
@@ -12040,7 +12079,8 @@
         "dept": "Fabric",
         "results": {
             "L1T1": 3.04,
-            "L3T2": 3.39
+            "L3T2": 3.39,
+            "L4T2": 3.47
         },
         "retakes": [
             {
@@ -12059,7 +12099,7 @@
                 "gpa": 3.12
             }
         ],
-        "cgpa": 3.25
+        "cgpa": 3.27
     },
     "T202112023": {
         "name": "ASIM KUMAR ROY",
@@ -12096,7 +12136,8 @@
         "dept": "Fabric",
         "results": {
             "L1T1": 2.8,
-            "L3T2": 3.42
+            "L3T2": 3.42,
+            "L4T2": 3.13
         },
         "retakes": [
             {
@@ -12115,7 +12156,7 @@
                 "gpa": 3.13
             }
         ],
-        "cgpa": 3.1
+        "cgpa": 3.13
     },
     "T202112025": {
         "name": "MD. SOHANUR RAHMAN",
@@ -12164,7 +12205,8 @@
             "L2T1": 3.13,
             "L1T2": 2.52,
             "L1T1": 3.11,
-            "L3T2": 3.44
+            "L3T2": 3.44,
+            "L4T2": 3.25
         },
         "retakes": [
             {
@@ -12183,7 +12225,7 @@
                 "gpa": 3.17
             }
         ],
-        "cgpa": 3.17
+        "cgpa": 3.18
     },
     "T202112029": {
         "name": "FAISAL AHMED",
@@ -12192,7 +12234,8 @@
         "dept": "Fabric",
         "results": {
             "L1T1": 2.97,
-            "L3T2": 3.22
+            "L3T2": 3.22,
+            "L4T2": 3.33
         },
         "retakes": [
             {
@@ -12201,7 +12244,7 @@
                 "gpa": 2.84
             }
         ],
-        "cgpa": 2.92
+        "cgpa": 3.02
     },
     "T202112030": {
         "name": "ABU HORAIRA NIRJON",
@@ -12210,7 +12253,8 @@
         "dept": "Fabric",
         "results": {
             "L1T1": 2.86,
-            "L3T2": 2.99
+            "L3T2": 2.99,
+            "L4T2": 3.05
         },
         "retakes": [
             {
@@ -12224,7 +12268,7 @@
                 "gpa": 2.92
             }
         ],
-        "cgpa": 2.93
+        "cgpa": 2.96
     },
     "T202112031": {
         "name": "MD. SALIM MIA",
@@ -12233,7 +12277,8 @@
         "dept": "Fabric",
         "results": {
             "L1T1": 2.96,
-            "L3T2": 3.67
+            "L3T2": 3.67,
+            "L4T2": 3.43
         },
         "retakes": [
             {
@@ -12252,7 +12297,7 @@
                 "gpa": 3.37
             }
         ],
-        "cgpa": 3.35
+        "cgpa": 3.38
     },
     "T201712007": {
         "name": "FEROZ AHMMED",
@@ -12262,7 +12307,8 @@
         "results": {
             "L2T1": 2.71,
             "L1T2": 2.68,
-            "L3T2": 2.33
+            "L3T2": 2.33,
+            "L4T2": 2.57
         },
         "retakes": [
             {
@@ -12301,7 +12347,7 @@
                 "gpa": 2.47
             }
         ],
-        "cgpa": 2.47
+        "cgpa": 2.48
     },
     "T202113001": {
         "name": "SOHAIBUL ISLAM",
@@ -12311,7 +12357,8 @@
         "results": {
             "L2T1": 2.8,
             "L1T1": 2.97,
-            "L3T2": 3.56
+            "L3T2": 3.56,
+            "L4T2": 3.68
         },
         "retakes": [
             {
@@ -12330,7 +12377,7 @@
                 "gpa": 3.2
             }
         ],
-        "cgpa": 3.14
+        "cgpa": 3.25
     },
     "T202113002": {
         "name": "MD. ABU SAHED",
@@ -12340,7 +12387,8 @@
         "results": {
             "L2T1": 2.94,
             "L1T1": 2.97,
-            "L3T2": 3.0
+            "L3T2": 3.0,
+            "L4T2": 3.49
         },
         "retakes": [
             {
@@ -12359,7 +12407,7 @@
                 "gpa": 3.13
             }
         ],
-        "cgpa": 3.07
+        "cgpa": 3.17
     },
     "T202113003": {
         "name": "SOPROJEET CHANDRA PUL",
@@ -12369,7 +12417,8 @@
         "results": {
             "L2T1": 2.67,
             "L1T1": 2.7,
-            "L3T2": 3.26
+            "L3T2": 3.26,
+            "L4T2": 3.59
         },
         "retakes": [
             {
@@ -12383,7 +12432,7 @@
                 "gpa": 3.13
             }
         ],
-        "cgpa": 2.91
+        "cgpa": 3.06
     },
     "T202113005": {
         "name": "BADAL ISLAM",
@@ -12393,7 +12442,8 @@
         "results": {
             "L2T1": 3.1,
             "L1T1": 2.95,
-            "L3T2": 3.28
+            "L3T2": 3.28,
+            "L4T2": 3.36
         },
         "retakes": [
             {
@@ -12402,7 +12452,7 @@
                 "gpa": 3.04
             }
         ],
-        "cgpa": 3.11
+        "cgpa": 3.16
     },
     "T202113006": {
         "name": "MD. SAIDE ISLAM . . Promoted -- . TI  MD. ABDULLAH ALL NOMAN",
@@ -12412,7 +12462,8 @@
         "results": {
             "L2T1": 3.07,
             "L1T1": 3.11,
-            "L3T2": 3.22
+            "L3T2": 3.22,
+            "L4T2": 3.39
         },
         "retakes": [
             {
@@ -12426,7 +12477,7 @@
                 "gpa": 3.21
             }
         ],
-        "cgpa": 3.2
+        "cgpa": 3.23
     },
     "T202113007": {
         "name": "MD. ABDULLAH ALL NOMAN",
@@ -12435,7 +12486,8 @@
         "dept": "Wet Process",
         "results": {
             "L1T1": 2.83,
-            "L3T2": 3.38
+            "L3T2": 3.38,
+            "L4T2": 3.75
         },
         "retakes": [
             {
@@ -12454,7 +12506,7 @@
                 "gpa": 3.22
             }
         ],
-        "cgpa": 3.14
+        "cgpa": 3.28
     },
     "T202113008": {
         "name": "MD. MONIR ROSSEN",
@@ -12463,7 +12515,8 @@
         "dept": "Wet Process",
         "results": {
             "L1T1": 2.91,
-            "L3T2": 3.05
+            "L3T2": 3.05,
+            "L4T2": 3.43
         },
         "retakes": [
             {
@@ -12487,7 +12540,7 @@
                 "gpa": 2.91
             }
         ],
-        "cgpa": 2.82
+        "cgpa": 2.97
     },
     "T202113009": {
         "name": "MD. SHAMIM MIAH",
@@ -12519,7 +12572,8 @@
         "dept": "Wet Process",
         "results": {
             "L1T1": 2.99,
-            "L3T2": 3.44
+            "L3T2": 3.44,
+            "L4T2": 3.8
         },
         "retakes": [
             {
@@ -12538,7 +12592,7 @@
                 "gpa": 3.2
             }
         ],
-        "cgpa": 3.09
+        "cgpa": 3.25
     },
     "T202113012": {
         "name": "DJPSOR CHANDRO ROY",
@@ -12548,7 +12602,8 @@
         "results": {
             "L2T1": 2.6,
             "L1T1": 2.72,
-            "L3T2": 3.41
+            "L3T2": 3.41,
+            "L4T2": 3.51
         },
         "retakes": [
             {
@@ -12572,7 +12627,7 @@
                 "gpa": 2.99
             }
         ],
-        "cgpa": 2.92
+        "cgpa": 3.05
     },
     "T202113013": {
         "name": "MD. SOU RAV HOSEN . . Promoted -- . T l NAHID PARVES LELIN",
@@ -12583,7 +12638,8 @@
             "L2T1": 3.32,
             "L1T2": 2.79,
             "L1T1": 3.16,
-            "L3T2": 3.42
+            "L3T2": 3.42,
+            "L4T2": 3.51
         },
         "retakes": [
             {
@@ -12602,7 +12658,7 @@
                 "gpa": 3.33
             }
         ],
-        "cgpa": 3.31
+        "cgpa": 3.35
     },
     "T202113015": {
         "name": "AMINUL ISLAM SUN",
@@ -12611,7 +12667,8 @@
         "dept": "Wet Process",
         "results": {
             "L1T1": 2.75,
-            "L3T2": 3.02
+            "L3T2": 3.02,
+            "L4T2": 3.26
         },
         "retakes": [
             {
@@ -12635,7 +12692,7 @@
                 "gpa": 2.99
             }
         ],
-        "cgpa": 2.67
+        "cgpa": 2.83
     },
     "T202113017": {
         "name": "SAW ON HOSSAIN . . Promoted -- . Tl MS. ZAHNATl AKTER",
@@ -12645,7 +12702,8 @@
         "results": {
             "L2T1": 3.23,
             "L1T1": 3.22,
-            "L3T2": 3.56
+            "L3T2": 3.56,
+            "L4T2": 3.68
         },
         "retakes": [
             {
@@ -12664,7 +12722,7 @@
                 "gpa": 3.27
             }
         ],
-        "cgpa": 3.2
+        "cgpa": 3.32
     },
     "T202113018": {
         "name": "MS. ZANNATI AKTER",
@@ -12727,7 +12785,8 @@
         "results": {
             "L2T1": 3.0,
             "L1T1": 2.91,
-            "L3T2": 3.26
+            "L3T2": 3.26,
+            "L4T2": 3.54
         },
         "retakes": [
             {
@@ -12751,7 +12810,7 @@
                 "gpa": 3.11
             }
         ],
-        "cgpa": 3.07
+        "cgpa": 3.16
     },
     "T20214002": {
         "name": "Unknown",
@@ -12774,7 +12833,8 @@
         "dept": "Apparel",
         "results": {
             "L1T1": 2.79,
-            "L3T2": 2.82
+            "L3T2": 2.82,
+            "L4T2": 3.11
         },
         "retakes": [
             {
@@ -12788,7 +12848,7 @@
                 "gpa": 2.84
             }
         ],
-        "cgpa": 2.79
+        "cgpa": 2.87
     },
     "T202114004": {
         "name": "MD. LIKHON ALI",
@@ -12826,7 +12886,8 @@
         "results": {
             "L2T1": 2.63,
             "L1T1": 2.78,
-            "L3T2": 2.87
+            "L3T2": 2.87,
+            "L4T2": 3.25
         },
         "retakes": [
             {
@@ -12845,7 +12906,7 @@
                 "gpa": 3.31
             }
         ],
-        "cgpa": 2.78
+        "cgpa": 2.91
     },
     "T202114007": {
         "name": "MD. MEHEDI HASAN",
@@ -12854,7 +12915,8 @@
         "dept": "Apparel",
         "results": {
             "L1T1": 3.32,
-            "L3T2": 3.86
+            "L3T2": 3.86,
+            "L4T2": 3.82
         },
         "retakes": [
             {
@@ -12868,7 +12930,7 @@
                 "gpa": 3.54
             }
         ],
-        "cgpa": 3.6
+        "cgpa": 3.67
     },
     "T202114009": {
         "name": "RESHMA KHAT UN",
@@ -12900,7 +12962,8 @@
         "dept": "Apparel",
         "results": {
             "L1T1": 3.11,
-            "L3T2": 3.51
+            "L3T2": 3.51,
+            "L4T2": 3.71
         },
         "retakes": [
             {
@@ -12919,7 +12982,7 @@
                 "gpa": 3.49
             }
         ],
-        "cgpa": 3.36
+        "cgpa": 3.47
     },
     "T202114012": {
         "name": "DIGA NT A GHOSH",
@@ -12929,7 +12992,8 @@
         "results": {
             "L1T2": 3.35,
             "L1T1": 3.16,
-            "L3T2": 3.59
+            "L3T2": 3.59,
+            "L4T2": 3.54
         },
         "retakes": [
             {
@@ -12943,7 +13007,7 @@
                 "gpa": 3.26
             }
         ],
-        "cgpa": 3.32
+        "cgpa": 3.41
     },
     "T202114013": {
         "name": "TOUFIK ALI",
@@ -12953,7 +13017,8 @@
         "results": {
             "L1T2": 2.76,
             "L1T1": 2.52,
-            "L3T2": 3.36
+            "L3T2": 3.36,
+            "L4T2": 3.07
         },
         "retakes": [
             {
@@ -12972,7 +13037,7 @@
                 "gpa": 2.9
             }
         ],
-        "cgpa": 2.98
+        "cgpa": 3.05
     },
     "T202114014": {
         "name": "SAGOR KUMAR RAY . . Promoted -- . T I  MD. ELIY AS HOSSAIN",
@@ -12983,7 +13048,8 @@
             "L2T1": 3.16,
             "L1T2": 3.45,
             "L1T1": 3.03,
-            "L3T2": 3.3
+            "L3T2": 3.3,
+            "L4T2": 3.5
         },
         "retakes": [
             {
@@ -13002,7 +13068,7 @@
                 "gpa": 3.23
             }
         ],
-        "cgpa": 3.18
+        "cgpa": 3.26
     },
     "T202114016": {
         "name": "MD. ABDUR RAUF MIAH .",
@@ -13036,7 +13102,8 @@
         "results": {
             "L2T1": 3.17,
             "L1T1": 2.84,
-            "L3T2": 3.38
+            "L3T2": 3.38,
+            "L4T2": 3.29
         },
         "retakes": [
             {
@@ -13055,7 +13122,7 @@
                 "gpa": 3.17
             }
         ],
-        "cgpa": 3.09
+        "cgpa": 3.18
     },
     "T2021140183": {
         "name": "Unknown",
@@ -13083,7 +13150,8 @@
         "dept": "Apparel",
         "results": {
             "L1T1": 3.49,
-            "L3T2": 3.52
+            "L3T2": 3.52,
+            "L4T2": 3.64
         },
         "retakes": [
             {
@@ -13097,7 +13165,7 @@
                 "gpa": 3.56
             }
         ],
-        "cgpa": 3.55
+        "cgpa": 3.59
     },
     "T202114020": {
         "name": "LUTFUN NAHAR . . Promoted -- . Tl  MD. MEHEDI HASAN LEMON",
@@ -13107,7 +13175,8 @@
         "results": {
             "L1T2": 2.76,
             "L1T1": 3.07,
-            "L3T2": 3.64
+            "L3T2": 3.64,
+            "L4T2": 3.71
         },
         "retakes": [
             {
@@ -13126,7 +13195,7 @@
                 "gpa": 3.45
             }
         ],
-        "cgpa": 3.41
+        "cgpa": 3.49
     },
     "T202114022": {
         "name": "MD.MEHEDIHASAN LEMON",
@@ -13135,7 +13204,8 @@
         "dept": "Apparel",
         "results": {
             "L1T1": 2.67,
-            "L3T2": 2.9
+            "L3T2": 2.9,
+            "L4T2": 3.32
         },
         "retakes": [
             {
@@ -13154,7 +13224,7 @@
                 "gpa": 2.81
             }
         ],
-        "cgpa": 2.74
+        "cgpa": 2.88
     },
     "T202114023": {
         "name": "MO. MINANNUR ISLAM . . Promoted -- . T I  ABDULLAH AL SOJIB",
@@ -13194,7 +13264,8 @@
         "results": {
             "L2T1": 2.66,
             "L1T1": 2.67,
-            "L3T2": 3.13
+            "L3T2": 3.13,
+            "L4T2": 3.21
         },
         "retakes": [
             {
@@ -13213,7 +13284,7 @@
                 "gpa": 2.79
             }
         ],
-        "cgpa": 2.74
+        "cgpa": 2.85
     },
     "T202114026": {
         "name": "MD. TANZIL SULTAN",
@@ -13223,7 +13294,8 @@
         "results": {
             "L2T1": 3.43,
             "L1T1": 3.28,
-            "L3T2": 3.8
+            "L3T2": 3.8,
+            "L4T2": 3.82
         },
         "retakes": [
             {
@@ -13242,7 +13314,7 @@
                 "gpa": 3.6
             }
         ],
-        "cgpa": 3.55
+        "cgpa": 3.63
     },
     "T202114027": {
         "name": "MODASSIRUL HASAN RABI",
@@ -13251,7 +13323,8 @@
         "dept": "Apparel",
         "results": {
             "L1T1": 3.3,
-            "L3T2": 3.88
+            "L3T2": 3.88,
+            "L4T2": 3.64
         },
         "retakes": [
             {
@@ -13270,7 +13343,7 @@
                 "gpa": 2.88
             }
         ],
-        "cgpa": 3.58
+        "cgpa": 3.62
     },
     "T202114028": {
         "name": "MD. NASIM AHMED",
@@ -13280,7 +13353,8 @@
         "results": {
             "L2T1": 2.64,
             "L1T1": 2.8,
-            "L3T2": 3.08
+            "L3T2": 3.08,
+            "L4T2": 3.36
         },
         "retakes": [
             {
@@ -13304,7 +13378,7 @@
                 "gpa": 2.75
             }
         ],
-        "cgpa": 2.81
+        "cgpa": 2.95
     },
     "T202114029": {
         "name": "MD. RASHEL RANA",
@@ -13314,7 +13388,8 @@
         "results": {
             "L2T1": 2.72,
             "L1T1": 2.68,
-            "L3T2": 3.47
+            "L3T2": 3.47,
+            "L4T2": 3.54
         },
         "retakes": [
             {
@@ -13338,7 +13413,7 @@
                 "gpa": 3.03
             }
         ],
-        "cgpa": 2.92
+        "cgpa": 3.09
     },
     "T202114030": {
         "name": "MD. SABBIR HOSSAIN . . Promoted MATH-I . T I  MUHAMMAD SHA YDUL ISLAM",
@@ -13349,7 +13424,8 @@
             "L2T1": 2.83,
             "L1T2": 2.74,
             "L1T1": 2.73,
-            "L3T2": 3.18
+            "L3T2": 3.18,
+            "L4T2": 3.14
         },
         "retakes": [
             {
@@ -13378,7 +13454,7 @@
                 "gpa": 2.98
             }
         ],
-        "cgpa": 2.91
+        "cgpa": 3.0
     },
     "T20211403": {
         "name": "Unknown",
@@ -13408,7 +13484,8 @@
             "L2T1": 2.73,
             "L1T2": 2.69,
             "L1T1": 3.0,
-            "L3T2": 3.28
+            "L3T2": 3.28,
+            "L4T2": 3.29
         },
         "retakes": [
             {
@@ -13447,7 +13524,7 @@
                 "gpa": 2.83
             }
         ],
-        "cgpa": 2.78
+        "cgpa": 2.89
     },
     "S202113001": {
         "name": "SUMONMIAH",
@@ -13456,7 +13533,8 @@
         "dept": "Wet Process",
         "results": {
             "L1T1": 3.42,
-            "L3T2": 3.24
+            "L3T2": 3.24,
+            "L4T2": 3.3
         },
         "retakes": [
             {
@@ -13470,7 +13548,7 @@
                 "gpa": 3.39
             }
         ],
-        "cgpa": 3.36
+        "cgpa": 3.35
     },
     "S202113002": {
         "name": "MD. NAZMUL HAOUE . . Promoted FEEE  . . S I i  MD. AT IKUL ISLAM",
@@ -13481,7 +13559,8 @@
             "L2T1": 3.26,
             "L1T2": 3.42,
             "L1T1": 2.95,
-            "L3T2": 2.69
+            "L3T2": 2.69,
+            "L4T2": 3.14
         },
         "retakes": [
             {
@@ -13500,7 +13579,7 @@
                 "gpa": 2.96
             }
         ],
-        "cgpa": 2.91
+        "cgpa": 2.96
     },
     "S202113003": {
         "name": "MD. ATIKUL ISLAM",
@@ -13509,7 +13588,8 @@
         "dept": "Wet Process",
         "results": {
             "L1T1": 3.22,
-            "L3T2": 3.43
+            "L3T2": 3.43,
+            "L4T2": 3.5
         },
         "retakes": [
             {
@@ -13523,7 +13603,7 @@
                 "gpa": 3.37
             }
         ],
-        "cgpa": 3.38
+        "cgpa": 3.43
     },
     "S202113005": {
         "name": "SHARAN BARUA",
@@ -13557,7 +13637,8 @@
         "results": {
             "L2T1": 2.8,
             "L1T1": 2.63,
-            "L3T2": 3.0
+            "L3T2": 3.0,
+            "L4T2": 3.41
         },
         "retakes": [
             {
@@ -13576,7 +13657,7 @@
                 "gpa": 2.89
             }
         ],
-        "cgpa": 2.91
+        "cgpa": 3.01
     },
     "S202113007": {
         "name": "MD. REZWAN HOSEN",
@@ -13586,7 +13667,8 @@
         "results": {
             "L2T1": 3.03,
             "L1T1": 3.28,
-            "L3T2": 2.83
+            "L3T2": 2.83,
+            "L4T2": 2.95
         },
         "retakes": [
             {
@@ -13605,7 +13687,7 @@
                 "gpa": 3.02
             }
         ],
-        "cgpa": 2.93
+        "cgpa": 2.84
     },
     "S202113008": {
         "name": "NOYA N KU.AR GHOSH . . Promoted - . S SAIDUL lSLAM APU",
@@ -13677,7 +13759,8 @@
         "results": {
             "L2T1": 3.31,
             "L1T1": 2.89,
-            "L3T2": 3.18
+            "L3T2": 3.18,
+            "L4T2": 3.53
         },
         "retakes": [
             {
@@ -13691,7 +13774,7 @@
                 "gpa": 0.0
             }
         ],
-        "cgpa": 3.13
+        "cgpa": 3.22
     },
     "S202113011": {
         "name": "MD. MORAD HOSSAIN . . Promoted FEEE IL Sl  MD. SHAHAJAHAN ALI",
@@ -13750,7 +13833,8 @@
             "L2T1": 3.24,
             "L1T2": 2.75,
             "L1T1": 2.69,
-            "L3T2": 2.91
+            "L3T2": 2.91,
+            "L4T2": 3.08
         },
         "retakes": [
             {
@@ -13779,7 +13863,7 @@
                 "gpa": 3.53
             }
         ],
-        "cgpa": 2.77
+        "cgpa": 2.8
     },
     "S202113014": {
         "name": "ALIM HOSEN",
@@ -13789,7 +13873,8 @@
         "results": {
             "L1T2": 3.43,
             "L1T1": 3.51,
-            "L3T2": 3.52
+            "L3T2": 3.52,
+            "L4T2": 3.7
         },
         "retakes": [
             {
@@ -13803,7 +13888,7 @@
                 "gpa": 3.5
             }
         ],
-        "cgpa": 3.51
+        "cgpa": 3.55
     },
     "S202113016": {
         "name": "MD. FUAD-AL-MASUD",
@@ -13814,7 +13899,8 @@
             "L2T1": 3.05,
             "L1T2": 2.75,
             "L1T1": 3.05,
-            "L3T2": 3.03
+            "L3T2": 3.03,
+            "L4T2": 3.38
         },
         "retakes": [
             {
@@ -13833,7 +13919,7 @@
                 "gpa": 3.06
             }
         ],
-        "cgpa": 3.0
+        "cgpa": 3.1
     },
     "S202113017": {
         "name": "ABDULLAH AL NOMAN",
@@ -13844,7 +13930,8 @@
             "L2T1": 2.95,
             "L1T2": 2.91,
             "L1T1": 2.71,
-            "L3T2": 3.19
+            "L3T2": 3.19,
+            "L4T2": 3.36
         },
         "retakes": [
             {
@@ -13863,7 +13950,7 @@
                 "gpa": 3.01
             }
         ],
-        "cgpa": 3.08
+        "cgpa": 3.15
     },
     "S202113018": {
         "name": "MD.KA WSARUZZAMAN",
@@ -13902,7 +13989,8 @@
         "results": {
             "L2T1": 2.62,
             "L1T1": 2.55,
-            "L3T2": 2.83
+            "L3T2": 2.83,
+            "L4T2": 2.79
         },
         "retakes": [
             {
@@ -13931,7 +14019,7 @@
                 "gpa": 2.56
             }
         ],
-        "cgpa": 2.69
+        "cgpa": 2.59
     },
     "S202113020": {
         "name": "MD. MAHEDE HASAN",
@@ -13940,7 +14028,8 @@
         "dept": "Wet Process",
         "results": {
             "L2T1": 2.5,
-            "L1T1": 2.59
+            "L1T1": 2.59,
+            "L4T2": 3.37
         },
         "retakes": [
             {
@@ -13964,7 +14053,7 @@
                 "gpa": 2.73
             }
         ],
-        "cgpa": 2.61
+        "cgpa": 2.8
     },
     "S202113021": {
         "name": "SHABRINA AKTER",
@@ -13975,7 +14064,8 @@
             "L2T1": 2.72,
             "L1T2": 2.24,
             "L1T1": 2.38,
-            "L3T2": 2.74
+            "L3T2": 2.74,
+            "L4T2": 2.93
         },
         "retakes": [
             {
@@ -13989,7 +14079,7 @@
                 "gpa": 2.6
             }
         ],
-        "cgpa": 2.62
+        "cgpa": 2.69
     },
     "202113023": {
         "name": "Unknown",
@@ -14012,7 +14102,8 @@
         "dept": "Wet Process",
         "results": {
             "L2T1": 3.13,
-            "L1T1": 2.8
+            "L1T1": 2.8,
+            "L4T2": 3.28
         },
         "retakes": [
             {
@@ -14026,7 +14117,7 @@
                 "gpa": 2.89
             }
         ],
-        "cgpa": 2.97
+        "cgpa": 2.94
     },
     "S202113026": {
         "name": "JUBAIR IQBAL",
@@ -14035,7 +14126,8 @@
         "dept": "Wet Process",
         "results": {
             "L2T1": 2.5,
-            "L1T1": 2.77
+            "L1T1": 2.77,
+            "L4T2": 3.13
         },
         "retakes": [
             {
@@ -14054,7 +14146,7 @@
                 "gpa": 2.7
             }
         ],
-        "cgpa": 2.66
+        "cgpa": 2.83
     },
     "S2021130272": {
         "name": "Unknown",
@@ -14077,7 +14169,8 @@
         "dept": "Wet Process",
         "results": {
             "L1T1": 2.47,
-            "L3T2": 2.83
+            "L3T2": 2.83,
+            "L4T2": 3.18
         },
         "retakes": [
             {
@@ -14096,7 +14189,7 @@
                 "gpa": 2.67
             }
         ],
-        "cgpa": 2.7
+        "cgpa": 2.8
     },
     "S202113030": {
         "name": "SHAMSUZZAMAN SARKER",
@@ -14167,7 +14260,8 @@
         "dept": "Wet Process",
         "results": {
             "L1T1": 2.5,
-            "L3T2": 2.85
+            "L3T2": 2.85,
+            "L4T2": 3.3
         },
         "retakes": [
             {
@@ -14186,7 +14280,7 @@
                 "gpa": 2.68
             }
         ],
-        "cgpa": 2.5
+        "cgpa": 2.87
     },
     "S202113036": {
         "name": ". MD. SHIMUL MIA",
@@ -14230,7 +14324,8 @@
         "results": {
             "L2T1": 2.62,
             "L1T1": 2.39,
-            "L3T2": 2.75
+            "L3T2": 2.75,
+            "L4T2": 3.03
         },
         "retakes": [
             {
@@ -14249,7 +14344,7 @@
                 "gpa": 2.66
             }
         ],
-        "cgpa": 2.64
+        "cgpa": 2.74
     },
     "S202013023": {
         "name": "MD. SHAHED HASAN",
@@ -14257,7 +14352,8 @@
         "college": "NTEC",
         "dept": "Wet Process",
         "results": {
-            "L1T1": 2.54
+            "L1T1": 2.54,
+            "L4T2": 2.79
         },
         "retakes": [
             {
@@ -14291,7 +14387,7 @@
                 "gpa": 2.45
             }
         ],
-        "cgpa": 2.54
+        "cgpa": 2.49
     },
     "S202013026": {
         "name": "NOOR ALAM SARDER",
@@ -14386,7 +14482,8 @@
         "results": {
             "L1T2": 3.05,
             "L1T1": 2.91,
-            "L3T2": 3.12
+            "L3T2": 3.12,
+            "L4T2": 3.46
         },
         "retakes": [
             {
@@ -14400,7 +14497,7 @@
                 "gpa": 2.89
             }
         ],
-        "cgpa": 2.93
+        "cgpa": 3.05
     },
     "S202114002": {
         "name": "JOY DEBONATH .",
@@ -14439,7 +14536,8 @@
         "results": {
             "L2T1": 2.8,
             "L1T1": 3.0,
-            "L3T2": 3.34
+            "L3T2": 3.34,
+            "L4T2": 3.54
         },
         "retakes": [
             {
@@ -14453,7 +14551,7 @@
                 "gpa": 2.95
             }
         ],
-        "cgpa": 3.02
+        "cgpa": 3.15
     },
     "S202114004": {
         "name": "ARIFUL ISLAM",
@@ -14464,7 +14562,8 @@
             "L2T1": 2.95,
             "L1T2": 3.23,
             "L1T1": 2.92,
-            "L3T2": 2.7
+            "L3T2": 2.7,
+            "L4T2": 2.75
         },
         "retakes": [
             {
@@ -14483,7 +14582,7 @@
                 "gpa": 2.87
             }
         ],
-        "cgpa": 2.89
+        "cgpa": 2.85
     },
     "S202114005": {
         "name": "MO. IBRAHIM KHALIL",
@@ -14493,7 +14592,8 @@
         "results": {
             "L1T2": 3.33,
             "L1T1": 3.0,
-            "L3T2": 3.45
+            "L3T2": 3.45,
+            "L4T2": 3.64
         },
         "retakes": [
             {
@@ -14512,7 +14612,7 @@
                 "gpa": 3.3
             }
         ],
-        "cgpa": 3.24
+        "cgpa": 3.35
     },
     "S202114006": {
         "name": "MD. HUMAY UN KABIR",
@@ -14521,7 +14621,8 @@
         "dept": "Apparel",
         "results": {
             "L1T1": 2.71,
-            "L3T2": 2.96
+            "L3T2": 2.96,
+            "L4T2": 3.07
         },
         "retakes": [
             {
@@ -14540,7 +14641,7 @@
                 "gpa": 2.9
             }
         ],
-        "cgpa": 2.85
+        "cgpa": 2.92
     },
     "S202114010": {
         "name": "BISWA TIT BARAI",
@@ -14549,7 +14650,8 @@
         "dept": "Apparel",
         "results": {
             "L1T1": 2.91,
-            "L3T2": 3.03
+            "L3T2": 3.03,
+            "L4T2": 3.11
         },
         "retakes": [
             {
@@ -14573,7 +14675,7 @@
                 "gpa": 2.88
             }
         ],
-        "cgpa": 2.82
+        "cgpa": 2.91
     },
     "S202114011": {
         "name": "MD. SAIK.OT ISLAM",
@@ -14643,7 +14745,8 @@
         "results": {
             "L2T1": 2.83,
             "L1T1": 2.8,
-            "L3T2": 3.05
+            "L3T2": 3.05,
+            "L4T2": 3.11
         },
         "retakes": [
             {
@@ -14657,7 +14760,7 @@
                 "gpa": 2.7
             }
         ],
-        "cgpa": 2.78
+        "cgpa": 2.81
     },
     "S2021140142": {
         "name": "Unknown",
@@ -14681,7 +14784,8 @@
         "results": {
             "L1T2": 2.93,
             "L1T1": 2.66,
-            "L3T2": 3.1
+            "L3T2": 3.1,
+            "L4T2": 3.32
         },
         "retakes": [
             {
@@ -14700,7 +14804,7 @@
                 "gpa": 3.03
             }
         ],
-        "cgpa": 2.99
+        "cgpa": 3.07
     },
     "S202114016": {
         "name": "MD. RASEL ISLAM JOSIM",
@@ -14743,7 +14847,8 @@
         "results": {
             "L2T1": 2.7,
             "L1T1": 3.01,
-            "L3T2": 2.98
+            "L3T2": 2.98,
+            "L4T2": 2.96
         },
         "retakes": [
             {
@@ -14762,7 +14867,7 @@
                 "gpa": 2.8
             }
         ],
-        "cgpa": 2.81
+        "cgpa": 2.82
     },
     "S202114018": {
         "name": "JOYSARKER",
@@ -14772,7 +14877,8 @@
         "results": {
             "L2T1": 3.39,
             "L1T1": 2.93,
-            "L3T2": 3.76
+            "L3T2": 3.76,
+            "L4T2": 3.93
         },
         "retakes": [
             {
@@ -14791,7 +14897,7 @@
                 "gpa": 3.51
             }
         ],
-        "cgpa": 3.45
+        "cgpa": 3.57
     },
     "S202114019": {
         "name": "MD.JUNAEID .  Promoted . SI  SAKIB BEARI",
@@ -14834,7 +14940,8 @@
         "dept": "Apparel",
         "results": {
             "L1T1": 2.49,
-            "L3T2": 2.76
+            "L3T2": 2.76,
+            "L4T2": 3.14
         },
         "retakes": [
             {
@@ -14858,7 +14965,7 @@
                 "gpa": 2.79
             }
         ],
-        "cgpa": 2.7
+        "cgpa": 2.84
     },
     "S202114022": {
         "name": "TUSAR AHMED .  Promoted -- . S I I  ABDUL MAZID AKASH",
@@ -14869,7 +14976,8 @@
             "L2T1": 2.68,
             "L1T2": 3.14,
             "L1T1": 2.71,
-            "L3T2": 3.05
+            "L3T2": 3.05,
+            "L4T2": 3.46
         },
         "retakes": [
             {
@@ -14888,7 +14996,7 @@
                 "gpa": 2.94
             }
         ],
-        "cgpa": 3.05
+        "cgpa": 3.0
     },
     "S202114024": {
         "name": "MD. RAYADUL HASAN",
@@ -14898,7 +15006,8 @@
         "results": {
             "L2T1": 3.3,
             "L1T1": 2.76,
-            "L3T2": 3.04
+            "L3T2": 3.04,
+            "L4T2": 3.36
         },
         "retakes": [
             {
@@ -14922,7 +15031,7 @@
                 "gpa": 3.01
             }
         ],
-        "cgpa": 2.96
+        "cgpa": 3.06
     },
     "S202114025": {
         "name": "SARNAALOM",
@@ -14932,7 +15041,8 @@
         "results": {
             "L2T1": 3.64,
             "L1T1": 3.59,
-            "L3T2": 3.57
+            "L3T2": 3.57,
+            "L4T2": 3.64
         },
         "retakes": [
             {
@@ -14951,7 +15061,7 @@
                 "gpa": 3.61
             }
         ],
-        "cgpa": 3.59
+        "cgpa": 3.62
     },
     "S202114026": {
         "name": "MD. AHSAN HABIB MIA",
@@ -14961,7 +15071,8 @@
         "results": {
             "L2T1": 2.61,
             "L1T1": 2.89,
-            "L3T2": 2.9
+            "L3T2": 2.9,
+            "L4T2": 3.32
         },
         "retakes": [
             {
@@ -14980,7 +15091,7 @@
                 "gpa": 2.92
             }
         ],
-        "cgpa": 2.89
+        "cgpa": 2.97
     },
     "S202114027": {
         "name": "ASl-llQUE BHUIYA N .. . Promoted . Si MD SOBUZ HOSSAIN",
@@ -14990,7 +15101,8 @@
         "results": {
             "L2T1": 2.52,
             "L1T1": 2.66,
-            "L3T2": 2.7
+            "L3T2": 2.7,
+            "L4T2": 2.93
         },
         "retakes": [
             {
@@ -15019,7 +15131,7 @@
                 "gpa": 3.06
             }
         ],
-        "cgpa": 2.64
+        "cgpa": 2.68
     },
     "S202114029": {
         "name": "UMME SABAT TlJM . .. Promoted -- I . Sl  MD. HUMA YUN KABIR HITLAR",
@@ -15029,7 +15141,8 @@
         "results": {
             "L2T1": 2.89,
             "L1T1": 2.99,
-            "L3T2": 3.14
+            "L3T2": 3.14,
+            "L4T2": 3.25
         },
         "retakes": [
             {
@@ -15043,7 +15156,7 @@
                 "gpa": 2.76
             }
         ],
-        "cgpa": 3.0
+        "cgpa": 3.09
     },
     "S2021140302": {
         "name": "Unknown",
@@ -15068,7 +15181,8 @@
             "L2T1": 2.76,
             "L1T2": 2.73,
             "L1T1": 2.89,
-            "L3T2": 2.85
+            "L3T2": 2.85,
+            "L4T2": 3.21
         },
         "retakes": [
             {
@@ -15087,7 +15201,7 @@
                 "gpa": 2.25
             }
         ],
-        "cgpa": 2.77
+        "cgpa": 2.87
     },
     "S202114034": {
         "name": "NAFSUNFARHANA . . Promoted . Sl  SHEIKH HASIBUR RAHMAN",
@@ -15097,7 +15211,8 @@
         "results": {
             "L2T1": 2.63,
             "L1T1": 2.78,
-            "L3T2": 2.93
+            "L3T2": 2.93,
+            "L4T2": 2.96
         },
         "retakes": [
             {
@@ -15116,7 +15231,7 @@
                 "gpa": 2.67
             }
         ],
-        "cgpa": 2.87
+        "cgpa": 2.93
     },
     "S202114035": {
         "name": "SHEIKH HASIBUR RAHMAN",
@@ -15125,7 +15240,8 @@
         "dept": "Apparel",
         "results": {
             "L1T1": 2.61,
-            "L3T2": 2.67
+            "L3T2": 2.67,
+            "L4T2": 2.96
         },
         "retakes": [
             {
@@ -15144,7 +15260,7 @@
                 "gpa": 2.61
             }
         ],
-        "cgpa": 2.62
+        "cgpa": 2.71
     },
     "S202114036": {
         "name": "SUMAY A ISLAM MIM",
@@ -15187,7 +15303,8 @@
         "dept": "Apparel",
         "results": {
             "L1T1": 3.05,
-            "L3T2": 3.36
+            "L3T2": 3.36,
+            "L4T2": 3.43
         },
         "retakes": [
             {
@@ -15206,7 +15323,7 @@
                 "gpa": 3.2
             }
         ],
-        "cgpa": 3.03
+        "cgpa": 3.16
     },
     "S202114038": {
         "name": "MD. RAKIBUL ISLAM . . Promoted -- . S l JAHIDUL ISLAM",
@@ -15216,7 +15333,8 @@
         "results": {
             "L2T1": 2.96,
             "L1T1": 3.11,
-            "L3T2": 3.12
+            "L3T2": 3.12,
+            "L4T2": 3.43
         },
         "retakes": [
             {
@@ -15230,7 +15348,7 @@
                 "gpa": 3.07
             }
         ],
-        "cgpa": 2.78
+        "cgpa": 3.23
     },
     "S202114039": {
         "name": "JAHIDUL ISLAM",
@@ -15238,7 +15356,8 @@
         "college": "NTEC",
         "dept": "Apparel",
         "results": {
-            "L3T2": 3.07
+            "L3T2": 3.07,
+            "L4T2": 3.29
         },
         "retakes": [
             {
@@ -15262,7 +15381,7 @@
                 "gpa": 2.89
             }
         ],
-        "cgpa": 2.8
+        "cgpa": 2.94
     },
     "S202114041": {
         "name": "MD. YOUSUF ALI",
@@ -15271,7 +15390,8 @@
         "dept": "Apparel",
         "results": {
             "L1T1": 2.79,
-            "L3T2": 3.09
+            "L3T2": 3.09,
+            "L4T2": 3.39
         },
         "retakes": [
             {
@@ -15290,7 +15410,7 @@
                 "gpa": 2.9
             }
         ],
-        "cgpa": 2.82
+        "cgpa": 2.96
     },
     "T202011008": {
         "name": "AMAN ULLAH AMAN",
@@ -16388,7 +16508,8 @@
         "dept": "Wet Process",
         "results": {
             "L1T1": 2.75,
-            "L3T2": 2.74
+            "L3T2": 2.74,
+            "L4T2": 2.99
         },
         "retakes": [
             {
@@ -16407,7 +16528,7 @@
                 "gpa": 2.76
             }
         ],
-        "cgpa": 2.78
+        "cgpa": 2.79
     },
     "T201713036": {
         "name": "MD. SHAHEEN ALI . . Promoted . Tl APURBA MITRA",
@@ -16463,7 +16584,8 @@
         "dept": "Apparel",
         "results": {
             "L1T1": 2.72,
-            "L3T2": 2.91
+            "L3T2": 2.91,
+            "L4T2": 3.18
         },
         "retakes": [
             {
@@ -16492,7 +16614,7 @@
                 "gpa": 2.5
             }
         ],
-        "cgpa": 2.77
+        "cgpa": 2.87
     },
     "T202014012": {
         "name": "SUSHANTA BARMAN",
@@ -16571,7 +16693,8 @@
         "dept": "Wet Process",
         "results": {
             "L1T1": 2.86,
-            "L3T2": 2.64
+            "L3T2": 2.64,
+            "L4T2": 2.86
         },
         "retakes": [
             {
@@ -16660,7 +16783,8 @@
             "L2T1": 2.83,
             "L1T2": 2.74,
             "L1T1": 2.53,
-            "L3T2": 2.85
+            "L3T2": 2.85,
+            "L4T2": 2.93
         },
         "retakes": [
             {
@@ -16684,7 +16808,7 @@
                 "gpa": 2.78
             }
         ],
-        "cgpa": 2.7
+        "cgpa": 2.8
     },
     "22070101006": {
         "name": "MD. RASHEDUL",
@@ -17392,7 +17516,8 @@
         "results": {
             "L2T1": 2.8,
             "L1T1": 2.71,
-            "L3T2": 3.43
+            "L3T2": 3.43,
+            "L4T2": 3.27
         },
         "retakes": [
             {
@@ -17411,7 +17536,7 @@
                 "gpa": 3.03
             }
         ],
-        "cgpa": 2.96
+        "cgpa": 3.06
     },
     "T2021120063": {
         "name": ".",
@@ -17493,7 +17618,8 @@
         "results": {
             "L2T1": 2.95,
             "L1T1": 3.05,
-            "L3T2": 3.38
+            "L3T2": 3.38,
+            "L4T2": 3.75
         },
         "retakes": [
             {
@@ -17502,7 +17628,7 @@
                 "gpa": 3.06
             }
         ],
-        "cgpa": 3.11
+        "cgpa": 3.26
     },
     "T202113021": {
         "name": "FARJANA AFROSE",
@@ -17511,7 +17637,8 @@
         "dept": "Wet Process",
         "results": {
             "L2T1": 3.49,
-            "L3T2": 3.57
+            "L3T2": 3.57,
+            "L4T2": 3.53
         },
         "retakes": [
             {
@@ -17525,7 +17652,7 @@
                 "gpa": 2.88
             }
         ],
-        "cgpa": 3.41
+        "cgpa": 3.42
     },
     "T202113026": {
         "name": "MD. HAB.IBUR RAHMAN . . Promoted -- . Tl  BlPLOB SARK.ER",
@@ -17535,7 +17662,8 @@
         "results": {
             "L2T1": 2.67,
             "L1T1": 3.37,
-            "L3T2": 3.53
+            "L3T2": 3.53,
+            "L4T2": 3.64
         },
         "retakes": [
             {
@@ -17544,7 +17672,7 @@
                 "gpa": 3.53
             }
         ],
-        "cgpa": 3.53
+        "cgpa": 3.56
     },
     "T202113028": {
         "name": "SHAMTM AHMMED",
@@ -17554,7 +17682,8 @@
         "results": {
             "L2T1": 3.1,
             "L1T1": 3.09,
-            "L3T2": 2.97
+            "L3T2": 2.97,
+            "L4T2": 3.29
         },
         "retakes": [
             {
@@ -17568,7 +17697,7 @@
                 "gpa": 3.19
             }
         ],
-        "cgpa": 3.17
+        "cgpa": 3.2
     },
     "T20211303": {
         "name": "MHAMUDUL HASAN MURAD",
@@ -17624,10 +17753,11 @@
         "results": {
             "L2T1": 2.83,
             "L1T1": 2.64,
-            "L3T2": 3.54
+            "L3T2": 3.54,
+            "L4T2": 3.46
         },
         "retakes": [],
-        "cgpa": 2.94
+        "cgpa": 3.08
     },
     "202113001": {
         "name": "SUMONMIAH",
@@ -23587,7 +23717,8 @@
         "college": "NTEC",
         "dept": "Apparel",
         "results": {
-            "L1T1": 3.07
+            "L1T1": 3.07,
+            "L4T2": 2.89
         },
         "retakes": [
             {
@@ -23611,7 +23742,7 @@
                 "gpa": 3.15
             }
         ],
-        "cgpa": 3.07
+        "cgpa": 2.73
     },
     "S202014031": {
         "name": "SHAMSUNNAHAR SHAT HY",
@@ -28008,7 +28139,8 @@
         "dept": "Fabric",
         "results": {
             "L1T2": 2.49,
-            "L1T1": 2.79
+            "L1T1": 2.79,
+            "L4T2": 3.5
         },
         "retakes": [
             {
@@ -28022,7 +28154,7 @@
                 "gpa": 3.1
             }
         ],
-        "cgpa": 2.64
+        "cgpa": 3.16
     },
     "T2021130102": {
         "name": ".",
@@ -28043,7 +28175,8 @@
         "results": {
             "L1T2": 2.92,
             "L1T1": 3.24,
-            "L3T2": 3.49
+            "L3T2": 3.49,
+            "L4T2": 3.71
         },
         "retakes": [
             {
@@ -28052,7 +28185,7 @@
                 "gpa": 3.45
             }
         ],
-        "cgpa": 3.36
+        "cgpa": 3.48
     },
     "T202114006": {
         "name": "MD. JAHIDUL ISLAM . . Promoted -- . T l  MD. MEHEDI HASAN",
@@ -28062,7 +28195,8 @@
         "results": {
             "L1T2": 3.51,
             "L1T1": 3.09,
-            "L3T2": 3.5
+            "L3T2": 3.5,
+            "L4T2": 3.54
         },
         "retakes": [
             {
@@ -28071,7 +28205,7 @@
                 "gpa": 3.17
             }
         ],
-        "cgpa": 3.23
+        "cgpa": 3.34
     },
     "T20211401": {
         "name": "I NAHID HASAN",
@@ -34445,7 +34579,8 @@
         "dept": "Yarn",
         "results": {
             "L1T1": 2.88,
-            "L3T2": 3.69
+            "L3T2": 3.69,
+            "L4T2": 3.5
         },
         "retakes": [
             {
@@ -34454,7 +34589,7 @@
                 "gpa": 3.12
             }
         ],
-        "cgpa": 3.21
+        "cgpa": 3.3
     },
     "T202111025": {
         "name": "MD. AHASHAN HABIB KUSHAL",
@@ -34504,7 +34639,8 @@
         "dept": "Wet Process",
         "results": {
             "L1T1": 2.58,
-            "L3T2": 3.36
+            "L3T2": 3.36,
+            "L4T2": 3.53
         },
         "retakes": [
             {
@@ -34518,7 +34654,7 @@
                 "gpa": 3.06
             }
         ],
-        "cgpa": 2.99
+        "cgpa": 3.12
     },
     "T202113020": {
         "name": "ABU SUFIAN BISWA S",
@@ -34527,7 +34663,8 @@
         "dept": "Wet Process",
         "results": {
             "L1T1": 2.58,
-            "L3T2": 3.2
+            "L3T2": 3.2,
+            "L4T2": 3.57
         },
         "retakes": [
             {
@@ -34536,7 +34673,7 @@
                 "gpa": 2.84
             }
         ],
-        "cgpa": 2.77
+        "cgpa": 2.92
     },
     "202113021": {
         "name": "F ARJANA AFROSE",
@@ -34561,7 +34698,8 @@
         "college": "Tangail Textile Engineering College",
         "dept": "Wet Process",
         "results": {
-            "L1T1": 2.96
+            "L1T1": 2.96,
+            "L4T2": 3.41
         },
         "retakes": [
             {
@@ -34570,7 +34708,7 @@
                 "gpa": 2.5
             }
         ],
-        "cgpa": 2.96
+        "cgpa": 3.21
     },
     "T202113031": {
         "name": "MHAMUDUL HASAN MURAD",
@@ -34579,7 +34717,8 @@
         "dept": "Wet Process",
         "results": {
             "L1T1": 2.92,
-            "L3T2": 2.81
+            "L3T2": 2.81,
+            "L4T2": 3.37
         },
         "retakes": [
             {
@@ -34593,7 +34732,7 @@
                 "gpa": 2.25
             }
         ],
-        "cgpa": 2.71
+        "cgpa": 2.79
     },
     "T202114011": {
         "name": "NAHIDHASAN",
@@ -34602,7 +34741,8 @@
         "dept": "Apparel",
         "results": {
             "L1T1": 3.28,
-            "L3T2": 3.54
+            "L3T2": 3.54,
+            "L4T2": 3.68
         },
         "retakes": [
             {
@@ -34611,7 +34751,7 @@
                 "gpa": 3.41
             }
         ],
-        "cgpa": 3.44
+        "cgpa": 3.52
     },
     "T202114015": {
         "name": "MD. ELIY AS HOSSAIN",
@@ -34643,7 +34783,8 @@
         "dept": "Apparel",
         "results": {
             "L1T1": 2.93,
-            "L3T2": 3.37
+            "L3T2": 3.37,
+            "L4T2": 3.5
         },
         "retakes": [
             {
@@ -34652,7 +34793,7 @@
                 "gpa": 3.08
             }
         ],
-        "cgpa": 3.13
+        "cgpa": 3.23
     },
     "T202114021": {
         "name": "MD. TAMlM HOSSAIN",
@@ -34694,7 +34835,8 @@
         "dept": "Apparel",
         "results": {
             "L1T1": 2.92,
-            "L3T2": 2.98
+            "L3T2": 2.98,
+            "L4T2": 3.32
         },
         "retakes": [
             {
@@ -34703,7 +34845,7 @@
                 "gpa": 3.03
             }
         ],
-        "cgpa": 3.02
+        "cgpa": 3.1
     },
     "S202114030": {
         "name": "MD. HUMAY UN KABIR HITLAR",
@@ -34712,7 +34854,8 @@
         "dept": "Apparel",
         "results": {
             "L1T1": 2.75,
-            "L3T2": 2.79
+            "L3T2": 2.79,
+            "L4T2": 3.11
         },
         "retakes": [
             {
@@ -34726,7 +34869,7 @@
                 "gpa": 2.82
             }
         ],
-        "cgpa": 2.74
+        "cgpa": 2.79
     },
     "S202014041": {
         "name": "ROJINA AKTER",
@@ -51479,5 +51622,15 @@
             "L3T2": 3.4
         },
         "cgpa": 3.01
+    },
+    "S2021714002": {
+        "name": "JOY DEBONATH",
+        "batch": "Unknown",
+        "college": "Unknown",
+        "dept": "Unknown",
+        "results": {
+            "L4T2": 3.21
+        },
+        "cgpa": 3.07
     }
 }
