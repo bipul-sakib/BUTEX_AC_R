@@ -51632,5 +51632,355 @@
             "L4T2": 3.21
         },
         "cgpa": 3.07
+    },
+    "25010701001": {
+        "name": "MST. KHUSHIDA JAHAN",
+        "batch": "25",
+        "college": "Unknown",
+        "dept": "Unknown",
+        "results": {
+            "LXTX": 3.77
+        },
+        "cgpa": 3.43
+    },
+    "25010701003": {
+        "name": "RAHUL GHOSH",
+        "batch": "25",
+        "college": "Unknown",
+        "dept": "Unknown",
+        "results": {
+            "LXTX": 3.58
+        },
+        "cgpa": 3.37
+    },
+    "25010701004": {
+        "name": "ANTIK DEB",
+        "batch": "25",
+        "college": "Unknown",
+        "dept": "Unknown",
+        "results": {
+            "LXTX": 3.3
+        },
+        "cgpa": 3.07
+    },
+    "25010701005": {
+        "name": "IFTI RAHMAN TURZO",
+        "batch": "25",
+        "college": "Unknown",
+        "dept": "Unknown",
+        "results": {
+            "LXTX": 3.04
+        },
+        "cgpa": 2.59
+    },
+    "25010701006": {
+        "name": "MD. ABRARUL HAQUE",
+        "batch": "25",
+        "college": "Unknown",
+        "dept": "Unknown",
+        "results": {
+            "LXTX": 3.04
+        },
+        "cgpa": 2.58
+    },
+    "25010701007": {
+        "name": "MD. MEHEDI HASAN",
+        "batch": "25",
+        "college": "Unknown",
+        "dept": "Unknown",
+        "results": {
+            "LXTX": 2.74
+        },
+        "cgpa": 2.09
+    },
+    "25010701008": {
+        "name": "JUNAID AMIN",
+        "batch": "25",
+        "college": "Unknown",
+        "dept": "Unknown",
+        "results": {
+            "LXTX": 2.96
+        },
+        "cgpa": 2.91
+    },
+    "25010701009": {
+        "name": "ABDULLAH KAWSER",
+        "batch": "25",
+        "college": "Unknown",
+        "dept": "Unknown",
+        "results": {
+            "LXTX": 2.38
+        },
+        "cgpa": 2.08
+    },
+    "25010701011": {
+        "name": "MD. AHSANUZZAMAN",
+        "batch": "25",
+        "college": "Unknown",
+        "dept": "Unknown",
+        "results": {
+            "LXTX": 3.74
+        },
+        "cgpa": 3.49
+    },
+    "25010701012": {
+        "name": "SHAKKHAR CHAKRABORTY",
+        "batch": "25",
+        "college": "Unknown",
+        "dept": "Unknown",
+        "results": {
+            "LXTX": 2.33
+        },
+        "cgpa": 2.29
+    },
+    "25010701013": {
+        "name": "MAHMUDUL HASAN MRIDUL",
+        "batch": "25",
+        "college": "Unknown",
+        "dept": "Unknown",
+        "results": {
+            "LXTX": 3.07
+        },
+        "cgpa": 2.96
+    },
+    "25010701015": {
+        "name": "SANI AKTHER MOLI",
+        "batch": "25",
+        "college": "Unknown",
+        "dept": "Unknown",
+        "results": {
+            "LXTX": 3.51
+        },
+        "cgpa": 3.26
+    },
+    "25010701016": {
+        "name": "SHARIYAR AHAMED KHAN",
+        "batch": "25",
+        "college": "Unknown",
+        "dept": "Unknown",
+        "results": {
+            "LXTX": 2.98
+        },
+        "cgpa": 2.44
+    },
+    "25010701017": {
+        "name": "MD. SIAM HAQUE",
+        "batch": "25",
+        "college": "Unknown",
+        "dept": "Unknown",
+        "results": {
+            "LXTX": 3.17
+        },
+        "cgpa": 2.92
+    },
+    "25010701018": {
+        "name": "MOHAMMAD HASNAINUL ISLAM",
+        "batch": "25",
+        "college": "Unknown",
+        "dept": "Unknown",
+        "results": {
+            "LXTX": 3.35
+        },
+        "cgpa": 3.05
+    },
+    "25010701019": {
+        "name": "DIVAA SAHA",
+        "batch": "25",
+        "college": "Unknown",
+        "dept": "Unknown",
+        "results": {
+            "LXTX": 3.15
+        },
+        "cgpa": 3.12
+    },
+    "25010701020": {
+        "name": "ABU ABDULLAHEL TURJO",
+        "batch": "25",
+        "college": "Unknown",
+        "dept": "Unknown",
+        "results": {
+            "LXTX": 2.9
+        },
+        "cgpa": 2.62
+    },
+    "25010701021": {
+        "name": "MD. ARIFUZZAMAN APON",
+        "batch": "25",
+        "college": "Unknown",
+        "dept": "Unknown",
+        "results": {
+            "LXTX": 2.94
+        },
+        "cgpa": 2.4
+    },
+    "25010701022": {
+        "name": "ABU TALHA MOHAMMAD TANAY",
+        "batch": "25",
+        "college": "Unknown",
+        "dept": "Unknown",
+        "results": {
+            "LXTX": 2.63
+        },
+        "cgpa": 2.35
+    },
+    "25010701024": {
+        "name": "MD. ROKY AHMED",
+        "batch": "25",
+        "college": "Unknown",
+        "dept": "Unknown",
+        "results": {
+            "LXTX": 2.86
+        },
+        "cgpa": 2.08
+    },
+    "25010701026": {
+        "name": "MD. NAHID HASSAN NISHAN",
+        "batch": "25",
+        "college": "Unknown",
+        "dept": "Unknown",
+        "results": {
+            "LXTX": 3.2
+        },
+        "cgpa": 2.76
+    },
+    "25010701027": {
+        "name": "TANZIL KAMAL ZOHA",
+        "batch": "25",
+        "college": "Unknown",
+        "dept": "Unknown",
+        "results": {
+            "LXTX": 3.01
+        },
+        "cgpa": 2.7
+    },
+    "25010701028": {
+        "name": "AHSAN ULLAH",
+        "batch": "25",
+        "college": "Unknown",
+        "dept": "Unknown",
+        "results": {
+            "LXTX": 3.04
+        },
+        "cgpa": 3.05
+    },
+    "25010701029": {
+        "name": "SAFIAH BINTE MASUM DIA",
+        "batch": "25",
+        "college": "Unknown",
+        "dept": "Unknown",
+        "results": {
+            "LXTX": 3.42
+        },
+        "cgpa": 3.32
+    },
+    "25010701030": {
+        "name": "ADITTO MAHFUJ SHAFIN",
+        "batch": "25",
+        "college": "Unknown",
+        "dept": "Unknown",
+        "results": {
+            "LXTX": 2.9
+        },
+        "cgpa": 2.62
+    },
+    "25010701031": {
+        "name": "RIFAT AHMED",
+        "batch": "25",
+        "college": "Unknown",
+        "dept": "Unknown",
+        "results": {
+            "LXTX": 2.96
+        },
+        "cgpa": 2.63
+    },
+    "25010701032": {
+        "name": "MUSTAFINUR RASHID",
+        "batch": "25",
+        "college": "Unknown",
+        "dept": "Unknown",
+        "results": {
+            "LXTX": 3.08
+        },
+        "cgpa": 3.07
+    },
+    "25010701033": {
+        "name": "MD. ASIM-HOSEN RASEL",
+        "batch": "25",
+        "college": "Unknown",
+        "dept": "Unknown",
+        "results": {
+            "LXTX": 3.06
+        },
+        "cgpa": 2.72
+    },
+    "25010701034": {
+        "name": "MD. ABDULLAH MOLLA",
+        "batch": "25",
+        "college": "Unknown",
+        "dept": "Unknown",
+        "results": {
+            "LXTX": 3.25
+        },
+        "cgpa": 3.08
+    },
+    "25010701035": {
+        "name": "MD. RIDWANUL ISLAM",
+        "batch": "25",
+        "college": "Unknown",
+        "dept": "Unknown",
+        "results": {
+            "LXTX": 3.33
+        },
+        "cgpa": 3.15
+    },
+    "25010701037": {
+        "name": "MD. ABRAR MAHIR LABIB",
+        "batch": "25",
+        "college": "Unknown",
+        "dept": "Unknown",
+        "results": {
+            "LXTX": 3.08
+        },
+        "cgpa": 2.68
+    },
+    "25010701038": {
+        "name": "SIFAT HOSSAIN RAJIT",
+        "batch": "25",
+        "college": "Unknown",
+        "dept": "Unknown",
+        "results": {
+            "LXTX": 2.94
+        },
+        "cgpa": 2.3
+    },
+    "25010701039": {
+        "name": "MD. SOYAT HOSSAEN",
+        "batch": "25",
+        "college": "Unknown",
+        "dept": "Unknown",
+        "results": {
+            "LXTX": 3.07
+        },
+        "cgpa": 2.49
+    },
+    "24010701013": {
+        "name": "MD. JAHID HASAN SHRABON",
+        "batch": "24",
+        "college": "Unknown",
+        "dept": "Unknown",
+        "results": {
+            "LXTX": 2.17
+        },
+        "cgpa": 2.13
+    },
+    "22010701010": {
+        "name": "MD. SADRIL SIUM",
+        "batch": "22",
+        "college": "Unknown",
+        "dept": "Unknown",
+        "results": {
+            "LXTX": 2.52
+        },
+        "cgpa": 1.77
     }
 }
