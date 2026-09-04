@@ -58292,5 +58292,15 @@
             "LXTX": 3.18
         },
         "cgpa": 2.95
+    },
+    "24060201009": {
+        "name": "MST. JOBA KHATUN",
+        "batch": "24",
+        "college": "Jhenaidah",
+        "dept": "Fabric",
+        "results": {
+            "LXTX": 3.1
+        },
+        "cgpa": 3.21
     }
 }
