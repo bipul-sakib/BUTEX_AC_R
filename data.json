@@ -58302,5 +58302,875 @@
             "LXTX": 3.1
         },
         "cgpa": 3.21
+    },
+    "25010101001": {
+        "name": "HASAN SAJEEB",
+        "batch": "25",
+        "college": "Unknown",
+        "dept": "Yarn",
+        "results": {
+            "LXTX": 2.37
+        },
+        "cgpa": 2.65
+    },
+    "25010101003": {
+        "name": "PURBITA BISWAS",
+        "batch": "25",
+        "college": "Unknown",
+        "dept": "Yarn",
+        "results": {
+            "LXTX": 3.44
+        },
+        "cgpa": 3.42
+    },
+    "25010101004": {
+        "name": "SABIHA KHANDOKER TISHA",
+        "batch": "25",
+        "college": "Unknown",
+        "dept": "Yarn",
+        "results": {
+            "LXTX": 2.87
+        },
+        "cgpa": 2.97
+    },
+    "25010101005": {
+        "name": "MOSTAFA KAMAL",
+        "batch": "25",
+        "college": "Unknown",
+        "dept": "Yarn",
+        "results": {
+            "LXTX": 2.71
+        },
+        "cgpa": 2.72
+    },
+    "25010101009": {
+        "name": "ABDULLAH AL MARUF",
+        "batch": "25",
+        "college": "Unknown",
+        "dept": "Yarn",
+        "results": {
+            "LXTX": 3.04
+        },
+        "cgpa": 2.98
+    },
+    "25010101010": {
+        "name": "JANNATUL ARAFIN TANHA",
+        "batch": "25",
+        "college": "Unknown",
+        "dept": "Yarn",
+        "results": {
+            "LXTX": 3.42
+        },
+        "cgpa": 3.39
+    },
+    "25010101013": {
+        "name": "MD. AMINUL HASAN SAYKET",
+        "batch": "25",
+        "college": "Unknown",
+        "dept": "Yarn",
+        "results": {
+            "LXTX": 2.45
+        },
+        "cgpa": 2.03
+    },
+    "25010101014": {
+        "name": "TANUSHREE PAUL",
+        "batch": "25",
+        "college": "Unknown",
+        "dept": "Yarn",
+        "results": {
+            "LXTX": 3.26
+        },
+        "cgpa": 3.24
+    },
+    "25010101015": {
+        "name": "MDRADWAN ISLAM",
+        "batch": "25",
+        "college": "Unknown",
+        "dept": "Yarn",
+        "results": {
+            "LXTX": 2.48
+        },
+        "cgpa": 2.36
+    },
+    "25010101016": {
+        "name": "ZAHIN HASAN",
+        "batch": "25",
+        "college": "Unknown",
+        "dept": "Yarn",
+        "results": {
+            "LXTX": 2.96
+        },
+        "cgpa": 3.02
+    },
+    "25010101017": {
+        "name": "SHARAF UDDIN",
+        "batch": "25",
+        "college": "Unknown",
+        "dept": "Yarn",
+        "results": {
+            "LXTX": 2.56
+        },
+        "cgpa": 2.19
+    },
+    "25010101018": {
+        "name": "MD. ABU SA YEED",
+        "batch": "25",
+        "college": "Unknown",
+        "dept": "Yarn",
+        "results": {
+            "LXTX": 3.11
+        },
+        "cgpa": 3.13
+    },
+    "25010101020": {
+        "name": "EHSAN AHMED",
+        "batch": "25",
+        "college": "Unknown",
+        "dept": "Yarn",
+        "results": {
+            "LXTX": 2.37
+        },
+        "cgpa": 2.08
+    },
+    "25010101021": {
+        "name": "TALUKDER MOHAMMAD",
+        "batch": "25",
+        "college": "Unknown",
+        "dept": "Yarn",
+        "results": {
+            "LXTX": 3.48
+        },
+        "cgpa": 3.49
+    },
+    "25010101023": {
+        "name": "MD. RAKIBUL ISLAM RAMU",
+        "batch": "25",
+        "college": "Unknown",
+        "dept": "Yarn",
+        "results": {
+            "LXTX": 3.3
+        },
+        "cgpa": 2.94
+    },
+    "25010101025": {
+        "name": "MD. RIAD HASAN",
+        "batch": "25",
+        "college": "Unknown",
+        "dept": "Yarn",
+        "results": {
+            "LXTX": 2.7
+        },
+        "cgpa": 2.86
+    },
+    "25010101027": {
+        "name": "SUJAN DEBNATH",
+        "batch": "25",
+        "college": "Unknown",
+        "dept": "Yarn",
+        "results": {
+            "LXTX": 2.26
+        },
+        "cgpa": 2.34
+    },
+    "25010101029": {
+        "name": "RIFAT KHANDKER",
+        "batch": "25",
+        "college": "Unknown",
+        "dept": "Yarn",
+        "results": {
+            "LXTX": 3.05
+        },
+        "cgpa": 2.98
+    },
+    "25010101030": {
+        "name": "MD. MAHAMUDUL HASAN",
+        "batch": "25",
+        "college": "Unknown",
+        "dept": "Yarn",
+        "results": {
+            "LXTX": 3.08
+        },
+        "cgpa": 2.99
+    },
+    "25010101032": {
+        "name": "AHSAN HABIB",
+        "batch": "25",
+        "college": "Unknown",
+        "dept": "Yarn",
+        "results": {
+            "LXTX": 2.19
+        },
+        "cgpa": 2.47
+    },
+    "25010101035": {
+        "name": "MST. MUSRAAT JAHAN",
+        "batch": "25",
+        "college": "Unknown",
+        "dept": "Yarn",
+        "results": {
+            "LXTX": 2.88
+        },
+        "cgpa": 2.9
+    },
+    "25010101036": {
+        "name": "ZABIRUL ISLAM",
+        "batch": "25",
+        "college": "Unknown",
+        "dept": "Yarn",
+        "results": {
+            "LXTX": 2.75
+        },
+        "cgpa": 3.02
+    },
+    "25010101038": {
+        "name": "SHAH TASNMMUL ERAM",
+        "batch": "25",
+        "college": "Unknown",
+        "dept": "Yarn",
+        "results": {
+            "LXTX": 3.13
+        },
+        "cgpa": 3.2
+    },
+    "25010101044": {
+        "name": "ATKKUZZAMAN FFTY",
+        "batch": "25",
+        "college": "Unknown",
+        "dept": "Yarn",
+        "results": {
+            "LXTX": 3.9
+        },
+        "cgpa": 3.82
+    },
+    "25010101047": {
+        "name": "SUJOY HALDER",
+        "batch": "25",
+        "college": "Unknown",
+        "dept": "Yarn",
+        "results": {
+            "LXTX": 3.31
+        },
+        "cgpa": 3.21
+    },
+    "25010101049": {
+        "name": "MDMRIDUL KHNDAKAR",
+        "batch": "25",
+        "college": "Unknown",
+        "dept": "Yarn",
+        "results": {
+            "LXTX": 2.36
+        },
+        "cgpa": 2.38
+    },
+    "25010101051": {
+        "name": "ABDULLAH BIN ATIK",
+        "batch": "25",
+        "college": "Unknown",
+        "dept": "Yarn",
+        "results": {
+            "LXTX": 2.9
+        },
+        "cgpa": 3.04
+    },
+    "25010101052": {
+        "name": "PRIYANTA PRAMANIK",
+        "batch": "25",
+        "college": "Unknown",
+        "dept": "Yarn",
+        "results": {
+            "LXTX": 3.71
+        },
+        "cgpa": 3.73
+    },
+    "25010101053": {
+        "name": "RYSA AKTER",
+        "batch": "25",
+        "college": "Unknown",
+        "dept": "Yarn",
+        "results": {
+            "LXTX": 2.83
+        },
+        "cgpa": 2.81
+    },
+    "25010101054": {
+        "name": "MIHTA HUSSAIN BIVA",
+        "batch": "25",
+        "college": "Unknown",
+        "dept": "Yarn",
+        "results": {
+            "LXTX": 3.85
+        },
+        "cgpa": 3.77
+    },
+    "25010101055": {
+        "name": "MD. ABIDUR RAHMAN",
+        "batch": "25",
+        "college": "Unknown",
+        "dept": "Yarn",
+        "results": {
+            "LXTX": 3.38
+        },
+        "cgpa": 3.49
+    },
+    "25010101058": {
+        "name": "SUMIT CHOWDHURY",
+        "batch": "25",
+        "college": "Unknown",
+        "dept": "Yarn",
+        "results": {
+            "LXTX": 2.89
+        },
+        "cgpa": 2.98
+    },
+    "25010101059": {
+        "name": "MASRAFUL ISLAM MAHIM",
+        "batch": "25",
+        "college": "Unknown",
+        "dept": "Yarn",
+        "results": {
+            "LXTX": 2.24
+        },
+        "cgpa": 2.2
+    },
+    "25010101062": {
+        "name": "MAHSIN AL MAHMUD",
+        "batch": "25",
+        "college": "Unknown",
+        "dept": "Yarn",
+        "results": {
+            "LXTX": 2.62
+        },
+        "cgpa": 2.18
+    },
+    "25010101064": {
+        "name": "MD. ARAFAT",
+        "batch": "25",
+        "college": "Unknown",
+        "dept": "Yarn",
+        "results": {
+            "LXTX": 2.98
+        },
+        "cgpa": 3.14
+    },
+    "25010101066": {
+        "name": "MD. ABDUR RAKIB",
+        "batch": "25",
+        "college": "Unknown",
+        "dept": "Yarn",
+        "results": {
+            "LXTX": 2.52
+        },
+        "cgpa": 2.67
+    },
+    "25010101070": {
+        "name": "AMINUL ISLAM SIAM",
+        "batch": "25",
+        "college": "Unknown",
+        "dept": "Yarn",
+        "results": {
+            "LXTX": 2.88
+        },
+        "cgpa": 2.93
+    },
+    "25010101073": {
+        "name": "MUHIBBULLA ISLAM SAGOR",
+        "batch": "25",
+        "college": "Unknown",
+        "dept": "Yarn",
+        "results": {
+            "LXTX": 2.57
+        },
+        "cgpa": 2.61
+    },
+    "25010101075": {
+        "name": "ABDUL FATTAH",
+        "batch": "25",
+        "college": "Unknown",
+        "dept": "Yarn",
+        "results": {
+            "LXTX": 2.0
+        },
+        "cgpa": 1.87
+    },
+    "25010101076": {
+        "name": "MD MEHERAB HASAN",
+        "batch": "25",
+        "college": "Unknown",
+        "dept": "Yarn",
+        "results": {
+            "LXTX": 2.67
+        },
+        "cgpa": 2.48
+    },
+    "25010101077": {
+        "name": "SA YED TASIBUL ISLAM",
+        "batch": "25",
+        "college": "Unknown",
+        "dept": "Yarn",
+        "results": {
+            "LXTX": 3.0
+        },
+        "cgpa": 2.64
+    },
+    "25010101079": {
+        "name": "ZIAUL HOQUE ZIA",
+        "batch": "25",
+        "college": "Unknown",
+        "dept": "Yarn",
+        "results": {
+            "LXTX": 2.11
+        },
+        "cgpa": 2.13
+    },
+    "25010101080": {
+        "name": "TASFIA SHARMIN",
+        "batch": "25",
+        "college": "Unknown",
+        "dept": "Yarn",
+        "results": {
+            "LXTX": 2.69
+        },
+        "cgpa": 2.78
+    },
+    "24010101065": {
+        "name": "MD. ATIKUR RAHMAN",
+        "batch": "24",
+        "college": "Unknown",
+        "dept": "Yarn",
+        "results": {
+            "LXTX": 2.0
+        },
+        "cgpa": 1.91
+    },
+    "24010101075": {
+        "name": "RAFID MAHMUD",
+        "batch": "24",
+        "college": "Unknown",
+        "dept": "Yarn",
+        "results": {
+            "LXTX": 2.06
+        },
+        "cgpa": 1.74
+    },
+    "25010201001": {
+        "name": "NAHI HAMM",
+        "batch": "25",
+        "college": "Unknown",
+        "dept": "Fabric",
+        "results": {
+            "LXTX": 3.76
+        },
+        "cgpa": 3.72
+    },
+    "50102010003": {
+        "name": "OLIULLAH RAJIB",
+        "batch": "50",
+        "college": "Gopalganj",
+        "dept": "Unknown",
+        "results": {
+            "LXTX": 3.25
+        },
+        "cgpa": 3.3
+    },
+    "25010201005": {
+        "name": "RADWAN MDRUHULLAH",
+        "batch": "25",
+        "college": "Unknown",
+        "dept": "Fabric",
+        "results": {
+            "LXTX": 3.25
+        },
+        "cgpa": 3.19
+    },
+    "50102010007": {
+        "name": "MD. TAHSIN ARAFAT",
+        "batch": "50",
+        "college": "Gopalganj",
+        "dept": "Unknown",
+        "results": {
+            "LXTX": 3.18
+        },
+        "cgpa": 2.98
+    },
+    "25010201009": {
+        "name": "MD. MARAJ HOSSAIN",
+        "batch": "25",
+        "college": "Unknown",
+        "dept": "Fabric",
+        "results": {
+            "LXTX": 3.46
+        },
+        "cgpa": 3.28
+    },
+    "25010201029": {
+        "name": "MARIAM AKTER",
+        "batch": "25",
+        "college": "Unknown",
+        "dept": "Fabric",
+        "results": {
+            "LXTX": 3.23
+        },
+        "cgpa": 3.01
+    },
+    "25010201031": {
+        "name": "MD. MAHFUZ SARKER",
+        "batch": "25",
+        "college": "Unknown",
+        "dept": "Fabric",
+        "results": {
+            "LXTX": 3.08
+        },
+        "cgpa": 3.03
+    },
+    "25010201032": {
+        "name": "MD. TAHMID HASAN",
+        "batch": "25",
+        "college": "Unknown",
+        "dept": "Fabric",
+        "results": {
+            "LXTX": 3.23
+        },
+        "cgpa": 3.23
+    },
+    "25010201033": {
+        "name": "MD. SIAM",
+        "batch": "25",
+        "college": "Unknown",
+        "dept": "Fabric",
+        "results": {
+            "LXTX": 2.98
+        },
+        "cgpa": 3.08
+    },
+    "25010201036": {
+        "name": "MD. RIFAT AHMED",
+        "batch": "25",
+        "college": "Unknown",
+        "dept": "Fabric",
+        "results": {
+            "LXTX": 2.81
+        },
+        "cgpa": 3.09
+    },
+    "25010201037": {
+        "name": "MARUF AHMED MHIN",
+        "batch": "25",
+        "college": "Unknown",
+        "dept": "Fabric",
+        "results": {
+            "LXTX": 3.0
+        },
+        "cgpa": 2.94
+    },
+    "25010201038": {
+        "name": "FAHMDA AKTER LMMA",
+        "batch": "25",
+        "college": "Unknown",
+        "dept": "Fabric",
+        "results": {
+            "LXTX": 3.88
+        },
+        "cgpa": 3.79
+    },
+    "25010201039": {
+        "name": "MARZIA ARWA",
+        "batch": "25",
+        "college": "Unknown",
+        "dept": "Fabric",
+        "results": {
+            "LXTX": 3.11
+        },
+        "cgpa": 2.95
+    },
+    "25010201043": {
+        "name": "MD. MUSTAKM BLLAH",
+        "batch": "25",
+        "college": "Unknown",
+        "dept": "Fabric",
+        "results": {
+            "LXTX": 2.74
+        },
+        "cgpa": 2.68
+    },
+    "25010201044": {
+        "name": "DIGHI SAHA",
+        "batch": "25",
+        "college": "Unknown",
+        "dept": "Fabric",
+        "results": {
+            "LXTX": 3.49
+        },
+        "cgpa": 3.39
+    },
+    "25010201045": {
+        "name": "MD.LOKMAN",
+        "batch": "25",
+        "college": "Unknown",
+        "dept": "Fabric",
+        "results": {
+            "LXTX": 3.05
+        },
+        "cgpa": 3.07
+    },
+    "25010201046": {
+        "name": "MD. JOHURUL ISLAM OV",
+        "batch": "25",
+        "college": "Unknown",
+        "dept": "Fabric",
+        "results": {
+            "LXTX": 3.21
+        },
+        "cgpa": 3.25
+    },
+    "25010201048": {
+        "name": "MD. ASFF KHAN",
+        "batch": "25",
+        "college": "Unknown",
+        "dept": "Fabric",
+        "results": {
+            "LXTX": 2.98
+        },
+        "cgpa": 3.03
+    },
+    "25010201049": {
+        "name": "ANINDYA",
+        "batch": "25",
+        "college": "Unknown",
+        "dept": "Fabric",
+        "results": {
+            "LXTX": 2.96
+        },
+        "cgpa": 3.01
+    },
+    "25010201051": {
+        "name": "AMMAN HOQUE ZARAB",
+        "batch": "25",
+        "college": "Unknown",
+        "dept": "Fabric",
+        "results": {
+            "LXTX": 2.76
+        },
+        "cgpa": 2.76
+    },
+    "25010201052": {
+        "name": "MD. MAHAMUDUL ISLAM",
+        "batch": "25",
+        "college": "Unknown",
+        "dept": "Fabric",
+        "results": {
+            "LXTX": 2.45
+        },
+        "cgpa": 2.88
+    },
+    "25010201054": {
+        "name": "MST. AZMMA FERDOUS",
+        "batch": "25",
+        "college": "Unknown",
+        "dept": "Fabric",
+        "results": {
+            "LXTX": 3.03
+        },
+        "cgpa": 3.1
+    },
+    "25010201056": {
+        "name": "M. NURUL ISLAM",
+        "batch": "25",
+        "college": "Unknown",
+        "dept": "Fabric",
+        "results": {
+            "LXTX": 3.08
+        },
+        "cgpa": 3.01
+    },
+    "25010201058": {
+        "name": "RANGAN BASAK",
+        "batch": "25",
+        "college": "Unknown",
+        "dept": "Fabric",
+        "results": {
+            "LXTX": 3.11
+        },
+        "cgpa": 3.1
+    },
+    "2501020102": {
+        "name": "MD. SHEEAD -BIN-JUBERR",
+        "batch": "Unknown",
+        "college": "Unknown",
+        "dept": "Unknown",
+        "results": {
+            "LXTX": 3.19
+        },
+        "cgpa": 3.18
+    },
+    "2501020164": {
+        "name": "RIYAD MAHUD MOUNO",
+        "batch": "Unknown",
+        "college": "Unknown",
+        "dept": "Unknown",
+        "results": {
+            "LXTX": 3.04
+        },
+        "cgpa": 3.01
+    },
+    "25010201066": {
+        "name": "ARRIN AKTER",
+        "batch": "25",
+        "college": "Unknown",
+        "dept": "Fabric",
+        "results": {
+            "LXTX": 2.86
+        },
+        "cgpa": 2.7
+    },
+    "2501020107": {
+        "name": "MD. RAYHAN HOSSAIN",
+        "batch": "Unknown",
+        "college": "Unknown",
+        "dept": "Unknown",
+        "results": {
+            "LXTX": 3.15
+        },
+        "cgpa": 3.24
+    },
+    "25010201068": {
+        "name": "SEUM EBNA HOSSAIN",
+        "batch": "25",
+        "college": "Unknown",
+        "dept": "Fabric",
+        "results": {
+            "LXTX": 2.75
+        },
+        "cgpa": 2.62
+    },
+    "25010201070": {
+        "name": "MAHABUB HASAN",
+        "batch": "25",
+        "college": "Unknown",
+        "dept": "Fabric",
+        "results": {
+            "LXTX": 1.91
+        },
+        "cgpa": 1.96
+    },
+    "25010201071": {
+        "name": "MD. ALFAZ UDDIN SIAM",
+        "batch": "25",
+        "college": "Unknown",
+        "dept": "Fabric",
+        "results": {
+            "LXTX": 2.8
+        },
+        "cgpa": 3.0
+    },
+    "25010201072": {
+        "name": "MOHAMMED LAVBB",
+        "batch": "25",
+        "college": "Unknown",
+        "dept": "Fabric",
+        "results": {
+            "LXTX": 3.01
+        },
+        "cgpa": 3.2
+    },
+    "25010201073": {
+        "name": "MOHAMMAD KHADEMUL",
+        "batch": "25",
+        "college": "Unknown",
+        "dept": "Fabric",
+        "results": {
+            "LXTX": 2.86
+        },
+        "cgpa": 2.82
+    },
+    "25010201074": {
+        "name": "MOHAMMAD ABDUL AZIZ",
+        "batch": "25",
+        "college": "Unknown",
+        "dept": "Fabric",
+        "results": {
+            "LXTX": 3.04
+        },
+        "cgpa": 3.3
+    },
+    "25010201075": {
+        "name": "BADHON PAUL",
+        "batch": "25",
+        "college": "Unknown",
+        "dept": "Fabric",
+        "results": {
+            "LXTX": 3.25
+        },
+        "cgpa": 3.19
+    },
+    "25010201076": {
+        "name": "MOHAMMAD ARIFUL",
+        "batch": "25",
+        "college": "Unknown",
+        "dept": "Fabric",
+        "results": {
+            "LXTX": 2.61
+        },
+        "cgpa": 2.65
+    },
+    "25010201077": {
+        "name": "ARIZ RAHMAN",
+        "batch": "25",
+        "college": "Unknown",
+        "dept": "Fabric",
+        "results": {
+            "LXTX": 3.06
+        },
+        "cgpa": 3.09
+    },
+    "25010201078": {
+        "name": "SARAT SAHA",
+        "batch": "25",
+        "college": "Unknown",
+        "dept": "Fabric",
+        "results": {
+            "LXTX": 2.95
+        },
+        "cgpa": 3.04
+    },
+    "25010201080": {
+        "name": "MD. SAIFMURSALINE FEAR",
+        "batch": "25",
+        "college": "Unknown",
+        "dept": "Fabric",
+        "results": {
+            "LXTX": 2.15
+        },
+        "cgpa": 2.15
+    },
+    "24010201015": {
+        "name": "ABDUR ROUF SADMAN",
+        "batch": "24",
+        "college": "Unknown",
+        "dept": "Fabric",
+        "results": {
+            "LXTX": 3.28
+        },
+        "cgpa": 3.13
+    },
+    "24010201039": {
+        "name": "MD. JISAN HASAN",
+        "batch": "24",
+        "college": "Unknown",
+        "dept": "Fabric",
+        "results": {
+            "LXTX": 3.01
+        },
+        "cgpa": 2.97
+    },
+    "24010201071": {
+        "name": "MD KHALI HOSSEN",
+        "batch": "24",
+        "college": "Unknown",
+        "dept": "Fabric",
+        "results": {
+            "LXTX": 2.16
+        },
+        "cgpa": 2.46
     }
 }
