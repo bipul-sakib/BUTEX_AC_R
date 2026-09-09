@@ -59172,5 +59172,415 @@
             "LXTX": 2.16
         },
         "cgpa": 2.46
+    },
+    "24010401001": {
+        "name": "JAHIDUL HASAN RUPOK",
+        "batch": "24",
+        "college": "Unknown",
+        "dept": "Apparel",
+        "results": {
+            "LXTX": 3.61
+        },
+        "cgpa": 3.63
+    },
+    "24010401002": {
+        "name": "NAZIFA FAIROOZ",
+        "batch": "24",
+        "college": "Unknown",
+        "dept": "Apparel",
+        "results": {
+            "LXTX": 3.55
+        },
+        "cgpa": 3.49
+    },
+    "24010401004": {
+        "name": "SARA HUMA YRA",
+        "batch": "24",
+        "college": "Unknown",
+        "dept": "Apparel",
+        "results": {
+            "LXTX": 3.65
+        },
+        "cgpa": 3.48
+    },
+    "24010401005": {
+        "name": "MD. FARDIN KHAN",
+        "batch": "24",
+        "college": "Unknown",
+        "dept": "Apparel",
+        "results": {
+            "LXTX": 3.86
+        },
+        "cgpa": 3.77
+    },
+    "24010401006": {
+        "name": "ISRAT JAHAN LAMIA",
+        "batch": "24",
+        "college": "Unknown",
+        "dept": "Apparel",
+        "results": {
+            "LXTX": 3.16
+        },
+        "cgpa": 2.92
+    },
+    "24010401010": {
+        "name": "SAYMA SOAD SNEHA",
+        "batch": "24",
+        "college": "Unknown",
+        "dept": "Apparel",
+        "results": {
+            "LXTX": 3.83
+        },
+        "cgpa": 3.74
+    },
+    "2401040101": {
+        "name": "AFIDA KABIR NAZAH",
+        "batch": "Unknown",
+        "college": "Unknown",
+        "dept": "Unknown",
+        "results": {
+            "LXTX": 3.73
+        },
+        "cgpa": 3.69
+    },
+    "24010401015": {
+        "name": "TANIA AKTER",
+        "batch": "24",
+        "college": "Unknown",
+        "dept": "Apparel",
+        "results": {
+            "LXTX": 3.93
+        },
+        "cgpa": 3.8
+    },
+    "24010401016": {
+        "name": "OVI ISLAM OMIT",
+        "batch": "24",
+        "college": "Unknown",
+        "dept": "Apparel",
+        "results": {
+            "LXTX": 3.2
+        },
+        "cgpa": 3.47
+    },
+    "24010401017": {
+        "name": "MD ABEER HASSAN",
+        "batch": "24",
+        "college": "Unknown",
+        "dept": "Apparel",
+        "results": {
+            "LXTX": 2.89
+        },
+        "cgpa": 2.92
+    },
+    "24010401019": {
+        "name": "MD. NYEEM ISLAM",
+        "batch": "24",
+        "college": "Unknown",
+        "dept": "Apparel",
+        "results": {
+            "LXTX": 3.17
+        },
+        "cgpa": 3.16
+    },
+    "24010401020": {
+        "name": "MD. SHAJIB HAWLADER",
+        "batch": "24",
+        "college": "Unknown",
+        "dept": "Apparel",
+        "results": {
+            "LXTX": 3.08
+        },
+        "cgpa": 3.17
+    },
+    "24010401022": {
+        "name": "ABDULLAH AL NAFI",
+        "batch": "24",
+        "college": "Unknown",
+        "dept": "Apparel",
+        "results": {
+            "LXTX": 3.48
+        },
+        "cgpa": 3.35
+    },
+    "24010401028": {
+        "name": "MST.TASLIMA AKTER",
+        "batch": "24",
+        "college": "Unknown",
+        "dept": "Apparel",
+        "results": {
+            "LXTX": 3.38
+        },
+        "cgpa": 3.25
+    },
+    "24010401029": {
+        "name": "BIJOY KUMAR SAHA",
+        "batch": "24",
+        "college": "Unknown",
+        "dept": "Apparel",
+        "results": {
+            "LXTX": 2.13
+        },
+        "cgpa": 2.69
+    },
+    "24010401036": {
+        "name": "SUIFUL ISLAM ASIK",
+        "batch": "24",
+        "college": "Unknown",
+        "dept": "Apparel",
+        "results": {
+            "LXTX": 3.44
+        },
+        "cgpa": 3.22
+    },
+    "24010401038": {
+        "name": "NIAJ AHMED",
+        "batch": "24",
+        "college": "Unknown",
+        "dept": "Apparel",
+        "results": {
+            "LXTX": 3.4
+        },
+        "cgpa": 3.07
+    },
+    "24010401040": {
+        "name": "AMIT HOSSAIN",
+        "batch": "24",
+        "college": "Unknown",
+        "dept": "Apparel",
+        "results": {
+            "LXTX": 3.58
+        },
+        "cgpa": 3.62
+    },
+    "24010401042": {
+        "name": "MD. TANVIR MIA",
+        "batch": "24",
+        "college": "Unknown",
+        "dept": "Apparel",
+        "results": {
+            "LXTX": 2.92
+        },
+        "cgpa": 2.86
+    },
+    "24010401043": {
+        "name": "MARZIA MAHIATH",
+        "batch": "24",
+        "college": "Unknown",
+        "dept": "Apparel",
+        "results": {
+            "LXTX": 3.74
+        },
+        "cgpa": 3.5
+    },
+    "24010401044": {
+        "name": "TANZIM ZARIF AUHON",
+        "batch": "24",
+        "college": "Unknown",
+        "dept": "Apparel",
+        "results": {
+            "LXTX": 3.28
+        },
+        "cgpa": 3.1
+    },
+    "24010401046": {
+        "name": "MD. ASHRAFUL ISLAM",
+        "batch": "24",
+        "college": "Unknown",
+        "dept": "Apparel",
+        "results": {
+            "LXTX": 2.19
+        },
+        "cgpa": 2.66
+    },
+    "24010401049": {
+        "name": "MEHEDI HASAN FARHAN",
+        "batch": "24",
+        "college": "Unknown",
+        "dept": "Apparel",
+        "results": {
+            "LXTX": 3.99
+        },
+        "cgpa": 3.85
+    },
+    "24010401051": {
+        "name": "MD NASIR UDDIN",
+        "batch": "24",
+        "college": "Unknown",
+        "dept": "Apparel",
+        "results": {
+            "LXTX": 3.07
+        },
+        "cgpa": 3.46
+    },
+    "24010401052": {
+        "name": "MAHBUBUR RAHMAN",
+        "batch": "24",
+        "college": "Unknown",
+        "dept": "Apparel",
+        "results": {
+            "LXTX": 3.5
+        },
+        "cgpa": 3.42
+    },
+    "24010401053": {
+        "name": "MAHMUD TANIM HASAN",
+        "batch": "24",
+        "college": "Unknown",
+        "dept": "Apparel",
+        "results": {
+            "LXTX": 3.14
+        },
+        "cgpa": 3.05
+    },
+    "24010401059": {
+        "name": "RAISA TAHSIN CHOWA",
+        "batch": "24",
+        "college": "Unknown",
+        "dept": "Apparel",
+        "results": {
+            "LXTX": 3.76
+        },
+        "cgpa": 3.56
+    },
+    "24010401062": {
+        "name": "MD. TANVIR HOSSAIN",
+        "batch": "24",
+        "college": "Unknown",
+        "dept": "Apparel",
+        "results": {
+            "LXTX": 2.01
+        },
+        "cgpa": 2.64
+    },
+    "24010401063": {
+        "name": "NISHAT SALSABIL MAHI",
+        "batch": "24",
+        "college": "Unknown",
+        "dept": "Apparel",
+        "results": {
+            "LXTX": 3.95
+        },
+        "cgpa": 3.85
+    },
+    "24010401066": {
+        "name": "MD. JAHIR UDDIN",
+        "batch": "24",
+        "college": "Unknown",
+        "dept": "Apparel",
+        "results": {
+            "LXTX": 2.75
+        },
+        "cgpa": 2.94
+    },
+    "24010401069": {
+        "name": "MD NAZMUS SAKIB",
+        "batch": "24",
+        "college": "Unknown",
+        "dept": "Apparel",
+        "results": {
+            "LXTX": 3.28
+        },
+        "cgpa": 2.97
+    },
+    "24010401072": {
+        "name": "DEWAN TASIN LABIB",
+        "batch": "24",
+        "college": "Unknown",
+        "dept": "Apparel",
+        "results": {
+            "LXTX": 3.61
+        },
+        "cgpa": 3.5
+    },
+    "24010401073": {
+        "name": "SALAMAH MEHERIER",
+        "batch": "24",
+        "college": "Unknown",
+        "dept": "Apparel",
+        "results": {
+            "LXTX": 3.0
+        },
+        "cgpa": 3.14
+    },
+    "24010401074": {
+        "name": "TAHMID NUR TAHSIN",
+        "batch": "24",
+        "college": "Unknown",
+        "dept": "Apparel",
+        "results": {
+            "LXTX": 3.61
+        },
+        "cgpa": 3.5
+    },
+    "24010401079": {
+        "name": "MD. OLID BISWAS",
+        "batch": "24",
+        "college": "Unknown",
+        "dept": "Apparel",
+        "results": {
+            "LXTX": 2.76
+        },
+        "cgpa": 2.88
+    },
+    "24010401080": {
+        "name": "ASFIA AFRIN",
+        "batch": "24",
+        "college": "Unknown",
+        "dept": "Apparel",
+        "results": {
+            "LXTX": 3.38
+        },
+        "cgpa": 3.28
+    },
+    "24010401081": {
+        "name": "MOHINE SARKER TISHA",
+        "batch": "24",
+        "college": "Unknown",
+        "dept": "Apparel",
+        "results": {
+            "LXTX": 3.7
+        },
+        "cgpa": 3.56
+    },
+    "24010401082": {
+        "name": "TANZEENA AKTER",
+        "batch": "24",
+        "college": "Unknown",
+        "dept": "Apparel",
+        "results": {
+            "LXTX": 3.33
+        },
+        "cgpa": 3.08
+    },
+    "23010401005": {
+        "name": "MAYSHA ISLAM FABIHA",
+        "batch": "23",
+        "college": "Unknown",
+        "dept": "Apparel",
+        "results": {
+            "LXTX": 3.65
+        },
+        "cgpa": 3.52
+    },
+    "23010401065": {
+        "name": "JOYONTO MOJUMDER",
+        "batch": "23",
+        "college": "Unknown",
+        "dept": "Apparel",
+        "results": {
+            "LXTX": 2.56
+        },
+        "cgpa": 2.38
+    },
+    "22010401060": {
+        "name": "MD. FAHIM MUNTASIR",
+        "batch": "22",
+        "college": "Unknown",
+        "dept": "Apparel",
+        "results": {
+            "LXTX": 2.24
+        },
+        "cgpa": 2.16
     }
 }
