@@ -59582,5 +59582,305 @@
             "LXTX": 2.24
         },
         "cgpa": 2.16
+    },
+    "25010601005": {
+        "name": "MD. MAHIN UDDIN",
+        "batch": "25",
+        "college": "Unknown",
+        "dept": "Unknown",
+        "results": {
+            "LXTX": 2.9
+        },
+        "cgpa": 3.04
+    },
+    "25010601008": {
+        "name": "ARNIMA RAHMAN",
+        "batch": "25",
+        "college": "Unknown",
+        "dept": "Unknown",
+        "results": {
+            "LXTX": 3.94
+        },
+        "cgpa": 3.81
+    },
+    "25010601009": {
+        "name": "SUMAIYA JAHAN",
+        "batch": "25",
+        "college": "Unknown",
+        "dept": "Unknown",
+        "results": {
+            "LXTX": 3.18
+        },
+        "cgpa": 3.32
+    },
+    "25010601010": {
+        "name": "MAHZABIN SULTANA",
+        "batch": "25",
+        "college": "Unknown",
+        "dept": "Unknown",
+        "results": {
+            "LXTX": 2.6
+        },
+        "cgpa": 2.87
+    },
+    "25010601013": {
+        "name": "KINGSUK ROY",
+        "batch": "25",
+        "college": "Unknown",
+        "dept": "Unknown",
+        "results": {
+            "LXTX": 2.01
+        },
+        "cgpa": 2.42
+    },
+    "25010601017": {
+        "name": "MD. ABIR PK",
+        "batch": "25",
+        "college": "Unknown",
+        "dept": "Unknown",
+        "results": {
+            "LXTX": 1.87
+        },
+        "cgpa": 2.01
+    },
+    "25010601018": {
+        "name": "AL MUNTAKIM",
+        "batch": "25",
+        "college": "Unknown",
+        "dept": "Unknown",
+        "results": {
+            "LXTX": 3.26
+        },
+        "cgpa": 3.32
+    },
+    "25010601019": {
+        "name": "MAKSUDA AKTER",
+        "batch": "25",
+        "college": "Unknown",
+        "dept": "Unknown",
+        "results": {
+            "LXTX": 3.12
+        },
+        "cgpa": 3.22
+    },
+    "25010601020": {
+        "name": "MD. RAFSAN",
+        "batch": "25",
+        "college": "Unknown",
+        "dept": "Unknown",
+        "results": {
+            "LXTX": 2.6
+        },
+        "cgpa": 2.87
+    },
+    "25010601022": {
+        "name": "ABU SA YEED",
+        "batch": "25",
+        "college": "Unknown",
+        "dept": "Unknown",
+        "results": {
+            "LXTX": 2.85
+        },
+        "cgpa": 2.85
+    },
+    "25010601024": {
+        "name": "MD. RAIHAN RABBI",
+        "batch": "25",
+        "college": "Unknown",
+        "dept": "Unknown",
+        "results": {
+            "LXTX": 2.64
+        },
+        "cgpa": 2.53
+    },
+    "25010601026": {
+        "name": "SA YED SIAM",
+        "batch": "25",
+        "college": "Unknown",
+        "dept": "Unknown",
+        "results": {
+            "LXTX": 3.07
+        },
+        "cgpa": 3.05
+    },
+    "25010601027": {
+        "name": "MD. SHAHARUL",
+        "batch": "25",
+        "college": "Unknown",
+        "dept": "Unknown",
+        "results": {
+            "LXTX": 3.14
+        },
+        "cgpa": 3.13
+    },
+    "23011001002": {
+        "name": "SURAIYA BINTE REZA",
+        "batch": "23",
+        "college": "Unknown",
+        "dept": "Unknown",
+        "results": {
+            "LXTX": 3.97
+        },
+        "cgpa": 3.65
+    },
+    "23011001004": {
+        "name": "MOGAHD",
+        "batch": "23",
+        "college": "Unknown",
+        "dept": "Unknown",
+        "results": {
+            "LXTX": 2.87
+        },
+        "cgpa": 2.54
+    },
+    "23011001007": {
+        "name": "MD. RAFIN RAHMMAN",
+        "batch": "23",
+        "college": "Unknown",
+        "dept": "Unknown",
+        "results": {
+            "LXTX": 3.14
+        },
+        "cgpa": 2.95
+    },
+    "23011001008": {
+        "name": "NAHAN NAOUR SAMIHA",
+        "batch": "23",
+        "college": "Unknown",
+        "dept": "Unknown",
+        "results": {
+            "LXTX": 3.93
+        },
+        "cgpa": 3.58
+    },
+    "23011001009": {
+        "name": "MOHAMMAD TAHMMIDUL",
+        "batch": "23",
+        "college": "Unknown",
+        "dept": "Unknown",
+        "results": {
+            "LXTX": 3.89
+        },
+        "cgpa": 3.67
+    },
+    "23011001010": {
+        "name": "TAMZDD ISMAT RATYAN",
+        "batch": "23",
+        "college": "Unknown",
+        "dept": "Unknown",
+        "results": {
+            "LXTX": 3.99
+        },
+        "cgpa": 3.54
+    },
+    "23011001014": {
+        "name": "JAHD HOSSAIN",
+        "batch": "23",
+        "college": "Unknown",
+        "dept": "Unknown",
+        "results": {
+            "LXTX": 3.83
+        },
+        "cgpa": 3.67
+    },
+    "23011001015": {
+        "name": "PROTTAY GANGULY",
+        "batch": "23",
+        "college": "Unknown",
+        "dept": "Unknown",
+        "results": {
+            "LXTX": 3.61
+        },
+        "cgpa": 3.11
+    },
+    "23011001019": {
+        "name": "MD. JOSIBUL HASAN",
+        "batch": "23",
+        "college": "Unknown",
+        "dept": "Unknown",
+        "results": {
+            "LXTX": 3.83
+        },
+        "cgpa": 3.39
+    },
+    "23011001024": {
+        "name": "SM SARTAJ ZAMAN",
+        "batch": "23",
+        "college": "Unknown",
+        "dept": "Unknown",
+        "results": {
+            "LXTX": 3.95
+        },
+        "cgpa": 3.73
+    },
+    "23011001026": {
+        "name": "AFNAN SAMI",
+        "batch": "23",
+        "college": "Unknown",
+        "dept": "Unknown",
+        "results": {
+            "LXTX": 3.87
+        },
+        "cgpa": 3.6
+    },
+    "23011001029": {
+        "name": "AL SHAHRIER MAHIN",
+        "batch": "23",
+        "college": "Unknown",
+        "dept": "Unknown",
+        "results": {
+            "LXTX": 3.88
+        },
+        "cgpa": 3.33
+    },
+    "23011001030": {
+        "name": "SADIBA AHMED",
+        "batch": "23",
+        "college": "Unknown",
+        "dept": "Unknown",
+        "results": {
+            "LXTX": 3.93
+        },
+        "cgpa": 3.74
+    },
+    "23011001033": {
+        "name": "ALFE SUNNY",
+        "batch": "23",
+        "college": "Unknown",
+        "dept": "Unknown",
+        "results": {
+            "LXTX": 3.91
+        },
+        "cgpa": 3.61
+    },
+    "23011001034": {
+        "name": "MD. RADOWAN ISLAM",
+        "batch": "23",
+        "college": "Unknown",
+        "dept": "Unknown",
+        "results": {
+            "LXTX": 3.96
+        },
+        "cgpa": 3.75
+    },
+    "23011001036": {
+        "name": "LIKHON CHANDRA PAL",
+        "batch": "23",
+        "college": "Unknown",
+        "dept": "Unknown",
+        "results": {
+            "LXTX": 3.89
+        },
+        "cgpa": 3.49
+    },
+    "22011001021": {
+        "name": "MUSRAT JAHANMIRA",
+        "batch": "22",
+        "college": "Unknown",
+        "dept": "Unknown",
+        "results": {
+            "LXTX": 3.72
+        },
+        "cgpa": 3.17
     }
 }
