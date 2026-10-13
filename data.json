@@ -30323,10 +30323,11 @@
         "college": "Tangail Textile Engineering College",
         "dept": "Yarn",
         "results": {
-            "L1T1": 2.93
+            "L1T1": 2.93,
+            "L2T1": 2.62
         },
         "retakes": [],
-        "cgpa": 2.93
+        "cgpa": 2.54
     },
     "23070101024": {
         "name": "MD. OMAR FARUCK",
@@ -35762,10 +35763,11 @@
         "dept": "Yarn",
         "results": {
             "L1T2": 2.74,
-            "LXTX": 2.74
+            "LXTX": 2.74,
+            "L2T1": 3.2
         },
         "retakes": [],
-        "cgpa": 2.77
+        "cgpa": 2.92
     },
     "24070101003": {
         "name": "RIFITAKHAN",
@@ -35773,10 +35775,11 @@
         "college": "Tangail Textile Engineering College",
         "dept": "Yarn",
         "results": {
-            "L1T2": 3.35
+            "L1T2": 3.35,
+            "L2T1": 3.5
         },
         "retakes": [],
-        "cgpa": 3.27
+        "cgpa": 3.35
     },
     "24070101004": {
         "name": "MD. RIFATUDDIN",
@@ -35797,10 +35800,11 @@
         "dept": "Yarn",
         "results": {
             "L1T2": 2.91,
-            "LXTX": 2.91
+            "LXTX": 2.91,
+            "L2T1": 2.72
         },
         "retakes": [],
-        "cgpa": 2.62
+        "cgpa": 2.65
     },
     "24070101006": {
         "name": "MD. SALMAN SADIK",
@@ -35808,10 +35812,11 @@
         "college": "Tangail Textile Engineering College",
         "dept": "Yarn",
         "results": {
-            "L1T2": 3.57
+            "L1T2": 3.57,
+            "L2T1": 3.42
         },
         "retakes": [],
-        "cgpa": 3.32
+        "cgpa": 3.35
     },
     "24070101007": {
         "name": "MD. FIROZ RAHMAN",
@@ -35820,10 +35825,11 @@
         "dept": "Yarn",
         "results": {
             "L1T2": 2.77,
-            "LXTX": 2.77
+            "LXTX": 2.77,
+            "L2T1": 2.92
         },
         "retakes": [],
-        "cgpa": 2.74
+        "cgpa": 2.8
     },
     "24070101008": {
         "name": "MD. HARUNAR RASHID",
@@ -35831,10 +35837,11 @@
         "college": "Tangail Textile Engineering College",
         "dept": "Yarn",
         "results": {
-            "L1T2": 2.86
+            "L1T2": 2.86,
+            "L2T1": 2.61
         },
         "retakes": [],
-        "cgpa": 2.77
+        "cgpa": 2.63
     },
     "24070101009": {
         "name": "MD. POLASH RANA",
@@ -35843,10 +35850,11 @@
         "dept": "Yarn",
         "results": {
             "L1T2": 2.8,
-            "LXTX": 2.8
+            "LXTX": 2.8,
+            "L2T1": 3.25
         },
         "retakes": [],
-        "cgpa": 2.78
+        "cgpa": 2.95
     },
     "24070101011": {
         "name": "MD. INFiruR RAHMAN",
@@ -35855,10 +35863,11 @@
         "dept": "Yarn",
         "results": {
             "L1T2": 3.22,
-            "LXTX": 3.22
+            "LXTX": 3.22,
+            "L2T1": 3.4
         },
         "retakes": [],
-        "cgpa": 3.04
+        "cgpa": 3.17
     },
     "24070101014": {
         "name": "SHONTOSH KUMAR ROY",
@@ -35867,10 +35876,11 @@
         "dept": "Yarn",
         "results": {
             "L1T2": 2.7,
-            "LXTX": 2.7
+            "LXTX": 2.7,
+            "L2T1": 2.95
         },
         "retakes": [],
-        "cgpa": 2.72
+        "cgpa": 2.76
     },
     "24070101016": {
         "name": "ISRAT MAHIM ALIF",
@@ -35879,10 +35889,11 @@
         "dept": "Yarn",
         "results": {
             "L1T2": 3.02,
-            "LXTX": 3.02
+            "LXTX": 3.02,
+            "L2T1": 3.34
         },
         "retakes": [],
-        "cgpa": 2.78
+        "cgpa": 2.98
     },
     "24070101017": {
         "name": "AKASH AHAMMED",
@@ -35890,10 +35901,11 @@
         "college": "Tangail Textile Engineering College",
         "dept": "Yarn",
         "results": {
-            "L1T2": 2.95
+            "L1T2": 2.95,
+            "L2T1": 3.1
         },
         "retakes": [],
-        "cgpa": 2.85
+        "cgpa": 2.94
     },
     "24070101018": {
         "name": "IBRAHIM HOS SEN SAIKAT",
@@ -35901,10 +35913,11 @@
         "college": "Tangail Textile Engineering College",
         "dept": "Yarn",
         "results": {
-            "L1T2": 2.67
+            "L1T2": 2.67,
+            "L2T1": 2.82
         },
         "retakes": [],
-        "cgpa": 2.65
+        "cgpa": 2.71
     },
     "24070101020": {
         "name": "MD.AL-AMIN",
@@ -35913,10 +35926,11 @@
         "dept": "Yarn",
         "results": {
             "L1T2": 2.72,
-            "LXTX": 2.72
+            "LXTX": 2.72,
+            "L2T1": 3.11
         },
         "retakes": [],
-        "cgpa": 2.69
+        "cgpa": 2.81
     },
     "24070101021": {
         "name": "MD. RAJIM MIAH",
@@ -35925,10 +35939,11 @@
         "dept": "Yarn",
         "results": {
             "L1T2": 2.88,
-            "LXTX": 2.88
+            "LXTX": 2.88,
+            "L2T1": 2.64
         },
         "retakes": [],
-        "cgpa": 2.85
+        "cgpa": 2.73
     },
     "24070101022": {
         "name": "MD. SHAFEUL ISLAM SIFAT",
@@ -35937,10 +35952,11 @@
         "dept": "Yarn",
         "results": {
             "L1T2": 3.09,
-            "LXTX": 3.09
+            "LXTX": 3.09,
+            "L2T1": 2.85
         },
         "retakes": [],
-        "cgpa": 3.03
+        "cgpa": 2.89
     },
     "24070101023": {
         "name": "MD. RAKIB HOSSAIN",
@@ -35949,10 +35965,11 @@
         "dept": "Yarn",
         "results": {
             "L1T2": 2.66,
-            "LXTX": 2.66
+            "LXTX": 2.66,
+            "L2T1": 2.7
         },
         "retakes": [],
-        "cgpa": 2.66
+        "cgpa": 2.68
     },
     "24070101026": {
         "name": "MD. JOY AHMMED",
@@ -35960,10 +35977,11 @@
         "college": "Tangail Textile Engineering College",
         "dept": "Yarn",
         "results": {
-            "L1T2": 2.58
+            "L1T2": 2.58,
+            "L2T1": 2.58
         },
         "retakes": [],
-        "cgpa": 2.56
+        "cgpa": 2.57
     },
     "24070101027": {
         "name": "MD. RASEL ALI",
@@ -35971,10 +35989,11 @@
         "college": "Tangail Textile Engineering College",
         "dept": "Yarn",
         "results": {
-            "L1T2": 2.59
+            "L1T2": 2.59,
+            "L2T1": 2.74
         },
         "retakes": [],
-        "cgpa": 2.6
+        "cgpa": 2.65
     },
     "24070101029": {
         "name": "SYED ABID HASAN",
@@ -35983,10 +36002,11 @@
         "dept": "Yarn",
         "results": {
             "L1T2": 2.64,
-            "LXTX": 2.64
+            "LXTX": 2.64,
+            "L2T1": 2.76
         },
         "retakes": [],
-        "cgpa": 2.63
+        "cgpa": 2.68
     },
     "24070101030": {
         "name": "MD. PIROG MIA",
@@ -35994,10 +36014,11 @@
         "college": "Tangail Textile Engineering College",
         "dept": "Yarn",
         "results": {
-            "L1T2": 3.3
+            "L1T2": 3.3,
+            "L2T1": 3.06
         },
         "retakes": [],
-        "cgpa": 3.34
+        "cgpa": 3.24
     },
     "23070101009": {
         "name": "MD. FAHIM HOSSAIN KHAN",
@@ -36005,10 +36026,11 @@
         "college": "Tangail Textile Engineering College",
         "dept": "Yarn",
         "results": {
-            "L1T2": 3.95
+            "L1T2": 3.95,
+            "L2T1": 3.86
         },
         "retakes": [],
-        "cgpa": 3.92
+        "cgpa": 3.9
     },
     "24070201001": {
         "name": "MD. SADIQUR RAHMAN",
@@ -36028,10 +36050,11 @@
         "dept": "Fabric",
         "results": {
             "L1T2": 2.98,
-            "LXTX": 2.98
+            "LXTX": 2.98,
+            "L2T1": 3.39
         },
         "retakes": [],
-        "cgpa": 3.12
+        "cgpa": 3.21
     },
     "24070201006": {
         "name": "SAKIB HASAN HRIDOY",
@@ -36040,10 +36063,11 @@
         "dept": "Fabric",
         "results": {
             "L1T2": 3.1,
-            "LXTX": 3.1
+            "LXTX": 3.1,
+            "L2T1": 3.3
         },
         "retakes": [],
-        "cgpa": 3.16
+        "cgpa": 3.21
     },
     "24070201007": {
         "name": "MD SOJIB HOSSAIN",
@@ -36051,10 +36075,11 @@
         "college": "Tangail Textile Engineering College",
         "dept": "Fabric",
         "results": {
-            "L1T2": 2.68
+            "L1T2": 2.68,
+            "L2T1": 2.58
         },
         "retakes": [],
-        "cgpa": 2.71
+        "cgpa": 2.63
     },
     "24070201008": {
         "name": "MD. MOSHIUR SARKER",
@@ -36063,10 +36088,11 @@
         "dept": "Fabric",
         "results": {
             "L1T2": 2.9,
-            "LXTX": 2.9
+            "LXTX": 2.9,
+            "L2T1": 2.98
         },
         "retakes": [],
-        "cgpa": 2.84
+        "cgpa": 2.88
     },
     "24070201009": {
         "name": "SANJIT CHANDRA PAUL",
@@ -36075,10 +36101,11 @@
         "dept": "Fabric",
         "results": {
             "L1T2": 2.76,
-            "LXTX": 2.76
+            "LXTX": 2.76,
+            "L2T1": 3.28
         },
         "retakes": [],
-        "cgpa": 2.83
+        "cgpa": 2.99
     },
     "24070201011": {
         "name": "MD. ANIK HASSAN",
@@ -36086,10 +36113,11 @@
         "college": "Tangail Textile Engineering College",
         "dept": "Fabric",
         "results": {
-            "L1T2": 2.58
+            "L1T2": 2.58,
+            "L2T1": 2.73
         },
         "retakes": [],
-        "cgpa": 2.52
+        "cgpa": 2.59
     },
     "24070201012": {
         "name": "MD.RONI MIA",
@@ -36097,10 +36125,11 @@
         "college": "Tangail Textile Engineering College",
         "dept": "Fabric",
         "results": {
-            "L1T2": 2.8
+            "L1T2": 2.8,
+            "L2T1": 2.9
         },
         "retakes": [],
-        "cgpa": 2.95
+        "cgpa": 2.93
     },
     "24070201013": {
         "name": "MD. TANJIMUL HASAN",
@@ -36108,10 +36137,11 @@
         "college": "Tangail Textile Engineering College",
         "dept": "Fabric",
         "results": {
-            "L1T2": 2.59
+            "L1T2": 2.59,
+            "L2T1": 2.73
         },
         "retakes": [],
-        "cgpa": 2.63
+        "cgpa": 2.66
     },
     "24070201015": {
         "name": "MD. NAY EEM HOSSEN",
@@ -36120,10 +36150,11 @@
         "dept": "Fabric",
         "results": {
             "L1T2": 2.5,
-            "LXTX": 2.5
+            "LXTX": 2.5,
+            "L2T1": 2.6
         },
         "retakes": [],
-        "cgpa": 2.48
+        "cgpa": 2.53
     },
     "24070201016": {
         "name": "MANIK CHANDRA ROY",
@@ -36132,10 +36163,11 @@
         "dept": "Fabric",
         "results": {
             "L1T2": 2.69,
-            "LXTX": 2.69
+            "LXTX": 2.69,
+            "L2T1": 2.81
         },
         "retakes": [],
-        "cgpa": 2.67
+        "cgpa": 2.72
     },
     "24070201018": {
         "name": "MST ROZOBI BISWA S",
@@ -36144,10 +36176,11 @@
         "dept": "Fabric",
         "results": {
             "L1T2": 3.0,
-            "LXTX": 3.0
+            "LXTX": 3.0,
+            "L2T1": 3.1
         },
         "retakes": [],
-        "cgpa": 3.01
+        "cgpa": 3.04
     },
     "24070201019": {
         "name": "MD.BAY EZIED BOSTAMI",
@@ -36155,10 +36188,11 @@
         "college": "Tangail Textile Engineering College",
         "dept": "Fabric",
         "results": {
-            "L1T2": 2.75
+            "L1T2": 2.75,
+            "L2T1": 2.74
         },
         "retakes": [],
-        "cgpa": 2.74
+        "cgpa": 2.71
     },
     "24070201021": {
         "name": "MD. AMIR HOSSAIN RAKIB",
@@ -36178,10 +36212,11 @@
         "college": "Tangail Textile Engineering College",
         "dept": "Fabric",
         "results": {
-            "L1T2": 2.91
+            "L1T2": 2.91,
+            "L2T1": 3.16
         },
         "retakes": [],
-        "cgpa": 2.9
+        "cgpa": 2.99
     },
     "24070201024": {
         "name": "MD. AL-AMIN BISWAS",
@@ -36190,10 +36225,11 @@
         "dept": "Fabric",
         "results": {
             "L1T2": 2.71,
-            "LXTX": 2.71
+            "LXTX": 2.71,
+            "L2T1": 3.11
         },
         "retakes": [],
-        "cgpa": 2.75
+        "cgpa": 2.88
     },
     "24070201029": {
         "name": "MD. RAKIB ROSSEN",
@@ -36202,10 +36238,11 @@
         "dept": "Fabric",
         "results": {
             "L1T2": 3.08,
-            "LXTX": 3.08
+            "LXTX": 3.08,
+            "L2T1": 2.91
         },
         "retakes": [],
-        "cgpa": 3.05
+        "cgpa": 3.0
     },
     "24070201030": {
         "name": "MD. AHSAN HABIB",
@@ -36214,10 +36251,11 @@
         "dept": "Fabric",
         "results": {
             "L1T2": 2.5,
-            "LXTX": 2.5
+            "LXTX": 2.5,
+            "L2T1": 2.73
         },
         "retakes": [],
-        "cgpa": 2.48
+        "cgpa": 2.61
     },
     "23070201005": {
         "name": "MD. SHARIF .",
@@ -36225,10 +36263,11 @@
         "college": "Tangail Textile Engineering College",
         "dept": "Fabric",
         "results": {
-            "L1T2": 2.31
+            "L1T2": 2.31,
+            "L2T1": 2.42
         },
         "retakes": [],
-        "cgpa": 2.31
+        "cgpa": 2.33
     },
     "23070201018": {
         "name": "PROKET CHANDRA ROY",
@@ -36237,10 +36276,11 @@
         "dept": "Fabric",
         "results": {
             "L1T2": 2.7,
-            "LXTX": 2.7
+            "LXTX": 2.7,
+            "L2T1": 3.16
         },
         "retakes": [],
-        "cgpa": 2.66
+        "cgpa": 2.83
     },
     "24070301001": {
         "name": "MD. SI GAR HOSSAIN",
@@ -36249,10 +36289,11 @@
         "dept": "Wet Process",
         "results": {
             "L1T2": 2.93,
-            "LXTX": 2.93
+            "LXTX": 2.93,
+            "L2T1": 2.63
         },
         "retakes": [],
-        "cgpa": 2.84
+        "cgpa": 2.78
     },
     "24070301004": {
         "name": "MD.NURUL AMIN NILOY",
@@ -36261,10 +36302,11 @@
         "dept": "Wet Process",
         "results": {
             "L1T2": 2.74,
-            "LXTX": 2.74
+            "LXTX": 2.74,
+            "L2T1": 2.93
         },
         "retakes": [],
-        "cgpa": 2.74
+        "cgpa": 2.81
     },
     "24070301005": {
         "name": "MD.SAJOL",
@@ -36273,10 +36315,11 @@
         "dept": "Wet Process",
         "results": {
             "L1T2": 3.12,
-            "LXTX": 3.12
+            "LXTX": 3.12,
+            "L2T1": 3.13
         },
         "retakes": [],
-        "cgpa": 3.16
+        "cgpa": 3.15
     },
     "24070301006": {
         "name": "AMINOR RAHMAN",
@@ -36285,10 +36328,11 @@
         "dept": "Wet Process",
         "results": {
             "L1T2": 3.2,
-            "LXTX": 3.2
+            "LXTX": 3.2,
+            "L2T1": 2.96
         },
         "retakes": [],
-        "cgpa": 3.1
+        "cgpa": 3.05
     },
     "24070301009": {
         "name": "RAFIQUZZAMAN LEON",
@@ -36296,10 +36340,11 @@
         "college": "Tangail Textile Engineering College",
         "dept": "Wet Process",
         "results": {
-            "L1T2": 3.24
+            "L1T2": 3.24,
+            "L2T1": 3.2
         },
         "retakes": [],
-        "cgpa": 3.34
+        "cgpa": 3.29
     },
     "24070301010": {
         "name": "MD. ABU SUFIAN",
@@ -36308,10 +36353,11 @@
         "dept": "Wet Process",
         "results": {
             "L1T2": 3.07,
-            "LXTX": 3.07
+            "LXTX": 3.07,
+            "L2T1": 3.0
         },
         "retakes": [],
-        "cgpa": 3.01
+        "cgpa": 3.0
     },
     "24070301011": {
         "name": "ROKEYA",
@@ -36320,10 +36366,11 @@
         "dept": "Wet Process",
         "results": {
             "L1T2": 3.24,
-            "LXTX": 3.24
+            "LXTX": 3.24,
+            "L2T1": 3.17
         },
         "retakes": [],
-        "cgpa": 3.22
+        "cgpa": 3.21
     },
     "24070301014": {
         "name": "MD. FIROJ AHMED",
@@ -36332,10 +36379,11 @@
         "dept": "Wet Process",
         "results": {
             "L1T2": 3.11,
-            "LXTX": 3.11
+            "LXTX": 3.11,
+            "L2T1": 2.9
         },
         "retakes": [],
-        "cgpa": 3.19
+        "cgpa": 3.09
     },
     "24070301015": {
         "name": "MD. ABUBAKAR",
@@ -36344,10 +36392,11 @@
         "dept": "Wet Process",
         "results": {
             "L1T2": 2.62,
-            "LXTX": 2.62
+            "LXTX": 2.62,
+            "L2T1": 2.6
         },
         "retakes": [],
-        "cgpa": 2.66
+        "cgpa": 2.64
     },
     "24070301019": {
         "name": "RONIKHASAN",
@@ -36355,10 +36404,11 @@
         "college": "Tangail Textile Engineering College",
         "dept": "Wet Process",
         "results": {
-            "L1T2": 3.05
+            "L1T2": 3.05,
+            "L2T1": 3.07
         },
         "retakes": [],
-        "cgpa": 2.96
+        "cgpa": 2.95
     },
     "24070301020": {
         "name": "MD. TARIKUL ISLAM",
@@ -36379,10 +36429,11 @@
         "dept": "Wet Process",
         "results": {
             "L1T2": 3.17,
-            "LXTX": 3.17
+            "LXTX": 3.17,
+            "L2T1": 3.1
         },
         "retakes": [],
-        "cgpa": 3.1
+        "cgpa": 2.94
     },
     "24070301024": {
         "name": "MD. JABER IBN JAMAN",
@@ -36391,10 +36442,11 @@
         "dept": "Wet Process",
         "results": {
             "L1T2": 2.83,
-            "LXTX": 2.83
+            "LXTX": 2.83,
+            "L2T1": 3.4
         },
         "retakes": [],
-        "cgpa": 2.73
+        "cgpa": 2.96
     },
     "24070301025": {
         "name": "MD. SIFAT",
@@ -36402,10 +36454,11 @@
         "college": "Tangail Textile Engineering College",
         "dept": "Wet Process",
         "results": {
-            "L1T2": 2.85
+            "L1T2": 2.85,
+            "L2T1": 2.87
         },
         "retakes": [],
-        "cgpa": 2.7
+        "cgpa": 2.75
     },
     "24070301026": {
         "name": "MD. JAHANGIR ALAM",
@@ -36414,10 +36467,11 @@
         "dept": "Wet Process",
         "results": {
             "L1T2": 2.72,
-            "LXTX": 2.72
+            "LXTX": 2.72,
+            "L2T1": 2.87
         },
         "retakes": [],
-        "cgpa": 2.67
+        "cgpa": 2.71
     },
     "24070301027": {
         "name": "MD.ALAMIN",
@@ -36425,10 +36479,11 @@
         "college": "Tangail Textile Engineering College",
         "dept": "Wet Process",
         "results": {
-            "L1T2": 2.7
+            "L1T2": 2.7,
+            "L2T1": 2.94
         },
         "retakes": [],
-        "cgpa": 2.75
+        "cgpa": 2.77
     },
     "24070301028": {
         "name": "MD. MINHAJ MEHEDI",
@@ -36482,21 +36537,23 @@
         "dept": "Wet Process",
         "results": {
             "L1T2": 2.86,
-            "LXTX": 2.86
+            "LXTX": 2.86,
+            "L2T1": 2.88
         },
         "retakes": [],
         "cgpa": 2.8
     },
     "24070401001": {
-        "name": "Unknown",
+        "name": "MD. JUBAYER MAHABUB JESHAN",
         "batch": "24",
         "college": "Tangail Textile Engineering College",
         "dept": "Apparel",
         "results": {
-            "L1T2": 3.76
+            "L1T2": 3.76,
+            "L2T1": 3.64
         },
         "retakes": [],
-        "cgpa": 3.71
+        "cgpa": 3.69
     },
     "24070401003": {
         "name": "HIMEL DEWAN",
@@ -36504,10 +36561,11 @@
         "college": "Tangail Textile Engineering College",
         "dept": "Apparel",
         "results": {
-            "L1T2": 3.17
+            "L1T2": 3.17,
+            "L2T1": 2.86
         },
         "retakes": [],
-        "cgpa": 3.1
+        "cgpa": 3.02
     },
     "24070401005": {
         "name": "RUMA",
@@ -36516,10 +36574,11 @@
         "dept": "Apparel",
         "results": {
             "L1T2": 3.17,
-            "LXTX": 3.17
+            "LXTX": 3.17,
+            "L2T1": 3.04
         },
         "retakes": [],
-        "cgpa": 3.16
+        "cgpa": 3.13
     },
     "24070401006": {
         "name": "MD. JAHID HASAN",
@@ -36539,10 +36598,11 @@
         "dept": "Apparel",
         "results": {
             "L1T2": 2.92,
-            "LXTX": 2.92
+            "LXTX": 2.92,
+            "L2T1": 2.79
         },
         "retakes": [],
-        "cgpa": 2.98
+        "cgpa": 2.9
     },
     "24070401010": {
         "name": "SANCHOY CHANDRA ROY",
@@ -36551,10 +36611,11 @@
         "dept": "Apparel",
         "results": {
             "L1T2": 2.97,
-            "LXTX": 2.97
+            "LXTX": 2.97,
+            "L2T1": 2.97
         },
         "retakes": [],
-        "cgpa": 2.89
+        "cgpa": 2.87
     },
     "24070401011": {
         "name": "TUSHARKHAN",
@@ -36575,10 +36636,11 @@
         "dept": "Apparel",
         "results": {
             "L1T2": 3.74,
-            "LXTX": 3.74
+            "LXTX": 3.74,
+            "L2T1": 3.49
         },
         "retakes": [],
-        "cgpa": 3.65
+        "cgpa": 3.6
     },
     "24070401014": {
         "name": "ROBIUL A WOUL",
@@ -36586,7 +36648,8 @@
         "college": "Tangail Textile Engineering College",
         "dept": "Apparel",
         "results": {
-            "L1T2": 2.76
+            "L1T2": 2.76,
+            "L2T1": 2.61
         },
         "retakes": [],
         "cgpa": 2.61
@@ -36701,10 +36764,11 @@
         "dept": "Apparel",
         "results": {
             "L1T2": 3.15,
-            "LXTX": 3.15
+            "LXTX": 3.15,
+            "L2T1": 2.67
         },
         "retakes": [],
-        "cgpa": 3.16
+        "cgpa": 3.01
     },
     "24070401028": {
         "name": "SHAKIB SIDDIQUI",
@@ -36712,10 +36776,11 @@
         "college": "Tangail Textile Engineering College",
         "dept": "Apparel",
         "results": {
-            "L1T2": 3.39
+            "L1T2": 3.39,
+            "L2T1": 3.29
         },
         "retakes": [],
-        "cgpa": 3.44
+        "cgpa": 3.39
     },
     "24070401029": {
         "name": "MD. SUMON SHAH",
@@ -36723,10 +36788,11 @@
         "college": "Tangail Textile Engineering College",
         "dept": "Apparel",
         "results": {
-            "L1T2": 2.82
+            "L1T2": 2.82,
+            "L2T1": 2.53
         },
         "retakes": [],
-        "cgpa": 2.82
+        "cgpa": 2.74
     },
     "24070401030": {
         "name": "MD. ARIFUL RASEL",
@@ -36734,10 +36800,11 @@
         "college": "Tangail Textile Engineering College",
         "dept": "Apparel",
         "results": {
-            "L1T2": 2.99
+            "L1T2": 2.99,
+            "L2T1": 2.84
         },
         "retakes": [],
-        "cgpa": 2.88
+        "cgpa": 2.85
     },
     "24070401031": {
         "name": "KONAKHATUN",
@@ -36746,10 +36813,11 @@
         "dept": "Apparel",
         "results": {
             "L1T2": 2.61,
-            "LXTX": 2.61
+            "LXTX": 2.61,
+            "L2T1": 2.47
         },
         "retakes": [],
-        "cgpa": 2.71
+        "cgpa": 2.63
     },
     "24070401032": {
         "name": "SAMIUL ISLAM ABIR",
@@ -36758,10 +36826,11 @@
         "dept": "Apparel",
         "results": {
             "L1T2": 2.98,
-            "LXTX": 2.98
+            "LXTX": 2.98,
+            "L2T1": 2.96
         },
         "retakes": [],
-        "cgpa": 3.0
+        "cgpa": 2.99
     },
     "24080301001": {
         "name": "SUMON",
@@ -36769,10 +36838,11 @@
         "college": "NTEC",
         "dept": "Wet Process",
         "results": {
-            "L1T2": 3.5
+            "L1T2": 3.5,
+            "L2T1": 3.2
         },
         "retakes": [],
-        "cgpa": 3.54
+        "cgpa": 3.42
     },
     "24080301002": {
         "name": "MD. FAZLA RABBI",
@@ -36793,10 +36863,11 @@
         "dept": "Wet Process",
         "results": {
             "L1T2": 3.2,
-            "LXTX": 3.2
+            "LXTX": 3.2,
+            "L2T1": 2.54
         },
         "retakes": [],
-        "cgpa": 3.0
+        "cgpa": 2.83
     },
     "24080301005": {
         "name": "MD. MIRAZUL ISLAM MIRAJ",
@@ -36804,10 +36875,11 @@
         "college": "NTEC",
         "dept": "Wet Process",
         "results": {
-            "L1T2": 2.92
+            "L1T2": 2.92,
+            "L2T1": 2.87
         },
         "retakes": [],
-        "cgpa": 2.92
+        "cgpa": 2.85
     },
     "24080301007": {
         "name": "MD. JA YED HASAN",
@@ -36816,10 +36888,11 @@
         "dept": "Wet Process",
         "results": {
             "L1T2": 3.26,
-            "LXTX": 3.26
+            "LXTX": 3.26,
+            "L2T1": 3.05
         },
         "retakes": [],
-        "cgpa": 3.22
+        "cgpa": 3.16
     },
     "24080301008": {
         "name": "MD. MONIR HOSSEN",
@@ -36838,10 +36911,11 @@
         "college": "NTEC",
         "dept": "Wet Process",
         "results": {
-            "L1T2": 2.83
+            "L1T2": 2.83,
+            "L2T1": 2.5
         },
         "retakes": [],
-        "cgpa": 2.9
+        "cgpa": 2.74
     },
     "24080301010": {
         "name": "IQBAL HOSSAIN",
@@ -36850,10 +36924,11 @@
         "dept": "Wet Process",
         "results": {
             "L1T2": 2.74,
-            "LXTX": 2.74
+            "LXTX": 2.74,
+            "L2T1": 2.51
         },
         "retakes": [],
-        "cgpa": 2.7
+        "cgpa": 2.63
     },
     "24080301014": {
         "name": "NURALAM",
@@ -36862,10 +36937,11 @@
         "dept": "Wet Process",
         "results": {
             "L1T2": 2.67,
-            "LXTX": 2.67
+            "LXTX": 2.67,
+            "L2T1": 2.67
         },
         "retakes": [],
-        "cgpa": 2.64
+        "cgpa": 2.67
     },
     "24080301017": {
         "name": "SHOPNIL AHMED ASHIK",
@@ -36874,10 +36950,11 @@
         "dept": "Wet Process",
         "results": {
             "L1T2": 2.92,
-            "LXTX": 2.92
+            "LXTX": 2.92,
+            "L2T1": 2.68
         },
         "retakes": [],
-        "cgpa": 2.81
+        "cgpa": 2.77
     },
     "24080301018": {
         "name": "MD. ANAMUL HAQUE",
@@ -36885,10 +36962,11 @@
         "college": "NTEC",
         "dept": "Wet Process",
         "results": {
-            "L1T2": 2.55
+            "L1T2": 2.55,
+            "L2T1": 2.5
         },
         "retakes": [],
-        "cgpa": 2.61
+        "cgpa": 2.58
     },
     "24080301019": {
         "name": "JASIKA AKTER",
@@ -36896,10 +36974,11 @@
         "college": "NTEC",
         "dept": "Wet Process",
         "results": {
-            "L1T2": 2.76
+            "L1T2": 2.76,
+            "L2T1": 2.54
         },
         "retakes": [],
-        "cgpa": 2.68
+        "cgpa": 2.63
     },
     "24080301020": {
         "name": "MD.OMAR ALI",
@@ -36908,7 +36987,8 @@
         "dept": "Wet Process",
         "results": {
             "L1T2": 2.27,
-            "LXTX": 2.27
+            "LXTX": 2.27,
+            "L2T1": 2.25
         },
         "retakes": [],
         "cgpa": 2.28
@@ -36920,10 +37000,11 @@
         "dept": "Wet Process",
         "results": {
             "L1T2": 2.74,
-            "LXTX": 2.74
+            "LXTX": 2.74,
+            "L2T1": 2.25
         },
         "retakes": [],
-        "cgpa": 2.74
+        "cgpa": 2.57
     },
     "24080301023": {
         "name": "MD. RAKIB MIA",
@@ -36932,10 +37013,11 @@
         "dept": "Wet Process",
         "results": {
             "L1T2": 2.5,
-            "LXTX": 2.5
+            "LXTX": 2.5,
+            "L2T1": 2.5
         },
         "retakes": [],
-        "cgpa": 2.62
+        "cgpa": 2.56
     },
     "24080301026": {
         "name": "AL AMIN HOSEN",
@@ -36944,10 +37026,11 @@
         "dept": "Wet Process",
         "results": {
             "L1T2": 2.45,
-            "LXTX": 2.45
+            "LXTX": 2.45,
+            "L2T1": 2.5
         },
         "retakes": [],
-        "cgpa": 2.52
+        "cgpa": 2.48
     },
     "24080301027": {
         "name": "JAHANGIR ALAM",
@@ -36956,10 +37039,11 @@
         "dept": "Wet Process",
         "results": {
             "L1T2": 2.65,
-            "LXTX": 2.65
+            "LXTX": 2.65,
+            "L2T1": 2.62
         },
         "retakes": [],
-        "cgpa": 2.58
+        "cgpa": 2.6
     },
     "24080301029": {
         "name": "MD. EMTIAJ HASAN OVI",
@@ -36968,10 +37052,11 @@
         "dept": "Wet Process",
         "results": {
             "L1T2": 2.92,
-            "LXTX": 2.92
+            "LXTX": 2.92,
+            "L2T1": 2.37
         },
         "retakes": [],
-        "cgpa": 2.73
+        "cgpa": 2.57
     },
     "24080301030": {
         "name": "MST. AKLIMA KHATUN",
@@ -36980,10 +37065,11 @@
         "dept": "Wet Process",
         "results": {
             "L1T2": 3.03,
-            "LXTX": 3.03
+            "LXTX": 3.03,
+            "L2T1": 2.4
         },
         "retakes": [],
-        "cgpa": 2.98
+        "cgpa": 2.79
     },
     "24080301031": {
         "name": "NAY EEM HOSSAIN",
@@ -37004,10 +37090,11 @@
         "dept": "Wet Process",
         "results": {
             "L1T2": 3.68,
-            "LXTX": 3.68
+            "LXTX": 3.68,
+            "L2T1": 3.11
         },
         "retakes": [],
-        "cgpa": 3.51
+        "cgpa": 3.37
     },
     "22080301016": {
         "name": "APUMIA",
@@ -37016,10 +37103,11 @@
         "dept": "Wet Process",
         "results": {
             "L1T2": 2.72,
-            "LXTX": 2.72
+            "LXTX": 2.72,
+            "L2T1": 2.35
         },
         "retakes": [],
-        "cgpa": 2.67
+        "cgpa": 2.54
     },
     "24080401001": {
         "name": "TAWSHIF AHMED SHIHAB",
@@ -37040,10 +37128,11 @@
         "dept": "Apparel",
         "results": {
             "L1T2": 3.05,
-            "LXTX": 3.05
+            "LXTX": 3.05,
+            "L2T1": 2.78
         },
         "retakes": [],
-        "cgpa": 2.93
+        "cgpa": 2.88
     },
     "24080401003": {
         "name": "MD JAHID HASAN MON",
@@ -37052,10 +37141,11 @@
         "dept": "Apparel",
         "results": {
             "L1T2": 2.77,
-            "LXTX": 2.77
+            "LXTX": 2.77,
+            "L2T1": 2.42
         },
         "retakes": [],
-        "cgpa": 2.72
+        "cgpa": 2.6
     },
     "24080401005": {
         "name": "MD. RIFATHASAN",
@@ -37063,10 +37153,11 @@
         "college": "NTEC",
         "dept": "Apparel",
         "results": {
-            "L1T2": 3.26
+            "L1T2": 3.26,
+            "L2T1": 2.69
         },
         "retakes": [],
-        "cgpa": 3.2
+        "cgpa": 3.05
     },
     "24080401007": {
         "name": "FARHAD HOSSAIN",
@@ -37075,10 +37166,11 @@
         "dept": "Apparel",
         "results": {
             "L1T2": 2.69,
-            "LXTX": 2.69
+            "LXTX": 2.69,
+            "L2T1": 2.58
         },
         "retakes": [],
-        "cgpa": 2.66
+        "cgpa": 2.65
     },
     "24080401008": {
         "name": "MD. JAHID HASAN",
@@ -37087,10 +37179,11 @@
         "dept": "Apparel",
         "results": {
             "L1T2": 3.14,
-            "LXTX": 3.14
+            "LXTX": 3.14,
+            "L2T1": 2.37
         },
         "retakes": [],
-        "cgpa": 3.13
+        "cgpa": 2.94
     },
     "24080401010": {
         "name": "MD. MOSTAFIZUR ROHMAN",
@@ -37099,10 +37192,11 @@
         "dept": "Apparel",
         "results": {
             "L1T2": 2.74,
-            "LXTX": 2.74
+            "LXTX": 2.74,
+            "L2T1": 2.43
         },
         "retakes": [],
-        "cgpa": 2.82
+        "cgpa": 2.7
     },
     "24080401011": {
         "name": "MD. SAZZADUL ISLAM",
@@ -37111,10 +37205,11 @@
         "dept": "Apparel",
         "results": {
             "L1T2": 3.1,
-            "LXTX": 3.1
+            "LXTX": 3.1,
+            "L2T1": 2.45
         },
         "retakes": [],
-        "cgpa": 3.02
+        "cgpa": 2.84
     },
     "24080401012": {
         "name": "MD.HASAN",
@@ -37123,10 +37218,11 @@
         "dept": "Apparel",
         "results": {
             "L1T2": 2.7,
-            "LXTX": 2.7
+            "LXTX": 2.7,
+            "L2T1": 2.72
         },
         "retakes": [],
-        "cgpa": 2.77
+        "cgpa": 2.78
     },
     "24080401013": {
         "name": "NASRIN AKTER NIPA",
@@ -37134,10 +37230,11 @@
         "college": "NTEC",
         "dept": "Apparel",
         "results": {
-            "L1T2": 2.8
+            "L1T2": 2.8,
+            "L2T1": 2.66
         },
         "retakes": [],
-        "cgpa": 2.88
+        "cgpa": 2.81
     },
     "24080401014": {
         "name": "MD. BADAL HOSSAIN",
@@ -37146,10 +37243,11 @@
         "dept": "Apparel",
         "results": {
             "L1T2": 2.65,
-            "LXTX": 2.65
+            "LXTX": 2.65,
+            "L2T1": 2.4
         },
         "retakes": [],
-        "cgpa": 2.65
+        "cgpa": 2.59
     },
     "24080401015": {
         "name": "MD.SUMON",
@@ -37157,10 +37255,11 @@
         "college": "NTEC",
         "dept": "Apparel",
         "results": {
-            "L1T2": 2.57
+            "L1T2": 2.57,
+            "L2T1": 2.39
         },
         "retakes": [],
-        "cgpa": 2.56
+        "cgpa": 2.52
     },
     "24080401016": {
         "name": "MD. SHEIK JUWEL",
@@ -37169,10 +37268,11 @@
         "dept": "Apparel",
         "results": {
             "L1T2": 2.86,
-            "LXTX": 2.86
+            "LXTX": 2.86,
+            "L2T1": 2.63
         },
         "retakes": [],
-        "cgpa": 2.84
+        "cgpa": 2.78
     },
     "24080401017": {
         "name": "SAJEEB CHANDRA ROY",
@@ -37181,10 +37281,11 @@
         "dept": "Apparel",
         "results": {
             "L1T2": 3.18,
-            "LXTX": 3.18
+            "LXTX": 3.18,
+            "L2T1": 2.75
         },
         "retakes": [],
-        "cgpa": 3.02
+        "cgpa": 2.8
     },
     "24080401020": {
         "name": "MD. NAHID HASAN",
@@ -37193,10 +37294,11 @@
         "dept": "Apparel",
         "results": {
             "L1T2": 2.83,
-            "LXTX": 2.83
+            "LXTX": 2.83,
+            "L2T1": 2.44
         },
         "retakes": [],
-        "cgpa": 2.67
+        "cgpa": 2.62
     },
     "24080401022": {
         "name": "MD. BIPLOB HOSSEN",
@@ -37205,10 +37307,11 @@
         "dept": "Apparel",
         "results": {
             "L1T2": 2.63,
-            "LXTX": 2.63
+            "LXTX": 2.63,
+            "L2T1": 2.46
         },
         "retakes": [],
-        "cgpa": 2.69
+        "cgpa": 2.61
     },
     "24080401025": {
         "name": "OMARFARUQUE",
@@ -37217,10 +37320,11 @@
         "dept": "Apparel",
         "results": {
             "L1T2": 2.42,
-            "LXTX": 2.42
+            "LXTX": 2.42,
+            "L2T1": 2.23
         },
         "retakes": [],
-        "cgpa": 2.46
+        "cgpa": 2.39
     },
     "24080401028": {
         "name": "MD. ANOWA R HOS SEN",
@@ -37251,7 +37355,8 @@
         "college": "NTEC",
         "dept": "Apparel",
         "results": {
-            "L1T2": 2.66
+            "L1T2": 2.66,
+            "L2T1": 2.64
         },
         "retakes": [],
         "cgpa": 2.64
@@ -37349,9 +37454,10 @@
         "college": "TTEC",
         "dept": "Yarn",
         "results": {
-            "LXTX": 2.89
+            "LXTX": 2.89,
+            "L2T1": 2.55
         },
-        "cgpa": 2.77
+        "cgpa": 2.69
     },
     "24070201004": {
         "name": "MD. ZOBAYER HASAN LEMOM",
@@ -59882,5 +59988,75 @@
             "LXTX": 3.72
         },
         "cgpa": 3.17
+    },
+    "24070201025": {
+        "name": "MD. SAIDUR RAHMAN",
+        "batch": "24",
+        "college": "TTEC",
+        "dept": "Fabric",
+        "results": {
+            "L2T1": 2.97
+        },
+        "cgpa": 2.82
+    },
+    "24070301002": {
+        "name": "MITHOON CHANDRA",
+        "batch": "24",
+        "college": "TTEC",
+        "dept": "Wet Process",
+        "results": {
+            "L2T1": 2.76
+        },
+        "cgpa": 2.61
+    },
+    "24070301003": {
+        "name": "MOHAMMAD RIDUANUL",
+        "batch": "24",
+        "college": "TTEC",
+        "dept": "Wet Process",
+        "results": {
+            "L2T1": 2.8
+        },
+        "cgpa": 2.74
+    },
+    "24070301007": {
+        "name": "MDMOULA HOSEN SHOVAN",
+        "batch": "24",
+        "college": "TTEC",
+        "dept": "Wet Process",
+        "results": {
+            "L2T1": 3.35
+        },
+        "cgpa": 3.22
+    },
+    "24070301017": {
+        "name": "MD. ALOMGIR HOSSAIN KHAN",
+        "batch": "24",
+        "college": "TTEC",
+        "dept": "Wet Process",
+        "results": {
+            "L2T1": 2.96
+        },
+        "cgpa": 2.81
+    },
+    "23070301031": {
+        "name": "MD. MEHEDY HASAN SHAON",
+        "batch": "23",
+        "college": "TTEC",
+        "dept": "Wet Process",
+        "results": {
+            "L2T1": 2.63
+        },
+        "cgpa": 2.58
+    },
+    "24070401007": {
+        "name": "MD. MUJAHID HASAN PLABON",
+        "batch": "24",
+        "college": "TTEC",
+        "dept": "Apparel",
+        "results": {
+            "L2T1": 2.75
+        },
+        "cgpa": 2.81
     }
 }
