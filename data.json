@@ -36752,10 +36752,11 @@
         "dept": "Apparel",
         "results": {
             "L1T2": 3.11,
-            "LXTX": 3.11
+            "LXTX": 3.11,
+            "L2T1": 2.97
         },
         "retakes": [],
-        "cgpa": 3.01
+        "cgpa": 3.0
     },
     "24070401027": {
         "name": "MD. ROMAN MIA",
